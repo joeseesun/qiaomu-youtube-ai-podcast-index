@@ -1,0 +1,253 @@
+{
+  "podcastId": "cognitive-revolution",
+  "podcastTitle": "The Cognitive Revolution",
+  "fetchedAt": "2026-07-02T16:23:12.624Z",
+  "sourceRss": "https://feeds.megaphone.fm/RINTP3108857801",
+  "episodes": [
+    {
+      "id": "2026-07-01-1000-designs-a-day-neural-concepts-thomas-von-tschammer-on-ai-native-engineering",
+      "title": "1000 Designs a Day: Neural Concept's Thomas von Tschammer on AI-Native Engineering",
+      "publishedAt": "2026-07-01T09:29:52.000Z",
+      "duration": "5362",
+      "episodeUrl": "https://www.cognitiverevolution.ai/1000-designs-a-day-neural-concept-s-thomas-von-tschammer-on-ai-native-engineering/",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP7695804004.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Thomas von Tschammer, co-founder and Managing Director US of Neural Concept, argues that physics-aware AI is driving a third revolution in engineering physical products. Neural Concept’s models learn from simulation and test data to evaluate 3D designs in minutes, helping Jaguar Land Rover move from about 50 external-aerodynamics evaluations per day to 1,500 and enabling battery cool-plate suppliers to cut development cycles while improving performance. The episode explains why AI is not replacing numerical simulation, but shifting it later in the process while expanding early design exploration across automotive, Formula 1, and manufacturing workflows. The stakes are competitive: companies that make engineering iterations AI-led can compress development cycles, while legacy OEMs risk falling further behind faster-moving Chinese and digital-native hardware competitors. For full show note",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/cognitive-revolution/2026-07-01-1000-designs-a-day-neural-concepts-thomas-von-tschammer-on-ai-native-engineering.md",
+        "localUrl": "/content/transcripts/cognitive-revolution/2026-07-01-1000-designs-a-day-neural-concepts-thomas-von-tschammer-on-ai-native-engineering.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/cognitive-revolution/2026-07-01-1000-designs-a-day-neural-concepts-thomas-von-tschammer-on-ai-native-engineering.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/cognitive-revolution/2026-07-01-1000-designs-a-day-neural-concepts-thomas-von-tschammer-on-ai-native-engineering.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/cognitive-revolution/2026-07-01-1000-designs-a-day-neural-concepts-thomas-von-tschammer-on-ai-native-engineering.md",
+        "localUrl": "/content/summaries/cognitive-revolution/2026-07-01-1000-designs-a-day-neural-concepts-thomas-von-tschammer-on-ai-native-engineering.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "一天 1000 个设计：Neural Concept 的 Thomas von Tschammer 谈 AI 原生工程",
+      "descriptionZh": "Thomas von Tschammer 是 Neural Concept 联合创始人兼美国区总经理，他认为具备物理感知的 AI 正在推动工程设计的第三次革命。节目讲到模型如何结合仿真与测试数据，在几分钟内评估 3D 设计，并帮助 Jaguar Land Rover 将外部空气动力学评估提升到每天 1500 次。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:01.060Z"
+      }
+    },
+    {
+      "id": "2026-06-27-aiam-4-cameron-on-model-consciousness-duvenauds-gradual-disempowerment-swyxs-ai-eng-a",
+      "title": "AI:AM #4: Cameron on Model Consciousness, Duvenaud's Gradual Disempowerment, swyx's AI-Eng Alpha",
+      "publishedAt": "2026-06-27T13:47:07.000Z",
+      "duration": "6982",
+      "episodeUrl": "https://www.cognitiverevolution.ai/ai-am-4-cameron-on-model-consciousness-duvenaud-s-gradual-disempowerment-swyx-s-ai-eng-alpha/",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP4892253257.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This AI:AM highlights cut brings together Cameron Berg, David Duvenaud, Michiel Bakker, Shawn “swyx” Wang, and Bing Xu to examine what we understand about frontier AI systems and what happens as more decisions move into their hands. Berg grounds model-consciousness debates in experiments on architecture, agency, valence, and welfare, while Duvenaud argues that even well-aligned AI could gradually disempower humans through ordinary economic choices. Bakker frames Europe’s AI challenge as a sovereignty problem, and swyx turns to practitioner stakes around agents, evals, maintainable code, and who owns the system of record. Xu closes the loop at the infrastructure layer, arguing that self-improving compute and GPU-kernel automation may deepen rather than weaken the CUDA moat. For full show notes, links, and references, read the episode page: https://www.cognitiverevolution.ai/ai-am-4-camero",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/cognitive-revolution/2026-06-27-aiam-4-cameron-on-model-consciousness-duvenauds-gradual-disempowerment-swyxs-ai-eng-a.md",
+        "localUrl": "/content/transcripts/cognitive-revolution/2026-06-27-aiam-4-cameron-on-model-consciousness-duvenauds-gradual-disempowerment-swyxs-ai-eng-a.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/cognitive-revolution/2026-06-27-aiam-4-cameron-on-model-consciousness-duvenauds-gradual-disempowerment-swyxs-ai-eng-a.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/cognitive-revolution/2026-06-27-aiam-4-cameron-on-model-consciousness-duvenauds-gradual-disempowerment-swyxs-ai-eng-a.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/cognitive-revolution/2026-06-27-aiam-4-cameron-on-model-consciousness-duvenauds-gradual-disempowerment-swyxs-ai-eng-a.md",
+        "localUrl": "/content/summaries/cognitive-revolution/2026-06-27-aiam-4-cameron-on-model-consciousness-duvenauds-gradual-disempowerment-swyxs-ai-eng-a.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "AI:AM #4：Cameron 谈模型意识、Duvenaud 的渐进式失权与 swyx 的 AI 工程 Alpha",
+      "descriptionZh": "本期 AI:AM 片段汇集 Cameron Berg、David Duvenaud、Michiel Bakker、Shawn “swyx” Wang 和 Bing Xu，讨论前沿 AI 系统的理解边界及其承担更多决策后的影响。内容涵盖模型意识、AI 通过日常经济选择逐步削弱人类主导权、欧洲 AI 主权困境，以及 agents、evals、可维护代码和 CUDA moat。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:01.061Z"
+      }
+    },
+    {
+      "id": "2026-06-23-the-god-we-deserve-nonzeros-robert-wright-on-ai-as-humanitys-ultimate-test",
+      "title": "The God We Deserve: Nonzero's Robert Wright on AI as Humanity's Ultimate Test",
+      "publishedAt": "2026-06-23T15:47:47.000Z",
+      "duration": "8980",
+      "episodeUrl": "https://www.cognitiverevolution.ai/the-god-we-deserve-nonzero-s-robert-wright-on-ai-as-humanity-s-ultimate-test/",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP3427511350.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Robert Wright of Nonzero joins Nathan to discuss The God Test, his argument that AI is humanity’s “God test” rather than just a technical challenge. They explore his evolutionary lens on deep learning, from training as selection to marketplace selection among models that may reward selectively honest, power-sensing, or deceptive agents. Wright connects those risks to the noosphere, US-China relations, cognitive empathy, and whether global coordination arrives deliberately or through a coercive singleton. The stakes are whether consumers, companies, and governments select for AIs that strengthen non-zero-sum cooperation or race toward systems that reflect and amplify our worst incentives. For full show notes, links, and references, read the episode page: https://www.cognitiverevolution.ai/the-god-we-deserve-nonzero-s-robert-wright-on-ai-as-humanity-s-ultimate-test/ Mercury: Command is Mer",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/cognitive-revolution/2026-06-23-the-god-we-deserve-nonzeros-robert-wright-on-ai-as-humanitys-ultimate-test.md",
+        "localUrl": "/content/transcripts/cognitive-revolution/2026-06-23-the-god-we-deserve-nonzeros-robert-wright-on-ai-as-humanitys-ultimate-test.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/cognitive-revolution/2026-06-23-the-god-we-deserve-nonzeros-robert-wright-on-ai-as-humanitys-ultimate-test.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/cognitive-revolution/2026-06-23-the-god-we-deserve-nonzeros-robert-wright-on-ai-as-humanitys-ultimate-test.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/cognitive-revolution/2026-06-23-the-god-we-deserve-nonzeros-robert-wright-on-ai-as-humanitys-ultimate-test.md",
+        "localUrl": "/content/summaries/cognitive-revolution/2026-06-23-the-god-we-deserve-nonzeros-robert-wright-on-ai-as-humanitys-ultimate-test.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "我们应得的神：Nonzero 的 Robert Wright 谈 AI 作为人类终极考验",
+      "descriptionZh": "Robert Wright 做客节目，围绕《The God Test》展开讨论，认为 AI 不是单纯的技术难题，而是人类的“神之考验”。他从进化视角解读深度学习，分析训练与市场选择可能如何奖励诚实、感知权力或欺骗性的模型，并延伸到 noosphere、美中关系、认知共情与全球协调的路径。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:06.947Z"
+      }
+    },
+    {
+      "id": "2026-06-21-aiam-3-zvi-on-fable-the-cases-for-against-the-ban-ai-for-math-logistics-more",
+      "title": "AI:AM #3: Zvi on Fable, the Cases For & Against the Ban, + AI for Math, Logistics & More",
+      "publishedAt": "2026-06-21T13:17:51.000Z",
+      "duration": "8092",
+      "episodeUrl": "https://www.cognitiverevolution.ai/ai-am-3-zvi-on-fable-the-cases-for-against-the-ban-ai-for-math-logistics-more/",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP3805779066.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Zvi Mowshowitz joins AI in the AM to unpack Anthropic's Fable system card, including its FrontierMath leap, troubling Vending-Bench behavior, decision-theory drift, and signs that model reasoning may be becoming harder to read. The episode then turns to the US government's attempted export-control action against Fable, with Zvi arguing that the cited jailbreak demonstration did not prove the claimed threat while still faulting Anthropic's political handling. Sam Hammond and Judd Rosenblatt add competing reads on state capacity, CAISI, NSA-driven caution, and the alignment world's failure to build trust across partisan lines. The stakes are whether frontier AI capability, safety evaluation, and government power can be coordinated before medicine, mathematics, software, and cyber-relevant systems move further ahead. For full show notes, links, and references, read the episode page: https:/",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/cognitive-revolution/2026-06-21-aiam-3-zvi-on-fable-the-cases-for-against-the-ban-ai-for-math-logistics-more.md",
+        "localUrl": "/content/transcripts/cognitive-revolution/2026-06-21-aiam-3-zvi-on-fable-the-cases-for-against-the-ban-ai-for-math-logistics-more.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/cognitive-revolution/2026-06-21-aiam-3-zvi-on-fable-the-cases-for-against-the-ban-ai-for-math-logistics-more.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/cognitive-revolution/2026-06-21-aiam-3-zvi-on-fable-the-cases-for-against-the-ban-ai-for-math-logistics-more.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/cognitive-revolution/2026-06-21-aiam-3-zvi-on-fable-the-cases-for-against-the-ban-ai-for-math-logistics-more.md",
+        "localUrl": "/content/summaries/cognitive-revolution/2026-06-21-aiam-3-zvi-on-fable-the-cases-for-against-the-ban-ai-for-math-logistics-more.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "AI:AM 第 3 期：Zvi 谈 Fable、禁令的支持与反对，以及 AI 在数学、物流等领域的应用",
+      "descriptionZh": "Zvi Mowshowitz 加入 AI in the AM，解析 Anthropic 的 Fable 系统卡，涵盖 FrontierMath 突破、Vending-Bench 令人担忧的表现、决策理论漂移，以及模型推理是否越来越难以解读。随后讨论美国政府试图对 Fable 采取出口管制，以及 Anthropic 的政治处理、国家能力、CAISI、NSA 的审慎立场与对齐领域的信任问题。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:06.947Z"
+      }
+    },
+    {
+      "id": "2026-06-20-dean-ball-on-joining-openai-new-power-centers-frontier-ai-policy-main-character-energ",
+      "title": "Dean Ball, on Joining OpenAI: New Power Centers, Frontier AI Policy, & Main Character Energy",
+      "publishedAt": "2026-06-20T09:58:27.000Z",
+      "duration": "9543",
+      "episodeUrl": "https://www.cognitiverevolution.ai/dean-ball-on-joining-openai-new-power-centers-frontier-ai-policy-main-character-energy/",
+      "audioUrl": "https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP7383161547.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Dean Ball, author of Hyperdimensional and until now a senior fellow at the Foundation for American Innovation, joins Nathan to announce he is joining OpenAI to build a team focused on frontier AI policy. They examine the first year of America’s AI Action Plan, Dean’s concerns about export controls and intelligence-community testing, and his broader argument against concentrating frontier AI decisions inside a small circle of government officials. The episode frames frontier labs as emerging centers of political and economic power, where consequential choices about internal deployments and recursive self-improvement may happen before public release or regulation. The stakes are who gets to shape AI governance as capabilities accelerate: federal agencies, states, labs, independent verifiers, households, or some fragile mix of them all. For full show notes, links, and references, read the e",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/cognitive-revolution/2026-06-20-dean-ball-on-joining-openai-new-power-centers-frontier-ai-policy-main-character-energ.md",
+        "localUrl": "/content/transcripts/cognitive-revolution/2026-06-20-dean-ball-on-joining-openai-new-power-centers-frontier-ai-policy-main-character-energ.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/cognitive-revolution/2026-06-20-dean-ball-on-joining-openai-new-power-centers-frontier-ai-policy-main-character-energ.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/cognitive-revolution/2026-06-20-dean-ball-on-joining-openai-new-power-centers-frontier-ai-policy-main-character-energ.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/cognitive-revolution/2026-06-20-dean-ball-on-joining-openai-new-power-centers-frontier-ai-policy-main-character-energ.md",
+        "localUrl": "/content/summaries/cognitive-revolution/2026-06-20-dean-ball-on-joining-openai-new-power-centers-frontier-ai-policy-main-character-energ.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "Dean Ball 谈加入 OpenAI：新的权力中心、前沿 AI 政策与“主角感”",
+      "descriptionZh": "Dean Ball 现为 Hyperdimensional 作者、原 American Innovation Foundation 高级研究员，本期宣布加入 OpenAI，组建聚焦前沿 AI 政策的团队。节目讨论美国 AI 行动计划第一年、出口管制与情报界测试的争议，以及不应把前沿 AI 决策集中在少数政府官员手中的观点。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:12.643Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "podcastId": "this-day-in-ai",
+  "podcastTitle": "This Day in AI",
+  "fetchedAt": "2026-07-02T16:24:05.548Z",
+  "sourceRss": "https://feeds.transistor.fm/this-day-in-ai",
+  "episodes": [
+    {
+      "id": "2026-05-08-is-gpt-55-better-than-opus-now-ft-our-new-ai-co-host-ep9938",
+      "title": "Is GPT-5.5 Better Than Opus Now? (ft. Our New AI Co-Host) - EP99.38",
+      "publishedAt": "2026-05-08T06:49:23.000Z",
+      "duration": "2817",
+      "episodeUrl": "https://share.transistor.fm/s/120eef4f",
+      "audioUrl": "https://media.transistor.fm/120eef4f/791708c7.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Join Simtheory: https://simtheory.ai So Chris, this week we finally give our GPT-5.5 impressions (it's actually great), introduce our new AI co-host Moshi (who immediately embarrasses himself), argue about whether the OpenAI/Jony Ive phone is genius or doomed, witness Grok 4.3's unhinged infinite emoji meltdown, declare Opus 4.7 the first-ever Anthropic regression, get excited about GPT Real-Time Voice 2.0 as the future of agentic workflows, debate whether token prices will ever come down, and play the worst diss track in show history. Watch my spud. CHAPTERS: 0:00 - Intro & Introducing Our New AI Co-Host Moshi 1:39 - Trying to Break Moshi: The Illegal Cigarette Trade Test 2:30 - OpenAI's Jony Ive Phone: Do We Need a Device? 5:07 - Telegram Agents & GPT Real-Time Voice 2.0 Dream 7:38 - The Supervisory Agent: Managing Your Agentic Workflow 9:05 - Wait... Are We Accidentally Validating the",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/this-day-in-ai/2026-05-08-is-gpt-55-better-than-opus-now-ft-our-new-ai-co-host-ep9938.md",
+        "localUrl": "/content/transcripts/this-day-in-ai/2026-05-08-is-gpt-55-better-than-opus-now-ft-our-new-ai-co-host-ep9938.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/this-day-in-ai/2026-05-08-is-gpt-55-better-than-opus-now-ft-our-new-ai-co-host-ep9938.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/this-day-in-ai/2026-05-08-is-gpt-55-better-than-opus-now-ft-our-new-ai-co-host-ep9938.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "GPT-5.5 现在比 Opus 更强了吗？（附新 AI 联合主持人）- EP99.38",
+      "descriptionZh": "本期 Chris 和 Mike 终于聊了 GPT-5.5 的真实体验，介绍新 AI 联合主持人 Moshi，并讨论 OpenAI/Jony Ive 手机是否靠谱、Grok 4.3 的异常表情包风暴、Opus 4.7 是否算 Anthropic 退步，以及 GPT Real-Time Voice 2.0、token 价格和最糟 diss track。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:33.178Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/this-day-in-ai/2026-05-08-is-gpt-55-better-than-opus-now-ft-our-new-ai-co-host-ep9938.md",
+        "localUrl": "/content/summaries/this-day-in-ai/2026-05-08-is-gpt-55-better-than-opus-now-ft-our-new-ai-co-host-ep9938.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-04-24-we-committed-fraud-with-openais-new-image-model-and-called-mum-ep9938",
+      "title": "We Committed Fraud with OpenAI's New Image Model (and Called Mum) - EP99.38",
+      "publishedAt": "2026-04-24T02:57:15.000Z",
+      "duration": "5695",
+      "episodeUrl": "https://share.transistor.fm/s/5d35187f",
+      "audioUrl": "https://media.transistor.fm/5d35187f/9cba6827.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Join Simtheory: https://simtheory.ai So Chris, this week... a LOT has happened. We're back to regular programming (maybe), and back with our average takes. Nothing's changed. GPT-5.5 just dropped today - but you can't even use it in the API. Vaporware? OpenAI is charging MORE than Opus 4.7 and we haven't even tested it yet. Meanwhile Claude Opus 4.7 landed a couple weeks ago and... the vibes are off? Mike's actually going BACK to 4.6. Something's wrong. But the real star: OpenAI Image 2. This thing is genuinely terrifying. We committed what can only be described as \"parody fraud\" - faking a council letter so realistic Mike's own mother fell for it on a phone call. Then Chris posted a fake development approval with the mayor's real name into a local Facebook group and had to delete it when someone tagged the actual mayor. The forgery capabilities are absolutely unhinged. Also: GLM 5.1 is ",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/this-day-in-ai/2026-04-24-we-committed-fraud-with-openais-new-image-model-and-called-mum-ep9938.md",
+        "localUrl": "/content/transcripts/this-day-in-ai/2026-04-24-we-committed-fraud-with-openais-new-image-model-and-called-mum-ep9938.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/this-day-in-ai/2026-04-24-we-committed-fraud-with-openais-new-image-model-and-called-mum-ep9938.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/this-day-in-ai/2026-04-24-we-committed-fraud-with-openais-new-image-model-and-called-mum-ep9938.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "我们用 OpenAI 的新图像模型搞了“伪造诈骗”，还给妈妈打了电话 - EP99.38",
+      "descriptionZh": "本期聊 GPT-5.5 刚发布却还不能用于 API、OpenAI 竟比 Opus 4.7 更贵，以及 Claude Opus 4.7 的表现变化。重点是 OpenAI Image 2 的惊人伪造能力：他们做出足以骗过母亲和地方群组的假文件，测试过程离谱又好笑。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:33.178Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/this-day-in-ai/2026-04-24-we-committed-fraud-with-openais-new-image-model-and-called-mum-ep9938.md",
+        "localUrl": "/content/summaries/this-day-in-ai/2026-04-24-we-committed-fraud-with-openais-new-image-model-and-called-mum-ep9938.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-03-06-we-built-microsoft-teams-in-23-minutes-and-you-can-use-it-gpt-54-impressions-ep9937",
+      "title": "We Built Microsoft Teams in 23 Minutes (And You Can Use It) & GPT 5.4 Impressions - EP99.37",
+      "publishedAt": "2026-03-06T01:30:32.000Z",
+      "duration": "4090",
+      "episodeUrl": "https://share.transistor.fm/s/aedd8c17",
+      "audioUrl": "https://media.transistor.fm/aedd8c17/d5baaa87.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Join us on the STILL RELEVANT tour: https://simulationtheory.ai/16c0d1db-a8d0-4ac9-bae3-d25074589a80 Join Simtheory: https://simtheory.ai 🚀 Try our AI-built apps: Macrosoft Teams: teams.simtheoryapp.com (working video chat with up to 150 people) Trallo: trallo.simtheoryapp.com (full Trello clone, unlimited boards, completely free) TDIA Discord: https://discord.gg/gTW4RkAJvn Spotify Songs: https://open.spotify.com/artist/28PU4ypB18QZTotml8tMDq?si=Zh4jgHIASI2ZvsXVfVcCoA So Chris, this week... we've been having way too much fun with the AI again. OpenAI just dropped GPT-5.4 and 5.4 Pro, and holy shit - we finally have a ball game. This might be the first OpenAI model that genuinely competes with Opus 4.6 for agentic work. But here's where it gets wild: we rebuilt Trello AND Microsoft Teams from scratch using single prompts. Not mockups. Fully deployed, working apps with authentication, vid",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/this-day-in-ai/2026-03-06-we-built-microsoft-teams-in-23-minutes-and-you-can-use-it-gpt-54-impressions-ep9937.md",
+        "localUrl": "/content/transcripts/this-day-in-ai/2026-03-06-we-built-microsoft-teams-in-23-minutes-and-you-can-use-it-gpt-54-impressions-ep9937.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/this-day-in-ai/2026-03-06-we-built-microsoft-teams-in-23-minutes-and-you-can-use-it-gpt-54-impressions-ep9937.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/this-day-in-ai/2026-03-06-we-built-microsoft-teams-in-23-minutes-and-you-can-use-it-gpt-54-impressions-ep9937.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "我们用 23 分钟造出了 Microsoft Teams（而且你现在就能用）｜GPT 5.4 体验｜EP99.37",
+      "descriptionZh": "本期聊 OpenAI 新发布的 GPT-5.4 和 5.4 Pro，以及它是否真能在 agentic 工作上对标 Opus 4.6。主播还演示了用单条提示从零重建 Trello 和 Microsoft Teams，做出可用的身份验证、视频聊天等完整应用。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:41.756Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/this-day-in-ai/2026-03-06-we-built-microsoft-teams-in-23-minutes-and-you-can-use-it-gpt-54-impressions-ep9937.md",
+        "localUrl": "/content/summaries/this-day-in-ai/2026-03-06-we-built-microsoft-teams-in-23-minutes-and-you-can-use-it-gpt-54-impressions-ep9937.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-02-27-nano-banana-2-is-here-gemini-3-shutdown-the-ai-layoff-myth-ep9936",
+      "title": "Nano Banana 2 is Here! Gemini-3 Shutdown & The AI Layoff Myth | EP99.36",
+      "publishedAt": "2026-02-27T05:01:58.000Z",
+      "duration": "3729",
+      "episodeUrl": "https://share.transistor.fm/s/f5de1415",
+      "audioUrl": "https://media.transistor.fm/f5de1415/a153dd7d.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Join us on the STILL RELEVANT tour: https://simulationtheory.ai/16c0d1db-a8d0-4ac9-bae3-d25074589a80 Join Simtheory: https://simtheory.ai TDIA Discord: https://discord.gg/gTW4RkAJvn Horse Egg Lifecycle Infographic: https://staging.simtheory.ai/share/file/UZ2KJU ---- So Chris, this week... we're diving into Google's new Nano Banana 2 image model - 50% cheaper and supposedly faster (when the servers aren't melting). We put it through its paces with annotation-based editing, slide generation, and yes, the return of the legendary horse egg experiment. Plus: Google quietly kills Gemini-3 after just a few months (good riddance?), we discuss why the model was \"dead on arrival\" for agentic workflows, and break down the real story behind those massive AI layoff announcements from Block and WiseTech. Spoiler: it's probably not actually about AI. We also get into the current state of the model wars",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/this-day-in-ai/2026-02-27-nano-banana-2-is-here-gemini-3-shutdown-the-ai-layoff-myth-ep9936.md",
+        "localUrl": "/content/transcripts/this-day-in-ai/2026-02-27-nano-banana-2-is-here-gemini-3-shutdown-the-ai-layoff-myth-ep9936.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/this-day-in-ai/2026-02-27-nano-banana-2-is-here-gemini-3-shutdown-the-ai-layoff-myth-ep9936.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/this-day-in-ai/2026-02-27-nano-banana-2-is-here-gemini-3-shutdown-the-ai-layoff-myth-ep9936.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Nano Banana 2 来了！Gemini-3 被关停与 AI 裁员迷思｜EP99.36",
+      "descriptionZh": "本期聚焦 Google 的 Nano Banana 2 图像模型，讨论它更低成本、可能更快的表现，并测试注释式编辑、幻灯片生成和“马蛋实验”。节目还分析 Gemini-3 为何被迅速关停，以及 Block 和 WiseTech 的 AI 裁员消息背后的真实原因。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:41.756Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/this-day-in-ai/2026-02-27-nano-banana-2-is-here-gemini-3-shutdown-the-ai-layoff-myth-ep9936.md",
+        "localUrl": "/content/summaries/this-day-in-ai/2026-02-27-nano-banana-2-is-here-gemini-3-shutdown-the-ai-layoff-myth-ep9936.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-02-20-gemini-31-pro-claude-sonnet-46-the-openclaw-hire-that-killed-the-chatbot-era-ep9935",
+      "title": "Gemini 3.1 Pro, Claude Sonnet 4.6 & The OpenClaw Hire That Killed the Chatbot Era - EP99.35",
+      "publishedAt": "2026-02-20T02:42:09.000Z",
+      "duration": "3486",
+      "episodeUrl": "https://share.transistor.fm/s/6ed59f14",
+      "audioUrl": "https://media.transistor.fm/6ed59f14/57448361.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Join Simtheory: https://simtheory.ai \"Is This The End\" now on Spotify: https://open.spotify.com/album/2Py1MyADUFqJFVUISI2VTP?si=oT3PWyJYRA2BspOmzT_ifg Register for the STILL RELEVANT tour: https://simulationtheory.ai/16c0dationtheory.ai/16c0d1db-a8d0-4ac9-bae3-d25074589a80 Two new models dropped this week — Gemini 3.1 Pro and Claude Sonnet 4.6 — and honestly? We're struggling to care. In this episode, we break down why Gemini went from being our daily driver to a model we barely touch, the \"tunnel vision\" hallucination problem that killed the Gemini 3 series for us, and whether 3.1 Pro actually fixes it. We put Gemini 3.1 Pro head-to-head against Claude Opus building a Geoffrey Hinton Doom Center, debate whether anyone can actually tell the difference between Sonnet 4.5 and 4.6, and make the case that smaller models running in agentic loops are secretly beating the frontiers. Plus: OpenA",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/this-day-in-ai/2026-02-20-gemini-31-pro-claude-sonnet-46-the-openclaw-hire-that-killed-the-chatbot-era-ep9935.md",
+        "localUrl": "/content/transcripts/this-day-in-ai/2026-02-20-gemini-31-pro-claude-sonnet-46-the-openclaw-hire-that-killed-the-chatbot-era-ep9935.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/this-day-in-ai/2026-02-20-gemini-31-pro-claude-sonnet-46-the-openclaw-hire-that-killed-the-chatbot-era-ep9935.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/this-day-in-ai/2026-02-20-gemini-31-pro-claude-sonnet-46-the-openclaw-hire-that-killed-the-chatbot-era-ep9935.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Gemini 3.1 Pro、Claude Sonnet 4.6 与 OpenClaw 的招聘：终结聊天机器人时代的一集 - EP99.35",
+      "descriptionZh": "本期讨论两款新模型 Gemini 3.1 Pro 和 Claude Sonnet 4.6，并解释为什么他们对 Gemini 的关注度下降。节目还分析 Gemini 3 系列的“隧道视野”幻觉问题、3.1 Pro 是否真正修复，以及 Gemini 3.1 Pro 对战 Claude Opus 的表现。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:47.442Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/this-day-in-ai/2026-02-20-gemini-31-pro-claude-sonnet-46-the-openclaw-hire-that-killed-the-chatbot-era-ep9935.md",
+        "localUrl": "/content/summaries/this-day-in-ai/2026-02-20-gemini-31-pro-claude-sonnet-46-the-openclaw-hire-that-killed-the-chatbot-era-ep9935.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

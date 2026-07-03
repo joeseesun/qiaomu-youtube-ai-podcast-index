@@ -1,0 +1,253 @@
+{
+  "podcastId": "the-gradient",
+  "podcastTitle": "The Gradient: Perspectives on AI",
+  "fetchedAt": "2026-07-02T16:23:38.044Z",
+  "sourceRss": "https://api.substack.com/feed/podcast/265424/s/1354.rss",
+  "episodes": [
+    {
+      "id": "2026-01-22-2025-in-ai-with-nathan-benaich",
+      "title": "2025 in AI, with Nathan Benaich",
+      "publishedAt": "2026-01-22T16:30:00.000Z",
+      "duration": "3675",
+      "episodeUrl": "https://thegradientpub.substack.com/p/nathan-benaich-2025",
+      "audioUrl": "https://api.substack.com/feed/podcast/184890183/556849448c1f4ee0eefdeb6131b3f6b7.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Episode 144 Happy New Year! This is one of my favorite episodes of the year — for the fourth time, Nathan Benaich and I did our yearly roundup of AI news and advancements, including selections from this year’s State of AI Report. If you’ve stuck around and continue to listen, I’m really thankful you’re here. I love hearing from you. You can find Nathan and Air Street Press here on Substack and on Twitter , LinkedIn , and his personal site . Check out his writing at press.airstreet.com . Find me on Twitter (or LinkedIn if you want…) for updates on new episodes, and reach me at editor@thegradient.pub for feedback, ideas, guest suggestions. Outline * (00:00) Intro * (00:44) Air Street Capital and Nathan world * Nathan’s path from cancer research and bioinformatics to AI investing * The “evergreen thesis” of AI from niche to ubiquitous * Portfolio highlights: Eleven Labs, Synthesia, Crusoe *",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/the-gradient/2026-01-22-2025-in-ai-with-nathan-benaich.md",
+        "localUrl": "/content/transcripts/the-gradient/2026-01-22-2025-in-ai-with-nathan-benaich.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/the-gradient/2026-01-22-2025-in-ai-with-nathan-benaich.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/the-gradient/2026-01-22-2025-in-ai-with-nathan-benaich.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "与 Nathan Benaich 一起回顾 2025 年 AI",
+      "descriptionZh": "第 144 期，新年快乐！这是我每年最喜欢的节目之一。第四次，我和 Nathan Benaich 一起盘点这一年的 AI 新闻与进展，并选取了今年 State of AI Report 的部分内容。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:26:58.278Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/the-gradient/2026-01-22-2025-in-ai-with-nathan-benaich.md",
+        "localUrl": "/content/summaries/the-gradient/2026-01-22-2025-in-ai-with-nathan-benaich.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2025-11-26-iason-gabriel-value-alignment-and-the-ethics-of-advanced-ai-systems",
+      "title": "Iason Gabriel: Value Alignment and the Ethics of Advanced AI Systems",
+      "publishedAt": "2025-11-26T19:36:07.000Z",
+      "duration": "3519",
+      "episodeUrl": "https://thegradientpub.substack.com/p/iason-gabriel-value-alignment-ethics",
+      "audioUrl": "https://api.substack.com/feed/podcast/179318402/f0ec93d8cdf4d697ff1ae78f3ef73268.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Episode 143 I spoke with Iason Gabriel about: * Value alignment * Technology and worldmaking * How AI systems affect individuals and the social world Iason is a philosopher and Senior Staff Research Scientist at Google DeepMind. His work focuses on the ethics of artificial intelligence, including questions about AI value alignment , distributive justice , language ethics and human rights . You can find him on his website and Twitter /X. Find me on Twitter (or LinkedIn if you want…) for updates, and reach me at editor@thegradient.pub for feedback, ideas, guest suggestions. Outline * (00:00) Intro * (01:18) Iason’s intellectual development * (04:28) Aligning language models with human values, democratic civility and agonism * (08:20) Overlapping consensus, differing norms, procedures for identifying norms * (13:27) Rawls’ theory of justice, the justificatory and stability problems * (19:18",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/the-gradient/2025-11-26-iason-gabriel-value-alignment-and-the-ethics-of-advanced-ai-systems.md",
+        "localUrl": "/content/transcripts/the-gradient/2025-11-26-iason-gabriel-value-alignment-and-the-ethics-of-advanced-ai-systems.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/the-gradient/2025-11-26-iason-gabriel-value-alignment-and-the-ethics-of-advanced-ai-systems.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/the-gradient/2025-11-26-iason-gabriel-value-alignment-and-the-ethics-of-advanced-ai-systems.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Iason Gabriel：价值对齐与高级 AI 系统的伦理",
+      "descriptionZh": "第 143 期，我与 Iason Gabriel 讨论了价值对齐、技术与世界塑造，以及 AI 系统如何影响个体和社会世界。Iason 是 Google DeepMind 的哲学家和高级研究科学家，研究 AI 伦理、分配正义、语言伦理与人权。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:26:58.278Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/the-gradient/2025-11-26-iason-gabriel-value-alignment-and-the-ethics-of-advanced-ai-systems.md",
+        "localUrl": "/content/summaries/the-gradient/2025-11-26-iason-gabriel-value-alignment-and-the-ethics-of-advanced-ai-systems.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2024-12-26-2024-in-ai-with-nathan-benaich",
+      "title": "2024 in AI, with Nathan Benaich",
+      "publishedAt": "2024-12-26T16:30:00.000Z",
+      "duration": "6523",
+      "episodeUrl": "https://thegradientpub.substack.com/p/state-of-ai-2024",
+      "audioUrl": "https://api.substack.com/feed/podcast/153615689/2217602b80c3816a2368f5543e9a31c4.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Episode 142 Happy holidays! This is one of my favorite episodes of the year — for the third time, Nathan Benaich and I did our yearly roundup of all the AI news and advancements you need to know. This includes selections from this year’s State of AI Report, some early takes on o3, a few minutes LARPing as China Guys……… If you’ve stuck around and continue to listen, I’m really thankful you’re here. I love hearing from you. You can find Nathan and Air Street Press here on Substack and on Twitter , LinkedIn , and his personal site . Check out his writing at press.airstreet.com . Find me on Twitter (or LinkedIn if you want…) for updates on new episodes, and reach me at editor@thegradient.pub for feedback, ideas, guest suggestions. Outline * (00:00) Intro * (01:00) o3 and model capabilities + reasoning capabilities * (05:30) Economics of frontier models * (09:24) Air Street’s year and industr",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/the-gradient/2024-12-26-2024-in-ai-with-nathan-benaich.md",
+        "localUrl": "/content/transcripts/the-gradient/2024-12-26-2024-in-ai-with-nathan-benaich.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/the-gradient/2024-12-26-2024-in-ai-with-nathan-benaich.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/the-gradient/2024-12-26-2024-in-ai-with-nathan-benaich.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "与 Nathan Benaich 一起回顾 2024 年 AI",
+      "descriptionZh": "第 142 期，节日快乐！这是我每年最喜欢的节目之一。第三次，我和 Nathan Benaich 一起盘点了你需要了解的 AI 新闻与进展，包括今年 State of AI Report 的部分内容、对 o3 的早期看法，以及几分钟“扮演 China Guys”的趣谈。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:26:58.278Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/the-gradient/2024-12-26-2024-in-ai-with-nathan-benaich.md",
+        "localUrl": "/content/summaries/the-gradient/2024-12-26-2024-in-ai-with-nathan-benaich.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2024-12-12-philip-goff-panpsychism-as-a-theory-of-consciousness",
+      "title": "Philip Goff: Panpsychism as a Theory of Consciousness",
+      "publishedAt": "2024-12-12T16:30:00.000Z",
+      "duration": "3604",
+      "episodeUrl": "https://thegradientpub.substack.com/p/philip-goff-panpsychism",
+      "audioUrl": "https://api.substack.com/feed/podcast/152943720/3fcae7efb8f6e93b5cc8f82f0cedc2d9.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Episode 141 I spoke with Professor Philip Goff about: * What a “post-Galilean” science of consciousness looks like * How panpsychism helps explain consciousness and the hybrid cosmopsychist view Enjoy! Philip Goff is a British author, idealist philosopher, and professor at Durham University whose research focuses on philosophy of mind and consciousness. Specifically, it focuses on how consciousness can be part of the scientific worldview. He is the author of multiple books including Consciousness and Fundamental Reality, Galileo's Error: Foundations for a New Science of Consciousness and Why? The Purpose of the Universe . Find me on Twitter for updates on new episodes, and reach me at editor@thegradient.pub for feedback, ideas, guest suggestions. Subscribe to The Gradient Podcast: Apple Podcasts | Spotify | Pocket Casts | RSS Follow The Gradient on Twitter Outline : * (00:00) Intro * (01",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/the-gradient/2024-12-12-philip-goff-panpsychism-as-a-theory-of-consciousness.md",
+        "localUrl": "/content/transcripts/the-gradient/2024-12-12-philip-goff-panpsychism-as-a-theory-of-consciousness.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/the-gradient/2024-12-12-philip-goff-panpsychism-as-a-theory-of-consciousness.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/the-gradient/2024-12-12-philip-goff-panpsychism-as-a-theory-of-consciousness.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Philip Goff：泛心论作为意识理论",
+      "descriptionZh": "第 141 期，我与 Professor Philip Goff 讨论了什么样的“后伽利略”意识科学图景，以及泛心论如何解释意识和混合宇宙心灵论观点。Philip Goff 是英国作家、唯心主义哲学家、Durham University 教授，研究心灵哲学与意识。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:26:58.278Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/the-gradient/2024-12-12-philip-goff-panpsychism-as-a-theory-of-consciousness.md",
+        "localUrl": "/content/summaries/the-gradient/2024-12-12-philip-goff-panpsychism-as-a-theory-of-consciousness.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2024-11-21-some-changes-at-the-gradient",
+      "title": "Some Changes at The Gradient",
+      "publishedAt": "2024-11-21T16:30:00.000Z",
+      "duration": "2065",
+      "episodeUrl": "https://thegradientpub.substack.com/p/some-changes-at-the-gradient",
+      "audioUrl": "https://api.substack.com/feed/podcast/151954362/fe76a0216db65c2d47bb9d120e4e887b.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Hi everyone! If you’re a new subscriber or listener, welcome. If you’re not new, you’ve probably noticed that things have slowed down from us a bit recently. Hugh Zhang , Andrey Kurenkov and I sat down to recap some of The Gradient’s history, where we are now, and how things will look going forward. To summarize and give some context: The Gradient has been around for around 6 years now – we began as an online magazine, and began producing our own newsletter and podcast about 4 years ago. With a team of volunteers — we take in a bit of money through Substack that we use for subscriptions to tools we need and try to pay ourselves a bit — we’ve been able to keep this going for quite some time. Our team has less bandwidth than we’d like right now (and I’ll admit that at least some of us are running on fumes…) — we’ll be making a few changes: * Magazine : We’re going to be scaling down our ed",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/the-gradient/2024-11-21-some-changes-at-the-gradient.md",
+        "localUrl": "/content/transcripts/the-gradient/2024-11-21-some-changes-at-the-gradient.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/the-gradient/2024-11-21-some-changes-at-the-gradient.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/the-gradient/2024-11-21-some-changes-at-the-gradient.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "The Gradient 的一些变化",
+      "descriptionZh": "如果你是新订阅者或听众，欢迎你；如果不是新来的，你大概已经注意到我们最近更新慢了些。Hugh Zhang、Andrey Kurenkov 和我一起回顾了 The Gradient 的历史、现状，以及接下来内容与运营将如何调整。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:26:58.278Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/the-gradient/2024-11-21-some-changes-at-the-gradient.md",
+        "localUrl": "/content/summaries/the-gradient/2024-11-21-some-changes-at-the-gradient.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

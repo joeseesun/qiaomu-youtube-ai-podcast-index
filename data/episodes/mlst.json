@@ -1,0 +1,253 @@
+{
+  "podcastId": "mlst",
+  "podcastTitle": "Machine Learning Street Talk",
+  "fetchedAt": "2026-07-02T16:23:15.657Z",
+  "sourceRss": "https://anchor.fm/s/1e4a0eac/podcast/rss",
+  "episodes": [
+    {
+      "id": "2026-07-01-the-benchmark-with-no-instructions-arc-agi-3-winning-team",
+      "title": "The Benchmark With No Instructions — ARC-AGI-3 (winning team!)",
+      "publishedAt": "2026-07-01T14:50:26.000Z",
+      "duration": "01:24:34",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/The-Benchmark-With-No-Instructions--ARC-AGI-3-winning-team-e3lh6i9",
+      "audioUrl": "https://traffic.megaphone.fm/APO7661964134.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Tim Scarfe travels to Zurich to sit down with the Tufa Labs ARC-AGI-3 team — founder Benjamin Crouzier, with Jeroen Cottaar, Dries Smit, Stefano Viel and Michal Tesnar — to work out what their leaderboard-topping system does and what the benchmark is really testing.The cut opens on the games: a walkthrough of the Locksmith game, where you read the rules of an unfamiliar world straight from raw frames. ARC-AGI-3 makes ARC interactive and agentic, so the model has to *discover* the goal rather than transduce a static grid. It stays easy for humans and breaks LLMs, and it runs through everything that follows. Dries traces his StochasticGoose preview win — brute force that only searched actions which changed the frame — and why it collapsed once the organisers added action-efficiency scoring and unseen games.Induction and transduction run through the middle of the conversation — how much of ",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/mlst/2026-07-01-the-benchmark-with-no-instructions-arc-agi-3-winning-team.md",
+        "localUrl": "/content/transcripts/mlst/2026-07-01-the-benchmark-with-no-instructions-arc-agi-3-winning-team.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/mlst/2026-07-01-the-benchmark-with-no-instructions-arc-agi-3-winning-team.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/mlst/2026-07-01-the-benchmark-with-no-instructions-arc-agi-3-winning-team.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "没有说明的基准测试——ARC-AGI-3 夺冠团队",
+      "descriptionZh": "Tim Scarfe 前往苏黎世，和 Tufa Labs 的 ARC-AGI-3 团队对谈：创始人 Benjamin Crouzier，以及 Jeroen Cottaar、Dries Smit、Stefano Viel、Michal Tesnar，拆解他们的登顶系统，并讨论这个基准到底在测什么。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:28.046Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/mlst/2026-07-01-the-benchmark-with-no-instructions-arc-agi-3-winning-team.md",
+        "localUrl": "/content/summaries/mlst/2026-07-01-the-benchmark-with-no-instructions-arc-agi-3-winning-team.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-28-the-thermodynamic-ai-computing-chip-thomas-ahle",
+      "title": "The Thermodynamic AI Computing Chip - Thomas Ahle",
+      "publishedAt": "2026-06-28T23:42:53.000Z",
+      "duration": "01:02:59",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/The-Thermodynamic-AI-Computing-Chip---Thomas-Ahle-e3ld781",
+      "audioUrl": "https://anchor.fm/s/1e4a0eac/podcast/play/122116801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426995845-44100-2-b5344ecaafc67.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Thomas Ahle wants Normal Computing to be the Lovable for chip design: type your intent, and a swarm of agents carries it from design through optimisation, formalisation and verification to tape-out. To get there, his team at wrote their own open-source Verilog simulator, 580,000 lines in 43 days, because commercial EDA verifiers run about $10,000 per core and there are no decent open-source compilers to build on. That sets up the question Tim keeps pressing: if an agent can produce a chip design, a proof, or a working program, how do you actually know it is correct? Passing 70% of tests is not the same as being right, and a single fabricated bug can cost a company a fortune. They dig into ProgramBench (rebuild a program from its tests, roughly 0% success), the difference between structure and competence, and the \"understanding debt\" you take on when nobody reads the code. From there: aut",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/mlst/2026-06-28-the-thermodynamic-ai-computing-chip-thomas-ahle.md",
+        "localUrl": "/content/transcripts/mlst/2026-06-28-the-thermodynamic-ai-computing-chip-thomas-ahle.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/mlst/2026-06-28-the-thermodynamic-ai-computing-chip-thomas-ahle.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/mlst/2026-06-28-the-thermodynamic-ai-computing-chip-thomas-ahle.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "热力学 AI 计算芯片——Thomas Ahle",
+      "descriptionZh": "Thomas Ahle 介绍 Normal Computing 如何把芯片设计做成“输入意图、代理协作”的流程，从设计、优化、形式化验证一路走到流片。他们自研开源 Verilog 模拟器，并讨论如何判断模型生成的芯片、证明或程序是否真的正确。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:28.046Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/mlst/2026-06-28-the-thermodynamic-ai-computing-chip-thomas-ahle.md",
+        "localUrl": "/content/summaries/mlst/2026-06-28-the-thermodynamic-ai-computing-chip-thomas-ahle.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-22-he-won-a-nobel-here-for-alphafold-then-he-left-john-jumper",
+      "title": "He won a Nobel here for AlphaFold. Then he left. - John Jumper",
+      "publishedAt": "2026-06-22T22:49:31.000Z",
+      "duration": "00:53:05",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/He-won-a-Nobel-here-for-AlphaFold--Then-he-left----John-Jumper-e3l579p",
+      "audioUrl": "https://traffic.megaphone.fm/APO2063042132.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This episode is sponsored by Notion. Learn more about Notion's Developer Platform today at https://notion.com/mlstProtein folding stalled biology for fifty years. A sequence of amino acids dictates a three-dimensional shape, but reading that shape meant a year and roughly $100,000 of crystallography per structure. Then AlphaFold 2 won CASP14 so decisively the organizers called the problem essentially solved.In this documentary cut, John Jumper, who shared the 2024 Nobel Prize in Chemistry and has since left DeepMind for Anthropic, walks Tim Scarfe through what the system did and, more interestingly, what it did not. The architecture gets a proper dissection: MSAs, the Evoformer, invariant point attention, the FAPE loss, and Jumper's correction of the equivariance story, which ablations valued at roughly 2.5 of 30 GDT points rather than the whole win. He is blunt about the limits. AlphaFo",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/mlst/2026-06-22-he-won-a-nobel-here-for-alphafold-then-he-left-john-jumper.md",
+        "localUrl": "/content/transcripts/mlst/2026-06-22-he-won-a-nobel-here-for-alphafold-then-he-left-john-jumper.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/mlst/2026-06-22-he-won-a-nobel-here-for-alphafold-then-he-left-john-jumper.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/mlst/2026-06-22-he-won-a-nobel-here-for-alphafold-then-he-left-john-jumper.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "他在这里因 AlphaFold 获得诺奖，随后离开了——John Jumper",
+      "descriptionZh": "本期由 Notion 赞助。John Jumper 因 AlphaFold 共享 2024 年诺贝尔化学奖，之后离开 DeepMind 加入 Anthropic。在这版纪录片中，他与 Tim Scarfe 详解 MSA、Evoformer、invariant point attention、FAPE loss 及模型局限，也纠正了关于 equivariance 的常见说法。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:33.412Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/mlst/2026-06-22-he-won-a-nobel-here-for-alphafold-then-he-left-john-jumper.md",
+        "localUrl": "/content/summaries/mlst/2026-06-22-he-won-a-nobel-here-for-alphafold-then-he-left-john-jumper.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-31-when-ai-decides-youre-a-threat-brad-carson",
+      "title": "When AI Decides You're a Threat — Brad Carson",
+      "publishedAt": "2026-05-31T07:18:02.000Z",
+      "duration": "01:20:51",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/When-AI-Decides-Youre-a-Threat--Brad-Carson-e3k4a04",
+      "audioUrl": "https://traffic.megaphone.fm/APO3666479479.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Brad Carson was the Army's General Counsel, served two terms in Congress and was Acting Under Secretary of Defense for Personnel and Readiness. He now heads Americans for Responsible Innovation, the AI-policy advocacy group he co-founded. Keith Duggar spends roughly eighty minutes pushing back. SPONSOR: --- Cyber Fund built the Monastery to help founders ship products that were impossible a year ago. Applications for Batch 1 are now open. Apply now: https://cyber.fund --- Carson's whole case rests on one line: the genie is not out of the bottle. We have pulled dangerous tech back before. Asilomar halted recombinant DNA in 1975, and the West still controls the chips AI runs on. Calling it unstoppable, he says, is the most dangerous idea in the room. Then Keith drags him somewhere darker. A Palantir heat map scores you 0.73 on whether you are a combatant, and a strike follows. The model is",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/mlst/2026-05-31-when-ai-decides-youre-a-threat-brad-carson.md",
+        "localUrl": "/content/transcripts/mlst/2026-05-31-when-ai-decides-youre-a-threat-brad-carson.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/mlst/2026-05-31-when-ai-decides-youre-a-threat-brad-carson.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/mlst/2026-05-31-when-ai-decides-youre-a-threat-brad-carson.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "当 AI 判定你是威胁时——Brad Carson",
+      "descriptionZh": "Brad Carson 曾任美国陆军总顾问、国会议员，并担任国防部人事与战备代理副部长，如今领导其联合创办的 Americans for Responsible Innovation。Keith Duggar 近八十分钟与他激辩 AI 政策、风险与管控，讨论 Asilomar、芯片控制，以及 Palantir 风险评分与自动打击的危险前景。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:33.412Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/mlst/2026-05-31-when-ai-decides-youre-a-threat-brad-carson.md",
+        "localUrl": "/content/summaries/mlst/2026-05-31-when-ai-decides-youre-a-threat-brad-carson.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-21-intelligence-is-collective-not-artificial-prof-michael-i-jordan-uc-berkeley-inria",
+      "title": "Intelligence is collective, not artificial — Prof. Michael I. Jordan (UC Berkeley / Inria)",
+      "publishedAt": "2026-05-21T12:29:21.000Z",
+      "duration": "01:17:09",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/Intelligence-is-collective--not-artificial--Prof--Michael-I--Jordan-UC-Berkeley--Inria-e3jkvil",
+      "audioUrl": "https://traffic.megaphone.fm/APO9545207589.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Michael I. Jordan, described by Science magazine as the most influential computer scientist alive, has never thought of himself as an AI researcher. In this conversation he explains why that distinction matters. SPONSOR: --- Cyber Fund built the Monastery to help founders ship products that were impossible a year ago. Applications for Batch 1 are now open. Apply now: https://cyber.fund --- Jordan trained as a statistician and cognitive scientist, and his career has been spent building machine learning systems that work in the real world: supply chains, commerce, healthcare, and large economic systems. When the field rebranded itself as AI and then AGI, he did not follow. Instead he argues that the framing is wrong. AI is better understood as a collective economic system than as a race to build a disembodied superintelligence. We talk about why AGI is mostly a PR term, what machine learni",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/mlst/2026-05-21-intelligence-is-collective-not-artificial-prof-michael-i-jordan-uc-berkeley-inria.md",
+        "localUrl": "/content/transcripts/mlst/2026-05-21-intelligence-is-collective-not-artificial-prof-michael-i-jordan-uc-berkeley-inria.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/mlst/2026-05-21-intelligence-is-collective-not-artificial-prof-michael-i-jordan-uc-berkeley-inria.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/mlst/2026-05-21-intelligence-is-collective-not-artificial-prof-michael-i-jordan-uc-berkeley-inria.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "智能是集体性的，不是人工的——Michael I. Jordan 教授（UC Berkeley / Inria）",
+      "descriptionZh": "Michael I. Jordan 被《Science》称为在世最有影响力的计算机科学家之一，但他从不把自己视为 AI 研究者。本期他解释这一点为何重要，并谈到机器学习如何服务真实世界，以及 AGI 话语为何更像公关包装而非正确框架。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:38.208Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/mlst/2026-05-21-intelligence-is-collective-not-artificial-prof-michael-i-jordan-uc-berkeley-inria.md",
+        "localUrl": "/content/summaries/mlst/2026-05-21-intelligence-is-collective-not-artificial-prof-michael-i-jordan-uc-berkeley-inria.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "podcastId": "eye-on-ai",
+  "podcastTitle": "Eye on AI",
+  "fetchedAt": "2026-07-02T16:23:21.655Z",
+  "sourceRss": "https://rss.libsyn.com/shows/123267/destinations/727317.xml",
+  "episodes": [
+    {
+      "id": "2026-06-29-how-modern-science-got-consciousness-wrong-from-the-start-philip-goff",
+      "title": "How Modern Science Got Consciousness Wrong From the Start | Philip Goff",
+      "publishedAt": "2026-06-29T13:46:00.000Z",
+      "duration": "01:01:20",
+      "episodeUrl": "https://aneyeonai.libsyn.com/how-modern-science-got-consciousness-wrong-from-the-start-philip-goff",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/CS-359-A_V2.mp3?dest-id=727317",
+      "audioType": "audio/mpeg",
+      "description": "What if consciousness isn't a byproduct of complex brains, but a fundamental feature of reality itself, present, in some rudimentary form, all the way down to electrons and quarks? Philip Goff, a philosopher at Durham University and one of panpsychism's leading contemporary advocates, joins Craig Smith to make that case, arguing that modern science's founding move - separating the mathematical world physics studies from the subjective experience we know only from the inside - solved one problem while quietly creating another we've never resolved. The conversation inevitably turns to AI: could a large language model ever be conscious? Goff's answer is a careful, well-reasoned no, not because he thinks consciousness is magical, but because his framework treats it as something closer to the physical substance of reality than an abstract computation, making him skeptical that anything resemb",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/eye-on-ai/2026-06-29-how-modern-science-got-consciousness-wrong-from-the-start-philip-goff.md",
+        "localUrl": "/content/transcripts/eye-on-ai/2026-06-29-how-modern-science-got-consciousness-wrong-from-the-start-philip-goff.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/eye-on-ai/2026-06-29-how-modern-science-got-consciousness-wrong-from-the-start-philip-goff.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/eye-on-ai/2026-06-29-how-modern-science-got-consciousness-wrong-from-the-start-philip-goff.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "现代科学从一开始就把意识看错了 | Philip Goff",
+      "descriptionZh": "如果意识不是复杂大脑的副产品，而是现实本身的基本属性，甚至以某种初级形式存在于电子和夸克中，会怎样？达勒姆大学哲学家、泛心论代表人物 Philip Goff 与 Craig Smith 讨论现代科学如何把物理的数学世界与主观经验分开，并借机引出 AI：大型语言模型会有意识吗？",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:43.367Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/eye-on-ai/2026-06-29-how-modern-science-got-consciousness-wrong-from-the-start-philip-goff.md",
+        "localUrl": "/content/summaries/eye-on-ai/2026-06-29-how-modern-science-got-consciousness-wrong-from-the-start-philip-goff.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-20-ai-is-reading-15-million-x-rays-a-year-with-no-human-in-the-loop-prashant-warier-qure",
+      "title": "AI Is Reading 15 Million X-Rays a Year With No Human in the Loop | Prashant Warier, Qure.ai",
+      "publishedAt": "2026-06-20T16:30:00.000Z",
+      "duration": "41:35",
+      "episodeUrl": "https://aneyeonai.libsyn.com/ai-is-reading-15-million-x-rays-a-year-with-no-human-in-the-loop-prashant-warier-qureai",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/CS-360-A_V1.mp3?dest-id=727317",
+      "audioType": "audio/mpeg",
+      "description": "Eighty percent of lung cancer cases are diagnosed too late, not because the signals aren't there, but because nobody was looking at the right moment. Prashant Warier, co-founder and CEO of Qure.ai, joins Craig Smith to explain how his company is changing that using a tool most people already encounter: the routine chest X-ray. Cure's Lung Nodule Malignancy Risk Score - validated in the CREATE study - analyzes X-rays people get for unrelated reasons, identifies high-risk nodules, and flags which patients need follow-up CT scans. The result is a detection rate of 54 positive patients out of 100 flagged as high-risk, compared to the 2 out of 100 found by standard CT screening programs. That's not a marginal improvement. That's a different category of outcome. The conversation covers the full landscape of where AI diagnostics actually stands today: the 15 million TB screening X-rays that Cur",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/eye-on-ai/2026-06-20-ai-is-reading-15-million-x-rays-a-year-with-no-human-in-the-loop-prashant-warier-qure.md",
+        "localUrl": "/content/transcripts/eye-on-ai/2026-06-20-ai-is-reading-15-million-x-rays-a-year-with-no-human-in-the-loop-prashant-warier-qure.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/eye-on-ai/2026-06-20-ai-is-reading-15-million-x-rays-a-year-with-no-human-in-the-loop-prashant-warier-qure.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/eye-on-ai/2026-06-20-ai-is-reading-15-million-x-rays-a-year-with-no-human-in-the-loop-prashant-warier-qure.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AI 正在每年解读 1500 万张 X 光片，而且无需人工介入｜Prashant Warier，Qure.ai",
+      "descriptionZh": "Prashant Warier 是 Qure.ai 联合创始人兼 CEO，介绍公司如何用常见的胸部 X 光筛查早期肺癌风险。基于 CREATE 研究验证的 Lung Nodule Malignancy Risk Score 可识别高风险结节并提示复查 CT，阳性检出率远高于传统筛查。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:48.828Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/eye-on-ai/2026-06-20-ai-is-reading-15-million-x-rays-a-year-with-no-human-in-the-loop-prashant-warier-qure.md",
+        "localUrl": "/content/summaries/eye-on-ai/2026-06-20-ai-is-reading-15-million-x-rays-a-year-with-no-human-in-the-loop-prashant-warier-qure.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-18-only-12-of-companies-generate-value-from-ai-heres-what-theyre-doing-sanjeev-vohra-gen",
+      "title": "Only 12% of Companies Generate Value From AI. Here's What They're Doing | Sanjeev Vohra, Genpact",
+      "publishedAt": "2026-06-18T15:52:00.000Z",
+      "duration": "59:09",
+      "episodeUrl": "https://aneyeonai.libsyn.com/only-12-of-companies-generate-value-from-ai-heres-what-theyre-doing-sanjeev-vohra-genpact",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/CS-358-A_V1.mp3?dest-id=727317",
+      "audioType": "audio/mpeg",
+      "description": "Genpact surveyed 500 senior executives to understand why companies are investing in AI but not seeing the value, and what they found was both clarifying and uncomfortable. Sanjeev Vohra, Genpact's Chief Technology and Innovation Officer, joins Craig Smith to share the results: only 12% of companies qualify as genuine AI leaders, meaning they're deploying AI in production environments, generating measurable business outcomes, and have the governance systems in place to actually assess that value. The other 88% are somewhere between experimenting and stalled, and the most common culprit isn't the technology or the C-suite. It's what Vohra and his clients call the \"frozen middle\", the operationally stretched middle managers who are too busy to lead the transformation and too central to the business to be bypassed. The conversation covers the full landscape of what separates leaders from the",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/eye-on-ai/2026-06-18-only-12-of-companies-generate-value-from-ai-heres-what-theyre-doing-sanjeev-vohra-gen.md",
+        "localUrl": "/content/transcripts/eye-on-ai/2026-06-18-only-12-of-companies-generate-value-from-ai-heres-what-theyre-doing-sanjeev-vohra-gen.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/eye-on-ai/2026-06-18-only-12-of-companies-generate-value-from-ai-heres-what-theyre-doing-sanjeev-vohra-gen.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/eye-on-ai/2026-06-18-only-12-of-companies-generate-value-from-ai-heres-what-theyre-doing-sanjeev-vohra-gen.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "只有 12% 的公司真正从 AI 中创造价值：他们做对了什么｜Sanjeev Vohra，Genpact",
+      "descriptionZh": "Genpact 调查 500 位高管后发现，只有 12% 的公司是真正的 AI 领先者，能在生产环境落地、产生可衡量业务结果并建立治理机制。Sanjeev Vohra 解析其余企业卡在何处，以及最常见的瓶颈——“冻结的中层”。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:48.828Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/eye-on-ai/2026-06-18-only-12-of-companies-generate-value-from-ai-heres-what-theyre-doing-sanjeev-vohra-gen.md",
+        "localUrl": "/content/summaries/eye-on-ai/2026-06-18-only-12-of-companies-generate-value-from-ai-heres-what-theyre-doing-sanjeev-vohra-gen.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-16-india-is-becoming-an-architect-of-the-global-ai-order-ivana-bartoletti-of-wipro",
+      "title": "India Is Becoming an Architect of the Global AI Order | Ivana Bartoletti of Wipro",
+      "publishedAt": "2026-06-16T16:25:00.000Z",
+      "duration": "56:23",
+      "episodeUrl": "https://aneyeonai.libsyn.com/india-is-becoming-an-architect-of-the-global-ai-order-ivana-bartoletti-of-wipro",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/CS_-355__LA_V1..mp3?dest-id=727317",
+      "audioType": "audio/mpeg",
+      "description": "The Global AI Summit just happened in New Delhi, and the message from India was clear: this country is no longer just writing code for the rest of the world. It's becoming an architect of the global AI order. Ivana Bartoletti, Chief Privacy and AI Governance Officer at Wipro and Council of Europe advisor, joins Craig Smith to unpack what that shift actually means. Her frame is the sharpest line of the episode: Europe writes the rules, the US writes the checks, and India is writing the code, in 22 languages. But she's careful to add that the AI race isn't just a technical one. It's about institutional capacity, the ability to absorb AI capability and drive it into real applications that serve real people at scale. The conversation ranges across the full landscape of AI's global moment: why companies that announced 100% AI replacement in customer service quietly had to rehire the humans th",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/eye-on-ai/2026-06-16-india-is-becoming-an-architect-of-the-global-ai-order-ivana-bartoletti-of-wipro.md",
+        "localUrl": "/content/transcripts/eye-on-ai/2026-06-16-india-is-becoming-an-architect-of-the-global-ai-order-ivana-bartoletti-of-wipro.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/eye-on-ai/2026-06-16-india-is-becoming-an-architect-of-the-global-ai-order-ivana-bartoletti-of-wipro.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/eye-on-ai/2026-06-16-india-is-becoming-an-architect-of-the-global-ai-order-ivana-bartoletti-of-wipro.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "印度正成为全球 AI 秩序的设计者｜Ivana Bartoletti（Wipro）",
+      "descriptionZh": "印度在新德里举办的 Global AI Summit 传递出明确信号：这个国家不再只是为世界写代码，而是在塑造全球 AI 秩序。Wipro 的首席隐私与 AI 治理官 Ivana Bartoletti 与 Craig Smith 对谈，解析欧洲、美国与印度在 AI 竞争中的不同角色，以及制度能力、应用落地和多语言场景的重要性。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:53.854Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/eye-on-ai/2026-06-16-india-is-becoming-an-architect-of-the-global-ai-order-ivana-bartoletti-of-wipro.md",
+        "localUrl": "/content/summaries/eye-on-ai/2026-06-16-india-is-becoming-an-architect-of-the-global-ai-order-ivana-bartoletti-of-wipro.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-13-the-new-brain-of-the-enterprise-ryan-gavin",
+      "title": "The New BRAIN Of the Enterprise | Ryan Gavin",
+      "publishedAt": "2026-06-13T22:00:00.000Z",
+      "duration": "53:23",
+      "episodeUrl": "https://aneyeonai.libsyn.com/one-company-now-has-more-ai-agents-than-human-employees-ryan-gavin-of-slack",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/VI4CS/prfx.byspotify.com/e/mgln.ai/e/p58841/pscrb.fm/rss/p/traffic.libsyn.com/secure/aneyeonai/CS-352-A_V4.mp3?dest-id=727317",
+      "audioType": "audio/mpeg",
+      "description": "One company now has more AI agents deployed in its organization than it has human employees. Slack's CMO Ryan Gavin dropped that stat into a conversation with Craig Smith, and then immediately identified the secondary problem it creates: when your digital workforce outnumbers your human one, how do employees know which agent to call for which task? That orchestration problem, and the conversational interface that solves it, is what this episode is really about. Gavin describes Slack bot's transformation from a notification tool into what he calls the ChatGPT moment for the enterprise, an AI that doesn't just understand the internet, but understands your business, your team, your customers, and your company's entire conversational history, all the way back to day one. The conversation covers the full arc of what this shift means in practice: a Salesforce executive walking into an unfamili",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/eye-on-ai/2026-06-13-the-new-brain-of-the-enterprise-ryan-gavin.md",
+        "localUrl": "/content/transcripts/eye-on-ai/2026-06-13-the-new-brain-of-the-enterprise-ryan-gavin.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/eye-on-ai/2026-06-13-the-new-brain-of-the-enterprise-ryan-gavin.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/eye-on-ai/2026-06-13-the-new-brain-of-the-enterprise-ryan-gavin.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "企业的新大脑｜Ryan Gavin",
+      "descriptionZh": "Slack CMO Ryan Gavin 与 Craig Smith 讨论企业 AI 代理的快速普及：当数字员工数量超过人类员工，企业该如何协调“找谁办什么事”。他介绍 Slack bot 如何从通知工具进化为企业级 ChatGPT，理解业务、团队、客户与历史对话，推动更自然的工作协作。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:53.854Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/eye-on-ai/2026-06-13-the-new-brain-of-the-enterprise-ryan-gavin.md",
+        "localUrl": "/content/summaries/eye-on-ai/2026-06-13-the-new-brain-of-the-enterprise-ryan-gavin.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

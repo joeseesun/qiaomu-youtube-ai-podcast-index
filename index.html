@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI 播客索引 - YouTube 版 | 向阳乔木</title>
+    <meta name="description" content="面向 AI 学习者、工程师、创业者和产品人整理的 YouTube AI 播客索引。">
+    <meta name="theme-color" content="#f5f1e8">
+    <meta property="og:title" content="AI 播客索引 - YouTube 版">
+    <meta property="og:description" content="收集整理值得长期跟踪的 AI 播客、访谈和 YouTube 频道。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://youtube.qiaomu.ai/">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="https://umami.qiaomu.ai/script.js" data-website-id="3e7eb554-c1be-425b-bad1-ff974fa7fca4" data-domains="youtube.qiaomu.ai"></script>
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="brand-block">
+        <a class="brand-mark" href="/" aria-label="AI 播客索引首页">
+          <svg aria-hidden="true" viewBox="0 0 64 64" focusable="false">
+            <rect x="5.5" y="5.5" width="53" height="53" rx="12.5"/>
+            <path class="brand-play" d="M18 41V24.5c0-3.6 3.9-5.8 7-3.9l13.6 8.2c2.9 1.7 2.9 5.9 0 7.6L25 44.7c-3.1 1.9-7-.4-7-3.7Z"/>
+            <path class="brand-cutout" d="M23.2 37.8V27.7c0-1 .8-1.6 1.7-1.1l8.5 5.1c.8.5.8 1.6 0 2.1l-8.5 5.1c-.9.5-1.7-.1-1.7-1.1Z"/>
+            <path class="brand-wave" d="M43.8 19.2c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v25.6c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V19.2Zm-8.2 2.6c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v20.4c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V21.8Zm-24 5.2c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v10c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V27Z"/>
+            <circle class="brand-dot" cx="49" cy="15" r="4.2"/>
+          </svg>
+        </a>
+        <div>
+          <h1>AI 播客索引</h1>
+        </div>
+      </div>
+      <nav class="site-actions" aria-label="站点操作">
+        <a class="icon-link" href="https://tuijian.qiaomu.ai/" target="_blank" rel="noopener" aria-label="打开乔木推荐" data-tooltip="乔木推荐">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 4h16v14H7l-3 3V4Zm2 2v10.2L6.8 15H18V6H6Zm3 3h6v2H9V9Zm0 4h9v2H9v-2Z"/></svg>
+        </a>
+        <button class="icon-link js-open-modal" type="button" data-modal="reward" aria-label="打赏支持" data-tooltip="打赏">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M20 7h-2.1A3.5 3.5 0 0 0 12 3.4 3.5 3.5 0 0 0 6.1 7H4v5h1v8h14v-8h1V7ZM9.5 5A1.5 1.5 0 0 1 11 6.5V7H8.5A1.5 1.5 0 0 1 9.5 5Zm5 0A1.5 1.5 0 0 1 15.5 7H13v-.5A1.5 1.5 0 0 1 14.5 5ZM6 9h5v1H6V9Zm1 3h4v6H7v-6Zm10 6h-4v-6h4v6Zm1-8h-5V9h5v1Z"/></svg>
+        </button>
+        <button class="icon-link js-open-modal" type="button" data-modal="follow" aria-label="关注向阳乔木" data-tooltip="关注">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3a5 5 0 0 0-5 5v2.3c0 1-.4 2-1.1 2.8L4.6 14.5A1.5 1.5 0 0 0 5.7 17H9a3 3 0 0 0 6 0h3.3a1.5 1.5 0 0 0 1.1-2.5l-1.3-1.4a4.1 4.1 0 0 1-1.1-2.8V8a5 5 0 0 0-5-5Zm0 16a1 1 0 0 1-1-1h2a1 1 0 0 1-1 1Zm-5.2-4 1.1-1.2c.8-.9 1.1-2.1 1.1-3.5V8a3 3 0 1 1 6 0v2.3c0 1.4.4 2.6 1.2 3.6l1.1 1.1H6.8Z"/></svg>
+        </button>
+        <a class="icon-link" href="https://github.com/joeseesun/" target="_blank" rel="noopener" aria-label="打开 GitHub" data-tooltip="GitHub">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-3.2 19.5c.5.1.7-.2.7-.5v-1.8c-2.9.6-3.5-1.2-3.5-1.2-.5-1.1-1.1-1.4-1.1-1.4-.9-.6.1-.6.1-.6 1 .1 1.6 1.1 1.6 1.1.9 1.5 2.4 1.1 3 .8.1-.7.4-1.1.7-1.4-2.3-.3-4.7-1.2-4.7-5A3.9 3.9 0 0 1 6.6 8.8c-.1-.3-.5-1.3.1-2.8 0 0 .9-.3 2.8 1.1A9.6 9.6 0 0 1 12 6.7c.9 0 1.7.1 2.5.4 1.9-1.4 2.8-1.1 2.8-1.1.6 1.5.2 2.5.1 2.8a3.9 3.9 0 0 1 1.1 2.8c0 3.8-2.4 4.7-4.7 5 .4.3.7.9.7 1.9V21c0 .3.2.6.7.5A10 10 0 0 0 12 2Z"/></svg>
+        </a>
+        <a class="icon-link" href="https://x.com/vista8" target="_blank" rel="noopener" aria-label="打开 X" data-tooltip="X">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M17.6 3h3.1l-6.8 7.8 8 10.2h-6.3l-4.9-6.3L5 21H1.9l7.3-8.4L1.5 3h6.4l4.4 5.8L17.6 3Zm-1.1 16h1.7L7 4.9H5.2L16.5 19Z"/></svg>
+        </a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="intro-band" aria-labelledby="page-title">
+        <div class="intro-copy">
+          <p class="eyebrow">精选、工程、研究、创业、新闻、商业</p>
+          <h2 id="page-title">跟踪 AI 进展，先把值得听的人排好队。</h2>
+          <p class="lead">这里整理的是长期有价值的 AI 播客和 YouTube 视频播客：适合通勤听、做选题、补技术脉络，也适合判断创业和产品方向。</p>
+        </div>
+        <dl class="index-stats" aria-label="索引统计">
+          <div>
+            <dt>收录</dt>
+            <dd><span id="stat-count">--</span> 个</dd>
+          </div>
+          <div>
+            <dt>更新</dt>
+            <dd id="stat-updated">--</dd>
+          </div>
+          <div>
+            <dt>入口</dt>
+            <dd>YouTube 优先</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="toolbar-band" aria-label="搜索和筛选">
+        <div class="search-wrap">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M10.8 4a6.8 6.8 0 1 0 4.2 12.1l3.4 3.5 1.4-1.4-3.5-3.4A6.8 6.8 0 0 0 10.8 4Zm0 2a4.8 4.8 0 1 1 0 9.6 4.8 4.8 0 0 1 0-9.6Z"/></svg>
+          <input id="search" type="search" autocomplete="off" placeholder="搜索播客、主持人、主题，例如 agents / Dwarkesh / 工程">
+        </div>
+        <div class="control-row" id="category-filters" aria-label="按主题筛选"></div>
+        <div class="control-row" id="audience-filters" aria-label="按适合人群筛选"></div>
+      </section>
+
+      <section class="results-band" aria-live="polite">
+        <div class="results-head">
+          <p id="result-count">正在加载索引...</p>
+          <button class="text-button" id="reset-filters" type="button">清除筛选</button>
+        </div>
+        <div class="podcast-grid" id="podcast-grid"></div>
+        <div class="empty-state" id="empty-state" hidden>
+          <h3>没有匹配的播客</h3>
+          <p>换一个关键词，或者先回到全部索引。</p>
+        </div>
+      </section>
+
+      <section class="notes-band" aria-labelledby="notes-title">
+        <div>
+          <p class="eyebrow">Update Notes</p>
+          <h2 id="notes-title">更新方式</h2>
+        </div>
+        <div class="notes-grid">
+          <article>
+            <h3>数据可维护</h3>
+            <p>播客清单在 <code>data/podcasts.json</code>。新增条目后运行 <code>npm run check</code>，通过后即可部署。</p>
+          </article>
+          <article>
+            <h3>不伪造热度</h3>
+            <p>站内只展示经过来源页确认的频道、官网和播客入口；订阅数、播放量这类会漂移的数据不写死。</p>
+          </article>
+          <article>
+            <h3>后续可扩展</h3>
+            <p>如果要自动抓最近一期，可以基于现有 RSS 字段加构建脚本，再生成最新更新时间。</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>整理：向阳乔木 · <a href="https://tuijian.qiaomu.ai/" target="_blank" rel="noopener">乔木推荐</a></p>
+      <p class="source-note">来源参考：YouTube 频道页、播客官网、Apple Podcasts 与公开索引页。</p>
+    </footer>
+
+    <div class="modal-backdrop" id="modal-backdrop" hidden></div>
+    <section class="modal" id="modal-reward" role="dialog" aria-modal="true" aria-labelledby="reward-title" hidden>
+      <button class="modal-close" type="button" aria-label="关闭弹窗">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m6.4 5 12.7 12.7-1.4 1.4L5 6.4 6.4 5Zm12.7 1.4L6.4 19.1 5 17.7 17.7 5l1.4 1.4Z"/></svg>
+      </button>
+      <h2 id="reward-title">打赏支持</h2>
+      <p>如果这个索引帮你省下了筛选时间，可以请乔木喝杯咖啡。</p>
+      <img src="public/qiaomu/reward-qr.png" alt="向阳乔木打赏二维码" width="320" height="320" loading="lazy">
+    </section>
+    <section class="modal" id="modal-follow" role="dialog" aria-modal="true" aria-labelledby="follow-title" hidden>
+      <button class="modal-close" type="button" aria-label="关闭弹窗">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m6.4 5 12.7 12.7-1.4 1.4L5 6.4 6.4 5Zm12.7 1.4L6.4 19.1 5 17.7 17.7 5l1.4 1.4Z"/></svg>
+      </button>
+      <h2 id="follow-title">关注向阳乔木</h2>
+      <p>公众号「向阳乔木推荐看」持续分享 AI 工具、产品判断和实战工作流。</p>
+      <img src="public/qiaomu/wechat-public-account-qr.jpg" alt="向阳乔木推荐看公众号二维码" width="320" height="320" loading="lazy">
+      <div class="modal-links">
+        <a href="https://github.com/joeseesun/" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://x.com/vista8" target="_blank" rel="noopener">X</a>
+        <a href="https://tuijian.qiaomu.ai/" target="_blank" rel="noopener">乔木推荐</a>
+      </div>
+    </section>
+  </body>
+</html>

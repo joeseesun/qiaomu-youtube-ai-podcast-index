@@ -1,0 +1,383 @@
+{
+  "podcastId": "everyday-ai",
+  "podcastTitle": "Everyday AI",
+  "fetchedAt": "2026-07-02T16:23:58.223Z",
+  "sourceRss": "https://rss.buzzsprout.com/2175779.rss",
+  "episodes": [
+    {
+      "id": "2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-",
+      "title": "Ep 811: Fable 5 and Sonnet 5 Released, OpenClaw on Your iPhone, NotebookLM&#39;s New Video Format and 7 More AI Features You Need Now",
+      "publishedAt": "2026-07-02T13:00:00.000Z",
+      "duration": "2337",
+      "episodeUrl": null,
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19434870-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm-s-new-video-format-and-7-more-ai-features-you-need-now.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Fable 5 is out, but it&apos;ll be gone (again) before you know it. While Anthropic&apos;s powerful Mythos 5 is out for the masses for another 5 days, it might be their Sonnet 5 model that&apos;s your next daily driver. Even better news? If you&apos;re an iPhone user, your OpenClaw and Cursor accounts are gonna get a lot more use. Yeah, it&apos;s a short Holiday week in the U.S., but the AI companies didn&apos;t stop shipping. From new models to new ways to work, these are 7 new AI features available now that you should be using. Fable 5 and Sonnet 5 Released, OpenClaw on Your iPhone, NotebookLM&apos;s New Video Format and 7 More AI Features You Need Now Newsletter: Sign up for our free daily newsletter More on this Episode: Episode Page Today&apos;s Episode on LinkedIn: Thoughts on this? Join the convo on LinkedIn and connect with other AI leaders. Upcoming Episodes: Check out the upcomi",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://www.buzzsprout.com/2175779/19434870/transcript",
+            "type": "text/html",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19434870/transcript.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19434870/transcript.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19434870/transcript.vtt",
+            "type": "text/vtt",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+        "localUrl": "/content/transcripts/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+        "localUrl": "/content/articles/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "第811期：Fable 5 和 Sonnet 5 发布、OpenClaw 登陆 iPhone、NotebookLM 新视频格式，以及你现在就该用的 7 个 AI 功能",
+      "descriptionZh": "本期聊 Fable 5 与 Anthropic 的 Sonnet 5、iPhone 上的 OpenClaw 和 Cursor 新用法，以及 NotebookLM 的新视频格式。还盘点 7 个最新 AI 功能，帮助你把新模型和新工具更快用进工作流。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:06.911Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+        "localUrl": "/content/summaries/everyday-ai/2026-07-02-ep-811-fable-5-and-sonnet-5-released-openclaw-on-your-iphone-notebooklm39s-new-video-.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today",
+      "title": "Ep 810: ChatGPT Tasks: What’s New, How They Work and 5 Secret Shortcuts to Use Today",
+      "publishedAt": "2026-07-01T13:00:00.000Z",
+      "duration": "1820",
+      "episodeUrl": null,
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19429393-ep-810-chatgpt-tasks-what-s-new-how-they-work-and-5-secret-shortcuts-to-use-today.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Here&apos;s a little secret: ChatGPT tasks are the Gateway Agent. 🤖 (And you&apos;ve probably been overlooking the recent update that made them crazy powerful.) About two weeks ago, OpenAI announced the sunset of its proactive Pulse feature and instead folded those efforts in an upgraded version of their previously released ChatGPT Tasks. An d while most overlooked the actual new features in Tasks, it&apos;s actually the under the hood updates over the past year since Tasks were originally released that make it more powerful than ever. Join us for AI at Work on Wednesdays as we share what&apos;s new and dish 5 secret shortcuts for Tasks you should be using. ChatGPT Tasks: What’s New, How They Work and 5 Secret Shortcuts to Use Today -- An Everyday AI Chat with Jordan Wilson Newsletter: Sign up for our free daily newsletter More on this Episode: Episode Page Today&apos;s Episode on Linke",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://www.buzzsprout.com/2175779/19429393/transcript",
+            "type": "text/html",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19429393/transcript.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19429393/transcript.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19429393/transcript.vtt",
+            "type": "text/vtt",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+        "localUrl": "/content/transcripts/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+        "localUrl": "/content/articles/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "第810期：ChatGPT Tasks 有什么新变化、它们如何运作，以及今天就能用的 5 个隐藏技巧",
+      "descriptionZh": "本期讲 ChatGPT Tasks 的最新升级、背后的工作方式，以及几个容易被忽略的强大新功能。还会分享 5 个实用快捷技巧，帮你把 Tasks 更好地用在日常 AI 工作流中。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:06.911Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+        "localUrl": "/content/summaries/everyday-ai/2026-07-01-ep-810-chatgpt-tasks-whats-new-how-they-work-and-5-secret-shortcuts-to-use-today.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-",
+      "title": "Ep 807: Claude Tag, Gemini Home, Copilot Excel Skills and 7 other AI Features Available Today you Should Be Using",
+      "publishedAt": "2026-07-01T01:00:00.000Z",
+      "duration": "2018",
+      "episodeUrl": null,
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19406515-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-today-you-should-be-using.mp3",
+      "audioType": "audio/mpeg",
+      "description": "All frontier AI models are reportedly delayed. ⏳ New reports show that frontier models there were supposed to be released this month like GPT-5.6 and Gemini 3.5 Pro have been delayed as a result of the ongoing Anthropic vs. U.S. Government dispute. So while we may have to wait a few more weeks for SOTA AI models, we DID get a ton of new AI features and model updates that are available now. Tune in as we dish the 7 new AI features that can change your workflow today. Claude Tag, Gemini Home, Copilot Excel Skills and 7 other AI Features Available Today you Should Be Using — An Everyday AI Chat with Jordan Wilson Newsletter: Sign up for our free daily newsletter More on this Episode: Episode Page Today&apos;s Episode on LinkedIn: Thoughts on this? Join the convo on LinkedIn and connect with other AI leaders. Upcoming Episodes: Check out the upcoming Everyday AI Livestream lineup Website: Yo",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://www.buzzsprout.com/2175779/19406515/transcript",
+            "type": "text/html",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19406515/transcript.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19406515/transcript.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19406515/transcript.vtt",
+            "type": "text/vtt",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+        "localUrl": "/content/transcripts/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+        "localUrl": "/content/articles/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "第807期：Claude Tag、Gemini Home、Copilot Excel Skills，以及今天可用的其他 7 个 AI 功能",
+      "descriptionZh": "最新消息显示，多款前沿 AI 模型发布可能延后，包括 GPT-5.6 和 Gemini 3.5 Pro。本期聚焦当下已可用的 7 个新 AI 功能与模型更新，重点包括 Claude Tag、Gemini Home 和 Copilot Excel Skills，帮你立刻优化工作流。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:06.911Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+        "localUrl": "/content/summaries/everyday-ai/2026-07-01-ep-807-claude-tag-gemini-home-copilot-excel-skills-and-7-other-ai-features-available-.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39",
+      "title": "Ep 809: OpenAI’s New GPT-5.6 Release: What&#39;s New, Why the Feds Are Blocking it and What&#39;s Next",
+      "publishedAt": "2026-06-30T13:00:00.000Z",
+      "duration": "2300",
+      "episodeUrl": null,
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19422881-ep-809-openai-s-new-gpt-5-6-release-what-s-new-why-the-feds-are-blocking-it-and-what-s-next.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Good news: OpenAI&apos;s GPT-5.6 has been released! 🥳 Bad news: 99.9% of users can&apos;t access it. 😥 While OpenAI has had to change their release approach due to increased government involvement in AI oversight, the majority of AI leaders are stuck in a new bind: Sitting and waiting for AI access. Since Anthropic&apos;s Fable fights with the U.S. government, the Trump admin has increased its regulatory oversight. But don&apos;t sit and wait. Because when availability opens to all, your org will need to be ready. We&apos;ll help you understand the lay of the new land. Newsletter: Sign up for our free daily newsletter More on this Episode: Episode Page Today&apos;s Episode on LinkedIn: Thoughts on this? Join the convo on LinkedIn and connect with other AI leaders. Upcoming Episodes: Check out the upcoming Everyday AI Livestream lineup Website: YourEverydayAI.com Email The Show: info@yo",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://www.buzzsprout.com/2175779/19422881/transcript",
+            "type": "text/html",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19422881/transcript.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19422881/transcript.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19422881/transcript.vtt",
+            "type": "text/vtt",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+        "localUrl": "/content/transcripts/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+        "localUrl": "/content/articles/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "第809期：OpenAI 新版 GPT-5.6 发布、更新了什么、为什么被联邦政府卡住，以及接下来会怎样",
+      "descriptionZh": "OpenAI 已发布 GPT-5.6，但大多数用户暂时还用不了。本期解析政府监管介入后 OpenAI 的发布变化、当前可访问范围，以及企业该如何提前准备，等模型全面开放时能第一时间接上。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:06.911Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+        "localUrl": "/content/summaries/everyday-ai/2026-06-30-ep-809-openais-new-gpt-56-release-what39s-new-why-the-feds-are-blocking-it-and-what39.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets",
+      "title": "Ep 808: OpenAI’s limited release of GPT-5.6, Mythos starts slow reinstatement, OpenAI gets spicy and more AI news",
+      "publishedAt": "2026-06-29T13:00:00.000Z",
+      "duration": "1889",
+      "episodeUrl": null,
+      "audioUrl": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19417836-ep-808-openai-s-limited-release-of-gpt-5-6-mythos-starts-slow-reinstatement-openai-gets-spicy-and-more-ai-news.mp3",
+      "audioType": "audio/mpeg",
+      "description": "OpenAI has released GPT-5.6, but the majority of us will have to wait. ⌚ After the Anthropic vs. U.S. Government feud, it now looks like we&apos;ll have to wait for frontier models. That wasn&apos;t the only big AI news headline that might change your company&apos;s AI strategy. Anthropic got the green light to roll out Mythos 5 to a select few, Google reportedly extended its strike team to catch up on coding and more. OpenAI’s limited release of GPT-5.6, Mythos starts slow reinstatement, OpenAI gets spicy and more AI news -- An Everyday AI chat with Jordan Wilson Newsletter: Sign up for our free daily newsletter More on this Episode: Episode Page Today&apos;s Episode on LinkedIn: Thoughts on this? Join the convo on LinkedIn and connect with other AI leaders. Upcoming Episodes: Check out the upcoming Everyday AI Livestream lineup Website: YourEverydayAI.com Email The Show: info@yourevery",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://www.buzzsprout.com/2175779/19417836/transcript",
+            "type": "text/html",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19417836/transcript.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19417836/transcript.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://www.buzzsprout.com/2175779/19417836/transcript.vtt",
+            "type": "text/vtt",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+        "localUrl": "/content/transcripts/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+        "localUrl": "/content/articles/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "第808期：OpenAI 限量发布 GPT-5.6、Mythos 开始缓慢恢复、OpenAI 语气变强硬，以及更多 AI 新闻",
+      "descriptionZh": "OpenAI 仅限量放出 GPT-5.6，大多数人仍需等待。Anthropic 与美国政府的争议后，前沿模型发布节奏或将继续受影响。本期还聊 Anthropic 恢复 Mythos 5 的进展、Google 的追赶动作，以及可能改变企业 AI 策略的最新动态。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:06.911Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+        "localUrl": "/content/summaries/everyday-ai/2026-06-29-ep-808-openais-limited-release-of-gpt-56-mythos-starts-slow-reinstatement-openai-gets.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

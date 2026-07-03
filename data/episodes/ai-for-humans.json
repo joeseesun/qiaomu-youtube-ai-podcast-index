@@ -1,0 +1,253 @@
+{
+  "podcastId": "ai-for-humans",
+  "podcastTitle": "AI For Humans",
+  "fetchedAt": "2026-07-02T16:23:55.156Z",
+  "sourceRss": "https://rss.libsyn.com/shows/469701/destinations/3976203.xml",
+  "episodes": [
+    {
+      "id": "2026-07-01-claude-sonnet-5-is-here-fable-5s-returning-for-now",
+      "title": "Claude Sonnet 5 Is Here & Fable 5's Returning. For Now.",
+      "publishedAt": "2026-07-01T10:00:00.000Z",
+      "duration": "24:20",
+      "episodeUrl": "https://www.aiforhumans.show/",
+      "audioUrl": "https://traffic.libsyn.com/secure/eb8db28e-503a-471d-a9c6-2b39a3434c0d/aiforhumansclaudesonnet5fable5.mp3?dest-id=3976203",
+      "audioType": "audio/mpeg",
+      "description": "Claude Sonnet 5 just launched and Fable 5 is returning. But OpenAI's GPT-5.6 Sol is still locked down and the government's grip on the most powerful AI models throws it all into chaos.. We dig into what Sonnet 5 can actually do, why GPT-5.6 Sol is still gated, and the breaking news that Fable 5 is expected back, plus a huge creative MCP festival with the Blender to Seedance workflow. This week on AI For Humans, Gavin Purcell and Kevin Pereira open on a strange new reality: the best AI models keep launching and then getting locked up, but this week the gate started to crack. Anthropic just shipped Claude Sonnet 5, its most agentic Sonnet yet, landing near Opus 4.8 performance at a much lower price, Meanwhile OpenAI announced GPT-5.6 Sol, Terra, and Luna, but at the US government's request the flagship is only available to a small list of vetted partners. Then the story moved while we were",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-for-humans/2026-07-01-claude-sonnet-5-is-here-fable-5s-returning-for-now.md",
+        "localUrl": "/content/transcripts/ai-for-humans/2026-07-01-claude-sonnet-5-is-here-fable-5s-returning-for-now.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-for-humans/2026-07-01-claude-sonnet-5-is-here-fable-5s-returning-for-now.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-for-humans/2026-07-01-claude-sonnet-5-is-here-fable-5s-returning-for-now.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Claude Sonnet 5 来了，Fable 5 也要回归了——暂时如此",
+      "descriptionZh": "本期聊 Anthropic 刚发布的 Claude Sonnet 5，以及 Fable 5 回归的最新消息；同时拆解 OpenAI 的 GPT-5.6 Sol 为何仍受限、美国政府对顶级模型的管控如何搅动局势，并介绍 Blender 到 Seedance 的创意 MCP 工作流。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:04.306Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-for-humans/2026-07-01-claude-sonnet-5-is-here-fable-5s-returning-for-now.md",
+        "localUrl": "/content/summaries/ai-for-humans/2026-07-01-claude-sonnet-5-is-here-fable-5s-returning-for-now.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-26-anthropic-caught-alibaba-spying-the-ai-cold-war-is-here",
+      "title": "Anthropic Caught Alibaba Spying. The AI Cold War Is Here.",
+      "publishedAt": "2026-06-26T10:00:00.000Z",
+      "duration": "26:50",
+      "episodeUrl": "https://www.aiforhumans.show/",
+      "audioUrl": "https://traffic.libsyn.com/secure/eb8db28e-503a-471d-a9c6-2b39a3434c0d/aiforhumansanthropicclaudeespionage.mp3?dest-id=3976203",
+      "audioType": "audio/mpeg",
+      "description": "Anthropic just accused Alibaba of the largest known corporate espionage campaign against it, alleging 25,000 fake accounts and 28.8 million queries aimed at stealing Claude. We get into the AI cold war heating up between the US and China, why Apple and Microsoft just raised prices, OpenAI's first chip Jalapeno, the wild new Seed Audio 1.0 model, Claude landing in Slack, and a Blender plus Seedance video workflow that gives you real control. This week on AI For Humans, Gavin Purcell and Kevin Pereira open on a genuine spy-novel turn: Anthropic has accused Chinese tech giant Alibaba of running an industrial-scale distillation campaign to siphon Claude's capabilities, laid out in a letter to US senators. It is an accusation, not a proven finding, and Alibaba has not responded, but it puts the US-China AI race front and center. From there we get into why the new models everyone expected this",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-for-humans/2026-06-26-anthropic-caught-alibaba-spying-the-ai-cold-war-is-here.md",
+        "localUrl": "/content/transcripts/ai-for-humans/2026-06-26-anthropic-caught-alibaba-spying-the-ai-cold-war-is-here.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-for-humans/2026-06-26-anthropic-caught-alibaba-spying-the-ai-cold-war-is-here.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-for-humans/2026-06-26-anthropic-caught-alibaba-spying-the-ai-cold-war-is-here.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Anthropic 指控 Alibaba 间谍行为，AI 冷战已经到来",
+      "descriptionZh": "Anthropic 指控 Alibaba 对其展开大规模企业间谍式蒸馏行动，涉及 25,000 个假账号和 2,880 万次查询。节目还聊 AI 中美竞争升温、Apple 和 Microsoft 涨价、OpenAI 首颗芯片 Jalapeno、Seed Audio 1.0、Claude 登陆 Slack，以及 Blender 加 Seedance 的视频工作流。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:04.306Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-for-humans/2026-06-26-anthropic-caught-alibaba-spying-the-ai-cold-war-is-here.md",
+        "localUrl": "/content/summaries/ai-for-humans/2026-06-26-anthropic-caught-alibaba-spying-the-ai-cold-war-is-here.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-24-seedance-25-just-crushed-ai-video-america-is-stalling",
+      "title": "Seedance 2.5 Just Crushed AI Video. America Is Stalling.",
+      "publishedAt": "2026-06-24T10:00:00.000Z",
+      "duration": "28:08",
+      "episodeUrl": "https://www.aiforhumans.show/",
+      "audioUrl": "https://traffic.libsyn.com/secure/eb8db28e-503a-471d-a9c6-2b39a3434c0d/aiforhumansseedance25.mp3?dest-id=3976203",
+      "audioType": "audio/mpeg",
+      "description": "ByteDance just unveiled Seedance 2.5, a new state-of-the-art AI video model with 30-second one-shot generations, as American AI stalls out and Fable 5 stays down. This week on AI For Humans, China is not just catching up in AI, it is pushing the edge. We break down everything Seedance 2.5 can do and why a 30-second single-pass clip is a real leap, then dig into the American slowdown as Fable 5 stays unusable and the rumor mill points to a big delay week. Plus Theo Von's surprisingly intense anti-datacenter rant, OpenAI's claim that China is behind the anti-datacenter conversation, Meta leaking private employee data across the entire company, and Google teaming with A24 on a 75 million dollar AI filmmaking partnership. We close with AI that actually works, including how Gavin used beehiiv's MCP to build a newsletter survey and Kevin's homemade language-learning app. CHINA IS COOKING. AMER",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-for-humans/2026-06-24-seedance-25-just-crushed-ai-video-america-is-stalling.md",
+        "localUrl": "/content/transcripts/ai-for-humans/2026-06-24-seedance-25-just-crushed-ai-video-america-is-stalling.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-for-humans/2026-06-24-seedance-25-just-crushed-ai-video-america-is-stalling.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-for-humans/2026-06-24-seedance-25-just-crushed-ai-video-america-is-stalling.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Seedance 2.5 彻底碾压 AI 视频，美国却在放慢脚步",
+      "descriptionZh": "ByteDance 刚发布 Seedance 2.5，这款新的顶级 AI 视频模型支持 30 秒单次生成；与此同时，美国 AI 似乎停滞不前，Fable 5 也继续不可用。本期拆解 Seedance 2.5 的能力，以及 30 秒单镜头生成为何是重大突破，并讨论美国放缓、Meta 泄露员工数据、Google 联手 A24，以及真正能落地的 AI 应用。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:10.012Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-for-humans/2026-06-24-seedance-25-just-crushed-ai-video-america-is-stalling.md",
+        "localUrl": "/content/summaries/ai-for-humans/2026-06-24-seedance-25-just-crushed-ai-video-america-is-stalling.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-19-midjourney-built-a-body-scanner-ai-science-just-got-real",
+      "title": "Midjourney Built a Body Scanner. AI Science Just Got Real.",
+      "publishedAt": "2026-06-19T10:00:00.000Z",
+      "duration": "29:09",
+      "episodeUrl": "https://www.aiforhumans.show/",
+      "audioUrl": "https://traffic.libsyn.com/secure/eb8db28e-503a-471d-a9c6-2b39a3434c0d/AIForHumansMidjourneyScannerClaudeFable.mp3?dest-id=3976203",
+      "audioType": "audio/mpeg",
+      "description": "AI NEWS: AI Image company Midjourney just unveiled Midjourney Scanner, a full-body medical scanner, and it might be one of the first real signs that the AI science era has arrived. This week on AI For Humans, Midjourney does the most unexpected pivot of the year, trading anime babes for anatomy with a new AI driven full body scanner. Is the era of AI actually changing science finally here? We break down why this hardware is a big deal, Plus, Snapchat's SPECS are coming but they are expensive and… kind of ugly, Unreal Engine 5.8 ships with MCP support, and the AI talent wars heat up as Noam Shazeer leaves Google for OpenAI. Oh, and Claude Fable 5 might be back soon. Maybe. AI IS COMING FOR YOUR ORGANS. IN A GOOD WAY. WE THINK. SHOW LINKS Midjourney's New AI Driven Full Body Scanner https://x.com/midjourney/status/2067421950314688759 Midjourney Medical blog post https://www.midjourney.com/",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-for-humans/2026-06-19-midjourney-built-a-body-scanner-ai-science-just-got-real.md",
+        "localUrl": "/content/transcripts/ai-for-humans/2026-06-19-midjourney-built-a-body-scanner-ai-science-just-got-real.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-for-humans/2026-06-19-midjourney-built-a-body-scanner-ai-science-just-got-real.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-for-humans/2026-06-19-midjourney-built-a-body-scanner-ai-science-just-got-real.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Midjourney 做出全身扫描仪，AI 科学真的来了",
+      "descriptionZh": "Midjourney 这家 AI 图像公司发布了 Midjourney Scanner，一台全身医疗扫描仪，可能是 AI 科学时代到来的早期信号。本期聊 Midjourney 从动漫风转向人体医学的意外转型，分析这项硬件为何重要，并顺带讨论 Snapchat 的 SPECS、Unreal Engine 5.8 的 MCP 支持、Noam Shazeer 离开 Google 加入 OpenAI，以及 Claude Fable 5 可能回归。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:10.012Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-for-humans/2026-06-19-midjourney-built-a-body-scanner-ai-science-just-got-real.md",
+        "localUrl": "/content/summaries/ai-for-humans/2026-06-19-midjourney-built-a-body-scanner-ai-science-just-got-real.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-17-fable-5-got-caged-why-that-should-scare-you",
+      "title": "Fable 5 Got Caged. Why That Should Scare You.",
+      "publishedAt": "2026-06-17T10:00:00.000Z",
+      "duration": "29:00",
+      "episodeUrl": "https://www.aiforhumans.show/",
+      "audioUrl": "https://traffic.libsyn.com/secure/eb8db28e-503a-471d-a9c6-2b39a3434c0d/AIForHumansClaudeFable5StillGone.mp3?dest-id=3976203",
+      "audioType": "audio/mpeg",
+      "description": "Claude's Fable 5 just got yanked, and the story why keeps shifting by the hour. A contested jailbreak, an export-control, crackdown, and a lot of fingers pointing. This week on AI For Humans, Anthropic's Claude Fable 5 is still unavailable and the explanations keep changing. We dig into the contested jailbreak report, the export-control directive that pulled it, and the reporting that Amazon raised concerns before the crackdown. Then we get into why this matters far beyond one model: what happens when the government steps into the AI world, why Fable 5 was such a leap, and what it signals for whatever comes next. Plus, Epic's game designers are using AI tools alongside artists and the internet is furious, Disney Imagineering is testing Adobe Firefly in the parks, ChatGPT's market share slips under 50 percent for the first time, a fake Mistral model called Le Chaton Fat takes over the int",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-for-humans/2026-06-17-fable-5-got-caged-why-that-should-scare-you.md",
+        "localUrl": "/content/transcripts/ai-for-humans/2026-06-17-fable-5-got-caged-why-that-should-scare-you.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-for-humans/2026-06-17-fable-5-got-caged-why-that-should-scare-you.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-for-humans/2026-06-17-fable-5-got-caged-why-that-should-scare-you.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Fable 5 被叫停了，为什么这值得警惕",
+      "descriptionZh": "Claude 的 Fable 5 突然下架，背后原因说法不断变化：有人提到有争议的 jailbreak、出口管制与监管收紧，也有报道指 Amazon 事先表达过担忧。本期还讨论这对 AI 监管、模型突破和行业未来意味着什么。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:15.181Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-for-humans/2026-06-17-fable-5-got-caged-why-that-should-scare-you.md",
+        "localUrl": "/content/summaries/ai-for-humans/2026-06-17-fable-5-got-caged-why-that-should-scare-you.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

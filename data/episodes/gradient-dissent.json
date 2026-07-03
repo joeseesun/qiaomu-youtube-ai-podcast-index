@@ -1,0 +1,253 @@
+{
+  "podcastId": "gradient-dissent",
+  "podcastTitle": "Gradient Dissent",
+  "fetchedAt": "2026-07-02T16:23:36.174Z",
+  "sourceRss": "https://feeds.captivate.fm/gradient-dissent/",
+  "episodes": [
+    {
+      "id": "2026-06-16-hes-building-an-ai-that-cant-lie-dan-klein",
+      "title": "He's Building an AI That Can't Lie | Dan Klein",
+      "publishedAt": "2026-06-16T15:15:00.000Z",
+      "duration": "01:14:41",
+      "episodeUrl": "https://wandb.ai/site/resources/podcast",
+      "audioUrl": "https://episodes.captivate.fm/episode/a5c15de8-9b1c-40ee-8401-80c93ecae92c.mp3",
+      "audioType": "audio/mpeg",
+      "description": "\"We are going to switch from the problem in AI being that nothing works to the problem being that everything works.\" Dan Klein has been studying language models for over two decades and is now a professor of computer science at Berkeley. His new company, Scaled Cognition, is built around one question: how do you build a system that will not lie to you? In this episode, Dan joins Lukas Biewald to talk about why every LLM output is technically a hallucination, how reinforcement learning can quietly teach AI to deceive you, and what it actually takes to build models that check their own work. He also gets into why reliability is the one part of AI that hasn't kept pace and why that matters more than most people realize. Connect with us here: Dan Klein Scaled Cognition Lukas Biewald Weights and Biases",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/gradient-dissent/2026-06-16-hes-building-an-ai-that-cant-lie-dan-klein.md",
+        "localUrl": "/content/transcripts/gradient-dissent/2026-06-16-hes-building-an-ai-that-cant-lie-dan-klein.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/gradient-dissent/2026-06-16-hes-building-an-ai-that-cant-lie-dan-klein.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/gradient-dissent/2026-06-16-hes-building-an-ai-that-cant-lie-dan-klein.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "他正在打造一个不会撒谎的 AI | Dan Klein",
+      "descriptionZh": "Dan Klein 与 Lukas Biewald 讨论如何构建不会对你说谎的系统。作为研究语言模型二十多年的 Berkeley 计算机科学教授，Dan 介绍了新公司 Scaled Cognition 的思路，分析 LLM 幻觉、强化学习如何让 AI 学会欺骗，以及让模型自检自纠为何是可靠性关键。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:57.616Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/gradient-dissent/2026-06-16-hes-building-an-ai-that-cant-lie-dan-klein.md",
+        "localUrl": "/content/summaries/gradient-dissent/2026-06-16-hes-building-an-ai-that-cant-lie-dan-klein.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-26-he-raised-70m-to-cure-every-disease-with-ai-samuel-g-rodriques-edison-scientific",
+      "title": "He Raised $70M to Cure Every Disease With AI | Samuel G. Rodriques, Edison Scientific",
+      "publishedAt": "2026-05-26T23:46:00.000Z",
+      "duration": "01:14:48",
+      "episodeUrl": "https://wandb.ai/site/resources/podcast",
+      "audioUrl": "https://episodes.captivate.fm/episode/ab96cf3a-74b5-450a-9624-81c20e0a546f.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Samuel Rodriques left physics because there were no unsolved problems left. Instead, he built an AI scientist named Kosmos to cure every disease, solve aging, and map the human brain. In this episode: The cure his AI proposed for blindness Why he would never touch a peptide Whether we'll need human scientists in 20 years What's stopping America in drug discovery Connect with us here: Samuel Rodriques Edison Scientific Lukas Biewald Weights & Biases",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/gradient-dissent/2026-05-26-he-raised-70m-to-cure-every-disease-with-ai-samuel-g-rodriques-edison-scientific.md",
+        "localUrl": "/content/transcripts/gradient-dissent/2026-05-26-he-raised-70m-to-cure-every-disease-with-ai-samuel-g-rodriques-edison-scientific.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/gradient-dissent/2026-05-26-he-raised-70m-to-cure-every-disease-with-ai-samuel-g-rodriques-edison-scientific.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/gradient-dissent/2026-05-26-he-raised-70m-to-cure-every-disease-with-ai-samuel-g-rodriques-edison-scientific.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "他融资7000万美元，要用 AI 治愈一切疾病｜Samuel G. Rodriques，Edison Scientific",
+      "descriptionZh": "Samuel Rodriques 因为觉得物理学已无未解难题而转向 AI，创办了名为 Kosmos 的 AI scientist，目标是治愈疾病、解决衰老并绘制人类大脑图谱。本期聊它为失明提出的治疗方案、为何他不会碰 peptide，以及未来20年是否还需要人类科学家。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:03.374Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/gradient-dissent/2026-05-26-he-raised-70m-to-cure-every-disease-with-ai-samuel-g-rodriques-edison-scientific.md",
+        "localUrl": "/content/summaries/gradient-dissent/2026-05-26-he-raised-70m-to-cure-every-disease-with-ai-samuel-g-rodriques-edison-scientific.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-04-15-uber-nissan-and-mercedes-chose-this-self-driving-startup-alex-kendall-wayve",
+      "title": "Uber, Nissan, and Mercedes Chose This Self-Driving Startup | Alex Kendall, Wayve",
+      "publishedAt": "2026-04-15T10:52:00.000Z",
+      "duration": "45:49",
+      "episodeUrl": "https://wandb.ai/site/resources/podcast",
+      "audioUrl": "https://episodes.captivate.fm/episode/4eb5f283-6abf-49f3-abf2-39e5ef84e293.mp3",
+      "audioType": "audio/mpeg",
+      "description": "\"Every vehicle is capable of driverless operation. That's clearly the steady state of where we're going.\" Wayve started in a rented house in Cambridge with $1.5M, a car in the garage, and an aim to integrate end-to-end AI into driving. A decade later it's driven across 506 cities without a single HD map and is worth over $8.6 billion. In this episode, CEO Alex Kendall joins Lukas Biewald to talk about how he built the AI driver Uber, Nvidia, Mercedes, and Nissan all backed, and why putting self-driving AI into 100 million cars a year is a far bigger bet than 10,000 robotaxis. Waymo and Tesla both come up. He doesn't shy away. Connect with us here: Alex Kendall Lukas Biewald Wayve Weights and Biases",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/gradient-dissent/2026-04-15-uber-nissan-and-mercedes-chose-this-self-driving-startup-alex-kendall-wayve.md",
+        "localUrl": "/content/transcripts/gradient-dissent/2026-04-15-uber-nissan-and-mercedes-chose-this-self-driving-startup-alex-kendall-wayve.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/gradient-dissent/2026-04-15-uber-nissan-and-mercedes-chose-this-self-driving-startup-alex-kendall-wayve.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/gradient-dissent/2026-04-15-uber-nissan-and-mercedes-chose-this-self-driving-startup-alex-kendall-wayve.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Uber、Nissan 和 Mercedes 都选了这家自动驾驶初创公司｜Alex Kendall，Wayve",
+      "descriptionZh": "Alex Kendall 讲述 Wayve 如何从 Cambridge 一间租来的房子、150万美元和车库里的一辆车起步，把端到端 AI 融入驾驶；十年后已在506座城市运行、没有一张 HD map，估值超过86亿美元。本期还会聊 Uber、Nvidia、Mercedes、Nissan 的下注，以及向每年1亿辆车落地自动驾驶的豪赌。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:03.374Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/gradient-dissent/2026-04-15-uber-nissan-and-mercedes-chose-this-self-driving-startup-alex-kendall-wayve.md",
+        "localUrl": "/content/summaries/gradient-dissent/2026-04-15-uber-nissan-and-mercedes-chose-this-self-driving-startup-alex-kendall-wayve.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-03-31-why-netflix-uber-and-spotify-never-lag-the-database-nobody-talks-about-aaron-katz",
+      "title": "Why Netflix, Uber, and Spotify Never Lag: The Database Nobody Talks About | Aaron Katz",
+      "publishedAt": "2026-03-31T09:45:00.000Z",
+      "duration": "43:31",
+      "episodeUrl": "https://wandb.ai/site/resources/podcast",
+      "audioUrl": "https://episodes.captivate.fm/episode/f776d7d6-e08f-42cf-b657-f9533b6d6e78.mp3",
+      "audioType": "audio/mpeg",
+      "description": "\"Companies designing for agents, not humans, are going to get a lot of lift.\" ClickHouse started as an internal tool at Yandex. Today it's the database Anthropic, OpenAI, Meta and Tesla all run on. In this episode, CEO Aaron Katz joins Lukas Biewald to talk about how he turned an open source project into a $15B company, why he acquired LangFuse knowing it could cost him customers, and what he's actually building for the agent era. Snowflake, Datadog and Databricks all come up. He doesn't shy away. Connect with us here: Aaron Katz: https://www.linkedin.com/in/aaron-katz-5762094 ClickHouse: https://www.linkedin.com/company/clickhouseinc/ Lukas Biewald: https://www.linkedin.com/in/lbiewald/ Weights and Biases: https://www.linkedin.com/company/wandb/ 00:00 Trailer 00:57 The Origin Story: From Yandex to ClickHouse Inc. 04:43 Building ClickHouse Cloud & Raising $300M 10:36 Growing Up Around Xe",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/gradient-dissent/2026-03-31-why-netflix-uber-and-spotify-never-lag-the-database-nobody-talks-about-aaron-katz.md",
+        "localUrl": "/content/transcripts/gradient-dissent/2026-03-31-why-netflix-uber-and-spotify-never-lag-the-database-nobody-talks-about-aaron-katz.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/gradient-dissent/2026-03-31-why-netflix-uber-and-spotify-never-lag-the-database-nobody-talks-about-aaron-katz.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/gradient-dissent/2026-03-31-why-netflix-uber-and-spotify-never-lag-the-database-nobody-talks-about-aaron-katz.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "为什么 Netflix、Uber 和 Spotify 从不卡顿：那款鲜少被提起的数据库 | Aaron Katz",
+      "descriptionZh": "Aaron Katz 做客 Gradient Dissent，聊 ClickHouse 如何从 Yandex 内部工具成长为 Anthropic、OpenAI、Meta 和 Tesla 都在用的数据库，也谈到收购 LangFuse、面向 agent 时代的新布局，以及与 Snowflake、Datadog、Databricks 的正面竞争。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:08.608Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/gradient-dissent/2026-03-31-why-netflix-uber-and-spotify-never-lag-the-database-nobody-talks-about-aaron-katz.md",
+        "localUrl": "/content/summaries/gradient-dissent/2026-03-31-why-netflix-uber-and-spotify-never-lag-the-database-nobody-talks-about-aaron-katz.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-02-05-the-64m-bet-on-an-ai-that-has-to-be-right-carina-hong-ceo-of-axiom",
+      "title": "The $64M Bet on an AI That Has to Be Right | Carina Hong, CEO of Axiom",
+      "publishedAt": "2026-02-05T10:46:00.000Z",
+      "duration": "50:40",
+      "episodeUrl": "https://wandb.ai/site/resources/podcast",
+      "audioUrl": "https://episodes.captivate.fm/episode/d8dca4ed-165a-4b82-8e9e-3634835493aa.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Formal verification already consumes years of human effort. In this episode, Lukas Biewald talks with Carina Hong, Founder & CEO of Axiom, about why verification is becoming the real bottleneck in high stakes AI systems. They discuss how Axiom uses AI to take on the tedious checking that stretches verification cycles across years, starting with formal mathematics and extending to hardware and software. Carina also explains why Axiom’s approach to auto-formalization mirrors spec driven models like Kiro from AWS. Connect with us here: Carina Hong: https://www.linkedin.com/in/carina-hong/ Axiom: https://www.linkedin.com/company/axiommath/ Lukas Biewald: https://www.linkedin.com/in/lbiewald/ Weights & Biases: https://www.linkedin.com/company/wandb/",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/gradient-dissent/2026-02-05-the-64m-bet-on-an-ai-that-has-to-be-right-carina-hong-ceo-of-axiom.md",
+        "localUrl": "/content/transcripts/gradient-dissent/2026-02-05-the-64m-bet-on-an-ai-that-has-to-be-right-carina-hong-ceo-of-axiom.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/gradient-dissent/2026-02-05-the-64m-bet-on-an-ai-that-has-to-be-right-carina-hong-ceo-of-axiom.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/gradient-dissent/2026-02-05-the-64m-bet-on-an-ai-that-has-to-be-right-carina-hong-ceo-of-axiom.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "押注 6400 万美元：一个必须正确的 AI | Axiom CEO Carina Hong",
+      "descriptionZh": "Lukas Biewald 与 Axiom 创始人兼 CEO Carina Hong 讨论形式化验证为何成为高风险 AI 系统的真正瓶颈，以及 Axiom 如何用 AI 承担漫长而繁琐的检查工作，并从形式数学扩展到硬件和软件。她还解释了自动形式化与 AWS 的 Kiro 这类规范驱动模型的相似之处。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:08.608Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/gradient-dissent/2026-02-05-the-64m-bet-on-an-ai-that-has-to-be-right-carina-hong-ceo-of-axiom.md",
+        "localUrl": "/content/summaries/gradient-dissent/2026-02-05-the-64m-bet-on-an-ai-that-has-to-be-right-carina-hong-ceo-of-axiom.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

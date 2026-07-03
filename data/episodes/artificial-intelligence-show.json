@@ -1,0 +1,281 @@
+{
+  "podcastId": "artificial-intelligence-show",
+  "podcastTitle": "The Artificial Intelligence Show",
+  "fetchedAt": "2026-07-02T16:24:00.513Z",
+  "sourceRss": "https://feeds.megaphone.fm/marketingai",
+  "episodes": [
+    {
+      "id": "2026-07-02-223-ai-answers-ai-washing-flatter-org-charts-advice-for-students-agent-security-the-a",
+      "title": "#223: AI Answers - AI Washing, Flatter Org Charts, Advice for Students, Agent Security & the AI Writing Gap",
+      "publishedAt": "2026-07-02T09:00:00.000Z",
+      "duration": "3394",
+      "episodeUrl": "https://www.youtube.com/watch?v=qiEdMOmmgc4",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/FPMN7106950968.mp3",
+      "audioType": "audio/mpeg",
+      "description": "The questions people ask about AI have changed. A year ago, they wanted to know what ChatGPT was; now they're asking how to redesign workflows around agents and whether a model can be trained the way a person is. In this AI Answers episode, Paul Roetzer and Cathy McPhillips take on fifteen of them, straight from our Intro to AI classes. From choosing two or three models on a tight budget to building an AI virtual twin without sacrificing authenticity, it's a snapshot of where practitioners' thinking actually is right now. 00:00:00 — Intro 00:5:59 How do you balance bottom-up experimentation with CEO-level strategy? 00:9:49 How do you move from restricting AI to enabling it? 00:11:36 How do you pick two or three models on a budget? 00:14:30 How do you evaluate vendors amid AI washing? 00:17:13 Frontier models, small models, or edge AI? 00:20:52 What are the security risks of autonomous ag",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/artificial-intelligence-show/2026-07-02-223-ai-answers-ai-washing-flatter-org-charts-advice-for-students-agent-security-the-a.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=qiEdMOmmgc4",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#223：AI 答疑——AI 洗白、扁平化组织、给学生的建议、Agent 安全与 AI 写作鸿沟",
+      "descriptionZh": "本期 AI Answers 汇集来自 Intro to AI 课程的 15 个问题，Paul Roetzer 和 Cathy McPhillips 讨论 AI 洗白、如何在预算内选模型、Agent 工作流、虚拟分身的真实性、Agent 安全风险，以及学生在 AI 时代该如何学习与规划。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:15.181Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/artificial-intelligence-show/2026-07-02-223-ai-answers-ai-washing-flatter-org-charts-advice-for-students-agent-security-the-a.md",
+        "localUrl": "/content/summaries/artificial-intelligence-show/2026-07-02-223-ai-answers-ai-washing-flatter-org-charts-advice-for-students-agent-security-the-a.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "qiEdMOmmgc4",
+        "title": "Ep.223: AI Washing, Flatter Org Charts, Advice for Students, Agent Security & the AI Writing Gap",
+        "url": "https://www.youtube.com/watch?v=qiEdMOmmgc4",
+        "matchedAt": "2026-07-03T10:02:29.448Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-30-222-gpt-56-government-staggers-ai-model-releases-agents-are-transforming-work-growing",
+      "title": "#222:  GPT-5.6, Government Staggers AI Model Releases, Agents Are Transforming Work & Growing Data Center Backlash",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "duration": "5115",
+      "episodeUrl": "https://podcast.smarterx.ai/",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/FPMN8168412345.mp3",
+      "audioType": "audio/mpeg",
+      "description": "OpenAI just previewed GPT-5.6, but for the first time, the U.S. government is deciding who gets access to a frontier AI model. Paul Roetzer and Mike Kaput break down what they're calling the soft nationalization of artificial intelligence: a staggered, government-approved release, the Dean Ball essay responding to it, and what it means when Washington, not the labs, controls the most powerful models. Plus: OpenAI's new Codex research on agents at work, the looming question of Chinese models, and the data center backlash uniting both parties. Show Notes : Access the show notes and show links here AI-Pulse Survey: Fill out this week’s AI-Pulse Survey here. Timestamps: 00:00:00 — Intro 00:04:54 — GPT-5.6 Begins Controlled Release 00:25:12 — Dean Ball Releases Essay on Critical Safety Actions 00:43:36 — How Agents Are Transforming Work: OpenAI's New Research 00:53:01 — Will the US Government",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/artificial-intelligence-show/2026-06-30-222-gpt-56-government-staggers-ai-model-releases-agents-are-transforming-work-growing.md",
+        "localUrl": "/content/transcripts/artificial-intelligence-show/2026-06-30-222-gpt-56-government-staggers-ai-model-releases-agents-are-transforming-work-growing.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/artificial-intelligence-show/2026-06-30-222-gpt-56-government-staggers-ai-model-releases-agents-are-transforming-work-growing.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/artificial-intelligence-show/2026-06-30-222-gpt-56-government-staggers-ai-model-releases-agents-are-transforming-work-growing.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "#222：GPT-5.6、政府分阶段放行 AI 模型发布、Agent 正在重塑工作，以及数据中心反弹升温",
+      "descriptionZh": "OpenAI 预览 GPT-5.6 之际，美国政府首次介入前沿 AI 模型的开放范围。Paul Roetzer 和 Mike Kaput 解读“AI 温和国有化”、Dean Ball 的回应文章、OpenAI 关于职场 Agent 的研究，以及数据中心反弹如何跨党派扩散。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:21.247Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/artificial-intelligence-show/2026-06-30-222-gpt-56-government-staggers-ai-model-releases-agents-are-transforming-work-growing.md",
+        "localUrl": "/content/summaries/artificial-intelligence-show/2026-06-30-222-gpt-56-government-staggers-ai-model-releases-agents-are-transforming-work-growing.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-23-221-anthropic-vs-the-white-house-microsoft-ceo-on-the-future-of-firms-ais-token-crisi",
+      "title": "#221: Anthropic vs. the White House, Microsoft CEO on the Future of Firms & AI’s Token Crisis",
+      "publishedAt": "2026-06-23T09:00:00.000Z",
+      "duration": "5158",
+      "episodeUrl": "https://www.youtube.com/watch?v=zO1hz5OBEVU",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/FPMN5776746285.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Anthropic's most powerful models are still offline, and the U.S. government now wants a guarantee no lab can give. Paul Roetzer and Mike Kaput unpack the ongoing export-control standoff, the Lutnick letter, and what it means for the models expected this week, then turn to Satya Nadella's \"future of the firm\" essay, the unsolved mess of AI pricing and usage limits, a wave of lab talent shakeups including Noam Shazeer's move to OpenAI, the G7 AI summit, Midjourney's leap into medical scanning, and research showing AI can out-persuade expert humans. Show Notes : Access the show notes and show links here AI-Pulse Survey: Fill out this week’s AI-Pulse Survey here. Timestamps: 00:00:00 — Intro 00:04:44 — Anthropic vs. the White House 00:22:37 — Microsoft CEO on the Future of the Firm 00:34:37 — AI Pricing and Usage Strategy 00:56:04 — Noam Shazeer Joins OpenAI (and Other Major AI Hiring Update",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/artificial-intelligence-show/2026-06-23-221-anthropic-vs-the-white-house-microsoft-ceo-on-the-future-of-firms-ais-token-crisi.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=zO1hz5OBEVU",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#221：Anthropic 对上白宫、Microsoft CEO 谈企业的未来与 AI 的 Token 危机",
+      "descriptionZh": "Anthropic 最强模型仍未上线，美国政府却要求实验室给出谁也无法保证的承诺。Paul Roetzer 和 Mike Kaput 分析出口管制僵局、Lutnick 信函与本周模型发布前景，并讨论 Satya Nadella 的“企业未来”观点、AI 定价混乱、Noam Shazeer 转投 OpenAI、G7 AI 峰会等。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:21.247Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/artificial-intelligence-show/2026-06-23-221-anthropic-vs-the-white-house-microsoft-ceo-on-the-future-of-firms-ais-token-crisi.md",
+        "localUrl": "/content/summaries/artificial-intelligence-show/2026-06-23-221-anthropic-vs-the-white-house-microsoft-ceo-on-the-future-of-firms-ais-token-crisi.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "zO1hz5OBEVU",
+        "title": "Ep. 221: Anthropic vs. the White House, Microsoft CEO on the Future of Firms & AI’s Token Crisis",
+        "url": "https://www.youtube.com/watch?v=zO1hz5OBEVU",
+        "matchedAt": "2026-07-03T10:02:29.449Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-18-220-ai-answers-the-2026-state-of-ai-for-business-report",
+      "title": "#220: AI Answers - The 2026 State of AI for Business Report",
+      "publishedAt": "2026-06-18T09:00:00.000Z",
+      "duration": "3950",
+      "episodeUrl": "https://www.youtube.com/watch?v=UtDMhGCVjqo",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/FPMN2641098453.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Seventy-one percent of professionals expect AI to eliminate more jobs than it creates — but only 20% worry about their own. In this AI Answers episode, Taylor Radey joins Paul and Mike to unpack that disconnect and nine other findings from the 2026 State of AI for Business report, drawn from 2,109 respondents. From why CEOs rate themselves furthest ahead to why only 13% of organizations have the governance to scale, this is the data behind what's actually happening inside companies right now. Download the full report at stateofbusiness.ai Timestamps: 00:00:00 — Intro 00:05:05 — Top 10 Key Findings: Executive Summary 00:12:56 — Did you use AI to build this report? 00:14:26 — What remained uniquely human in the research process? 00:17:25 — Is the 71% job elimination finding consistent across industries and company sizes? 00:19:16 — Why do 71% expect job loss but only 20% worry about their ",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/artificial-intelligence-show/2026-06-18-220-ai-answers-the-2026-state-of-ai-for-business-report.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=UtDMhGCVjqo",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#220：AI 答疑——《2026 年企业 AI 现状报告》",
+      "descriptionZh": "在本期 AI Answers 中，Taylor Radey 与 Paul、Mike 一起拆解《2026 年企业 AI 现状报告》的关键发现：71% 的从业者认为 AI 会消灭比创造更多的岗位，但只有 20% 担心自己的工作，背后差距为何如此之大。报告基于 2,109 份问卷，也揭示了 CEO 领先认知、仅 13% 机构具备规模化治理等现实。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:27.223Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/artificial-intelligence-show/2026-06-18-220-ai-answers-the-2026-state-of-ai-for-business-report.md",
+        "localUrl": "/content/summaries/artificial-intelligence-show/2026-06-18-220-ai-answers-the-2026-state-of-ai-for-business-report.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "UtDMhGCVjqo",
+        "title": "Ep. 220: AI Answers - The 2026 State of AI for Business Report",
+        "url": "https://www.youtube.com/watch?v=UtDMhGCVjqo",
+        "matchedAt": "2026-07-03T10:02:29.449Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-16-219-claude-fable-5-openai-ipo-apple-siri-ai-finally-unveiled-is-the-era-of-affordable",
+      "title": "#219: Claude Fable 5, OpenAI IPO, Apple Siri AI Finally Unveiled & Is the Era of Affordable AI Over?",
+      "publishedAt": "2026-06-16T09:00:00.000Z",
+      "duration": "4524",
+      "episodeUrl": "https://www.youtube.com/watch?v=Q9Eofxj3QQI",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/FPMN4211810263.mp3",
+      "audioType": "audio/mpeg",
+      "description": "The U.S. government forced Anthropic to pull Fable 5 and Mythos 5 from general availability just days after they launched as the most capable models publicly available. Paul and Mike work through how it happened, Dario Amodei's policy essay, and the question every business leader should be sitting with: what do you build on when a model can be switched off? Then it's OpenAI's confidential IPO filing, Apple's long-awaited Siri AI, the real economics behind your AI subscription, and a DeepMind paper on the road from AGI to ASI. Show Notes : Access the show notes and show links here AI-Pulse Survey: Fill out this week’s AI-Pulse Survey here. Timestamps: 00:00:00 — Intro 00:05:20 — Claude Fable 5 00:27:38 — OpenAI Files for IPO 00:36:02 — Apple’s Siri AI Is Finally Here 00:44:02 — Is the Era of Affordable AI Over? 00:48:56 — Opendoor Ends Offshoring for AI-Native Workers 00:51:49 — From Prom",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/artificial-intelligence-show/2026-06-16-219-claude-fable-5-openai-ipo-apple-siri-ai-finally-unveiled-is-the-era-of-affordable.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=Q9Eofxj3QQI",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#219：Claude Fable 5、OpenAI IPO、Apple Siri AI 终于亮相，廉价 AI 时代结束了吗？",
+      "descriptionZh": "本期 Paul 和 Mike 先讨论 Anthropic 的 Claude Fable 5 与 Mythos 5 上线后不久被美国政府要求下架的经过、Dario Amodei 的政策文章，以及模型随时可能被关闭时企业该如何押注。随后聊 OpenAI 保密 IPO 申报、Apple 酝酿已久的 Siri AI、AI 订阅背后的真实成本，以及 DeepMind 关于从 AGI 走向 ASI 的论文。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:27.223Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/artificial-intelligence-show/2026-06-16-219-claude-fable-5-openai-ipo-apple-siri-ai-finally-unveiled-is-the-era-of-affordable.md",
+        "localUrl": "/content/summaries/artificial-intelligence-show/2026-06-16-219-claude-fable-5-openai-ipo-apple-siri-ai-finally-unveiled-is-the-era-of-affordable.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "Q9Eofxj3QQI",
+        "title": "Ep. 219: Claude Fable 5, OpenAI IPO, Apple Siri AI Unveiled & Is the Era of Affordable AI Over?",
+        "url": "https://www.youtube.com/watch?v=Q9Eofxj3QQI",
+        "matchedAt": "2026-07-03T10:02:29.449Z",
+        "matchScore": 1
+      }
+    }
+  ]
+}

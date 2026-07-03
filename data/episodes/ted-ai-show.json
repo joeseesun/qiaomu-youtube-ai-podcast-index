@@ -1,0 +1,253 @@
+{
+  "podcastId": "ted-ai-show",
+  "podcastTitle": "The TED AI Show",
+  "fetchedAt": "2026-07-02T16:24:09.906Z",
+  "sourceRss": "https://feeds.acast.com/public/shows/6758564a102e6d4448d19589",
+  "episodes": [
+    {
+      "id": "2025-04-15-trends-for-2025-ai-x-crypto-from-agents-in-games-depin-to-proof-of-personhood-and-mor",
+      "title": "Trends for 2025: AI x Crypto - From Agents in Games & DePIN to Proof of Personhood and More | web3 with a16z crypto",
+      "publishedAt": "2025-04-15T04:00:00.000Z",
+      "duration": "41:03",
+      "episodeUrl": "https://audiocollective.ted.com",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6758564a102e6d4448d19589/e/67f7e9bfbb8fcfee75cafd9d/media.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Today, we are sharing a special episode from the chart-topping tech podcast web3 with a16z crypto. Produced by venture capital firm Andreessen Horowitz, the podcast explores the technology, people, and business ideas driving the next era of internet innovation. This episode – part of a series covering leading “Trends for 2025” – covers the intersection of crypto and AI. Topics range from why having a unique ID matters in a world of deepfakes to AI agents in games to truly autonomous chatbots. You’ll also get to hear from a16z crypto team members, including chief technology officer Eddy Lazzarin, on what they are personally excited about for 2025 given their unique view of the industry. To listen to more episodes of web3 with a16z crypto, such as part one of the series “Trends for 2025,” follow the show here: https://link.mgln.ai/2YNuuu . Or can also subscribe to the a16z crypto newslette",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ted-ai-show/2025-04-15-trends-for-2025-ai-x-crypto-from-agents-in-games-depin-to-proof-of-personhood-and-mor.md",
+        "localUrl": "/content/transcripts/ted-ai-show/2025-04-15-trends-for-2025-ai-x-crypto-from-agents-in-games-depin-to-proof-of-personhood-and-mor.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ted-ai-show/2025-04-15-trends-for-2025-ai-x-crypto-from-agents-in-games-depin-to-proof-of-personhood-and-mor.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ted-ai-show/2025-04-15-trends-for-2025-ai-x-crypto-from-agents-in-games-depin-to-proof-of-personhood-and-mor.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "2025 趋势：AI x Crypto——从游戏中的 Agents、DePIN 到人格证明等 | a16z crypto 的 web3",
+      "descriptionZh": "这是来自 web3 with a16z crypto 的特别节目，聚焦 2025 年 AI 与 Crypto 的交叉趋势。内容涵盖深度伪造时代的唯一身份、游戏中的 AI agents、真正自主的 chatbot，以及 a16z crypto 团队成员 Eddy Lazzarin 对 2025 年最期待方向的分享。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:47.442Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ted-ai-show/2025-04-15-trends-for-2025-ai-x-crypto-from-agents-in-games-depin-to-proof-of-personhood-and-mor.md",
+        "localUrl": "/content/summaries/ted-ai-show/2025-04-15-trends-for-2025-ai-x-crypto-from-agents-in-games-depin-to-proof-of-personhood-and-mor.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2025-04-11-the-magic-intelligence-in-the-sky-good-robot",
+      "title": "The magic intelligence in the sky | Good Robot",
+      "publishedAt": "2025-04-11T04:00:00.000Z",
+      "duration": "46:18",
+      "episodeUrl": "https://audiocollective.ted.com",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6758564a102e6d4448d19589/e/67f01e45d4b40d7b30b861f5/media.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This episode is part of a feed swap from our friend at Vox’s Unexplainable podcast. Good Robot is a miniseries hosted by Julia Longoria. Today’s episode, “The magic intelligence in the sky” examines how before AI became a mainstream obsession, one thinker sounded the alarm about its catastrophic potential. So why are so many billionaires and tech leaders worried about… paper clips? Good Robot was made in partnership with Vox’s Unexplainable team. Episodes will be released on Wednesdays and Saturdays. For more, go to vox.com/goodrobot Hosted on Acast. See acast.com/privacy for more information.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ted-ai-show/2025-04-11-the-magic-intelligence-in-the-sky-good-robot.md",
+        "localUrl": "/content/transcripts/ted-ai-show/2025-04-11-the-magic-intelligence-in-the-sky-good-robot.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ted-ai-show/2025-04-11-the-magic-intelligence-in-the-sky-good-robot.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ted-ai-show/2025-04-11-the-magic-intelligence-in-the-sky-good-robot.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "天空中的神奇智能｜Good Robot",
+      "descriptionZh": "本期来自 Vox 的 Unexplainable 交换节目《Good Robot》，由 Julia Longoria 主持。节目回顾在 AI 成为大众焦点之前，曾有人率先警告其灾难性潜力，并追问为何许多亿万富翁和科技领袖都在担心“纸夹”问题。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:52.528Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ted-ai-show/2025-04-11-the-magic-intelligence-in-the-sky-good-robot.md",
+        "localUrl": "/content/summaries/ted-ai-show/2025-04-11-the-magic-intelligence-in-the-sky-good-robot.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2025-01-21-how-pokemon-go-and-augmented-reality-are-transforming-how-well-navigate-the-world-w-n",
+      "title": "How Pokemon Go and augmented reality are transforming how we’ll navigate the world w/ Niantic's Brian McClendon",
+      "publishedAt": "2025-01-21T22:06:16.000Z",
+      "duration": "1:09:24",
+      "episodeUrl": "https://audiocollective.ted.com",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6758564a102e6d4448d19589/e/678fe5f2d186489b148af8a4/media.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Whether you’re trying to find your way around a new city or just looking for a place to eat, it’s become second nature to many people to turn to Google Maps to get us from point A to point B. On the last episode of this season of The TED AI Show, we’re chatting with Keyhole (now known as Google Earth) founder and current Niantic SVP of Engineering Brian McClendon. Brian and Bilawal discuss how even the most detailed digital maps have blind spots, how Pokemon Go could be an unlikely partner to fill in the blanks – and how augmented reality is making the future of navigation immersive. In the second half of the show, Bilawal recaps some of the big learnings from the first season of this show, and teases a big update about season 2. For transcripts for The TED AI Show, visit go.ted.com/TTAIS-transcripts Hosted on Acast. See acast.com/privacy for more information.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ted-ai-show/2025-01-21-how-pokemon-go-and-augmented-reality-are-transforming-how-well-navigate-the-world-w-n.md",
+        "localUrl": "/content/transcripts/ted-ai-show/2025-01-21-how-pokemon-go-and-augmented-reality-are-transforming-how-well-navigate-the-world-w-n.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ted-ai-show/2025-01-21-how-pokemon-go-and-augmented-reality-are-transforming-how-well-navigate-the-world-w-n.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ted-ai-show/2025-01-21-how-pokemon-go-and-augmented-reality-are-transforming-how-well-navigate-the-world-w-n.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Pokemon Go 和增强现实如何改变我们导航世界的方式｜专访 Niantic 的 Brian McClendon",
+      "descriptionZh": "本集邀请 Keyhole（现为 Google Earth）创始人、Niantic 工程高级副总裁 Brian McClendon，讨论数字地图的盲区、Pokemon Go 如何补足空白，以及增强现实怎样让未来导航更具沉浸感。后半段还回顾第一季收获并预告第二季更新。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:52.528Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ted-ai-show/2025-01-21-how-pokemon-go-and-augmented-reality-are-transforming-how-well-navigate-the-world-w-n.md",
+        "localUrl": "/content/summaries/ted-ai-show/2025-01-21-how-pokemon-go-and-augmented-reality-are-transforming-how-well-navigate-the-world-w-n.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2024-12-17-how-ai-digital-doppelgangers-could-change-the-way-we-communicate-w-synthesia-ceo-vict",
+      "title": "How AI digital doppelgängers could change the way we communicate w/ Synthesia CEO Victor Riparbelli",
+      "publishedAt": "2024-12-17T05:00:00.000Z",
+      "duration": "50:17",
+      "episodeUrl": "https://audiocollective.ted.com",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6758564a102e6d4448d19589/e/6760c9f027740406d8387653/media.mp3",
+      "audioType": "audio/mpeg",
+      "description": "As AI technology advances, it’s becoming harder and harder to distinguish between work done by humans and work done by computers. But is AI becoming more human, or are we becoming more digital? Synthesia is a video platform that uses AI to generate lifelike video avatars, further blurring the lines between humans and their digitized lookalikes. In this episode, Bilawal sits down with Synthesia’s CEO, Victor Riparbelli, to discuss the benefits of having your own AI avatar, how companies are using this tool to improve communication, and why media literacy is more important than ever in a world of ever-thinning lines between real and fake. They dissect the risks that come with making this technology available to the public, the strict rules Synthesia has in place to protect their users, and question the ethics of having a digital clone. Tune in to see if you’ll be sending your own AI avatar",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ted-ai-show/2024-12-17-how-ai-digital-doppelgangers-could-change-the-way-we-communicate-w-synthesia-ceo-vict.md",
+        "localUrl": "/content/transcripts/ted-ai-show/2024-12-17-how-ai-digital-doppelgangers-could-change-the-way-we-communicate-w-synthesia-ceo-vict.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ted-ai-show/2024-12-17-how-ai-digital-doppelgangers-could-change-the-way-we-communicate-w-synthesia-ceo-vict.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ted-ai-show/2024-12-17-how-ai-digital-doppelgangers-could-change-the-way-we-communicate-w-synthesia-ceo-vict.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AI 数字分身会如何改变我们的沟通方式？与 Synthesia CEO Victor Riparbelli 对谈",
+      "descriptionZh": "随着 AI 生成逼真视频头像，真人与数字替身的界线愈发模糊。本期 Bilawal 对谈 Synthesia CEO Victor Riparbelli，聊个人 AI 分身的用途、企业如何借此改善沟通，以及在真假难辨时代媒体素养为何更重要。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:57.321Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ted-ai-show/2024-12-17-how-ai-digital-doppelgangers-could-change-the-way-we-communicate-w-synthesia-ceo-vict.md",
+        "localUrl": "/content/summaries/ted-ai-show/2024-12-17-how-ai-digital-doppelgangers-could-change-the-way-we-communicate-w-synthesia-ceo-vict.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2024-12-10-could-ai-really-achieve-consciousness-w-neuroscientist-anil-seth",
+      "title": "Could AI really achieve consciousness? w/ neuroscientist Anil Seth",
+      "publishedAt": "2024-12-10T05:00:00.000Z",
+      "duration": "56:51",
+      "episodeUrl": "https://audiocollective.ted.com",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6758564a102e6d4448d19589/e/1000679819911/media.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Human brains are often described as computers — machines that are “wired” to make decisions and respond to external stimuli in a way that’s not so different from the artificial intelligence that we increasingly use each day. But the difference between our brains and the computers that drive AI is consciousness – our inner world, defined by experience and awareness. Anil Seth is a professor of cognitive and computational neuroscience at the University of Oxford. He studies human consciousness and he’s concerned about the way we’ve come to think about AI as conscious minds rather than useful tools. Anil and Bilawal sit down to discuss the differences between intelligence and consciousness, the possibility of AI becoming self-aware, and the dangers of assigning human-like traits to our AI assistants. For transcripts for The TED AI Show, visit go.ted.com/TTAIS-transcripts Hosted on Acast. Se",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ted-ai-show/2024-12-10-could-ai-really-achieve-consciousness-w-neuroscientist-anil-seth.md",
+        "localUrl": "/content/transcripts/ted-ai-show/2024-12-10-could-ai-really-achieve-consciousness-w-neuroscientist-anil-seth.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ted-ai-show/2024-12-10-could-ai-really-achieve-consciousness-w-neuroscientist-anil-seth.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ted-ai-show/2024-12-10-could-ai-really-achieve-consciousness-w-neuroscientist-anil-seth.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AI 真能获得意识吗？与神经科学家 Anil Seth 对谈",
+      "descriptionZh": "人脑常被比作计算机，但真正的差别在于意识。Oxford 大学教授 Anil Seth 与 Bilawal 探讨智能与意识的区别、AI 是否可能自我觉知，以及把人类特质投射给 AI 助手的风险。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:37:57.321Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ted-ai-show/2024-12-10-could-ai-really-achieve-consciousness-w-neuroscientist-anil-seth.md",
+        "localUrl": "/content/summaries/ted-ai-show/2024-12-10-could-ai-really-achieve-consciousness-w-neuroscientist-anil-seth.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "podcastId": "last-week-in-ai",
+  "podcastTitle": "Last Week in AI",
+  "fetchedAt": "2026-07-02T16:24:03.726Z",
+  "sourceRss": "https://rss.art19.com/last-week-in-ai",
+  "episodes": [
+    {
+      "id": "2026-06-25-249-fable-5-ban-spacex-cursor-ipo-oss-aplenty",
+      "title": "#249 - Fable 5 ban, SpaceX Cursor + IPO, OSS Aplenty",
+      "publishedAt": "2026-06-25T05:00:00.000Z",
+      "duration": "01:46:51",
+      "episodeUrl": "https://www.youtube.com/watch?v=6vx7Ky2yef4",
+      "audioUrl": "https://mgln.ai/e/211/rss.art19.com/episodes/c3bfcc54-537c-4e35-8793-b550bb8e3dc3.mp3?rss_browser=BAhJIhJRaWFvbXVBSUluZGV4BjoGRVQ%3D--fdcba3feb8858f4cb38e2e8850dcf35950594c23",
+      "audioType": "audio/mpeg",
+      "description": "Our 249th episode with a summary and discussion of last week's big AI news! Recorded on 06/17/2026 Note: work has kept me from publishing episodes promptly, apologies! I'll get back on schedule soon. Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at andreyvkurenkov@gmail.com and/or hello@gladstone.ai Read out our text newsletter and comment on the podcast at https://lastweekin.ai/ In this episode: Anthropic cut off access to Fable 5 and Mythos 5 after a US government order tied to alleged jailbreaks, prompting debate over inconsistent policy, export controls, and the practicality of preventing jailbreaks. SpaceX completed an IPO at a roughly $1.75T valuation and then moved to acquire AI coding startup Cursor for $60B, positioning xAI with Cursor’s talent, data, and product to compete more effectively in coding. Infrastructure and business u",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/last-week-in-ai/2026-06-25-249-fable-5-ban-spacex-cursor-ipo-oss-aplenty.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=6vx7Ky2yef4",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#249 - Fable 5 被禁、SpaceX、Cursor 与 IPO、开源项目井喷",
+      "descriptionZh": "本期回顾上周 AI 重大新闻：Anthropic 因美国政府命令切断 Fable 5 和 Mythos 5 访问，引发对政策一致性、出口管制与越狱防范可行性的讨论；SpaceX 完成 IPO 后又拟以 600 亿美元收购 AI 编程公司 Cursor，助力 xAI 在编程竞争中强化人才、数据与产品优势。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:31.333Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/last-week-in-ai/2026-06-25-249-fable-5-ban-spacex-cursor-ipo-oss-aplenty.md",
+        "localUrl": "/content/summaries/last-week-in-ai/2026-06-25-249-fable-5-ban-spacex-cursor-ipo-oss-aplenty.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "6vx7Ky2yef4",
+        "title": "Last Week in AI #249 - Fable 5 ban, SpaceX Cursor + IPO, OSS Aplenty",
+        "url": "https://www.youtube.com/watch?v=6vx7Ky2yef4",
+        "matchedAt": "2026-07-03T10:02:35.706Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-17-248-fable-5-siri-ai-ipos-policy-on-the-ai-exponential",
+      "title": "#248 - Fable 5, Siri AI, IPOs, Policy on the AI ​​Exponential",
+      "publishedAt": "2026-06-17T05:00:00.000Z",
+      "duration": "01:40:43",
+      "episodeUrl": "https://www.youtube.com/watch?v=VTZxU7D2HHU",
+      "audioUrl": "https://mgln.ai/e/211/rss.art19.com/episodes/5e3b34b3-05fe-4503-b965-f1fb78806d27.mp3?rss_browser=BAhJIhJRaWFvbXVBSUluZGV4BjoGRVQ%3D--fdcba3feb8858f4cb38e2e8850dcf35950594c23",
+      "audioType": "audio/mpeg",
+      "description": "Our 248th episode with a summary and discussion of last week's big AI news! Recorded on 06/12/2026 Note: we recorded just before the OTHER big news about Fable... we'll discuss it on the next episode. Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at andreyvkurenkov@gmail.com and/or hello@gladstone.ai Read out our text newsletter and comment on the podcast at https://lastweekin.ai/ In this episode: Anthropic released Claude Fable 5 (a safeguarded version of Mythos 5), showing major benchmark jumps and new risk findings in its system card (eval awareness, transgressive actions, CBRN concerns), alongside controversy over severe guardrails and silent downgrades. Apple announced Siri AI at WWDC, positioning a more capable conversational assistant integrated across iPhone features, reportedly built on a custom Gemini partnership; Google also rol",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/last-week-in-ai/2026-06-17-248-fable-5-siri-ai-ipos-policy-on-the-ai-exponential.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=VTZxU7D2HHU",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#248 - Fable 5、Siri AI、IPO 与 AI 指数级增长政策",
+      "descriptionZh": "本期聚焦 Anthropic 发布 Claude Fable 5 及其系统卡中的风险发现与安全争议；Apple 在 WWDC 推出 Siri AI，强调跨 iPhone 功能的更强对话助手，并据称基于与 Gemini 的定制合作。节目还讨论了 IPO 热潮及围绕 AI 指数级发展的政策议题。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:31.333Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/last-week-in-ai/2026-06-17-248-fable-5-siri-ai-ipos-policy-on-the-ai-exponential.md",
+        "localUrl": "/content/summaries/last-week-in-ai/2026-06-17-248-fable-5-siri-ai-ipos-policy-on-the-ai-exponential.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "VTZxU7D2HHU",
+        "title": "Last Week in AI #248 - Fable 5, Siri AI, IPOs, Policy on the AI ​​Exponential",
+        "url": "https://www.youtube.com/watch?v=VTZxU7D2HHU",
+        "matchedAt": "2026-07-03T10:02:38.997Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-06-247-opus-48-mai-anthropic-ipo-minimax-m3",
+      "title": "#247 - Opus 4.8, MAI, Anthropic IPO, Minimax-M3",
+      "publishedAt": "2026-06-06T03:00:00.000Z",
+      "duration": "01:45:02",
+      "episodeUrl": "https://www.youtube.com/watch?v=X5MwJDAR620",
+      "audioUrl": "https://mgln.ai/e/211/rss.art19.com/episodes/245aa673-34f4-4c23-ab20-70c8e731f6a8.mp3?rss_browser=BAhJIhJRaWFvbXVBSUluZGV4BjoGRVQ%3D--fdcba3feb8858f4cb38e2e8850dcf35950594c23",
+      "audioType": "audio/mpeg",
+      "description": "Our 247th episode with a summary and discussion of last week's big AI news! Recorded on 06/03/2026 Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at andreyvkurenkov@gmail.com and/or hello@gladstone.ai Read out our text newsletter and comment on the podcast at https://lastweekin.ai/ In this episode: Anthropic released Claude Opus 4.8 with improved benchmark scores, discussed eval-awareness findings and welfare/corrigibility themes from its system card, and introduced Dynamic Workflows for long-running multi-agent tasks. Microsoft unveiled the always-on Microsoft Scout assistant built on OpenClaw plus new in-house MAI models (including MAI Thinking 1) and “frontier tuning,” emphasizing enterprise security architecture and model-from-scratch capability. Major business moves included Anthropic’s $65B Series H at a $965B valuation alongside an I",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/last-week-in-ai/2026-06-06-247-opus-48-mai-anthropic-ipo-minimax-m3.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=X5MwJDAR620",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#247 - Opus 4.8、MAI、Anthropic IPO、Minimax-M3",
+      "descriptionZh": "本期回顾 Anthropic 发布 Claude Opus 4.8、系统卡中的评测感知与福利/可校正性讨论，以及 Dynamic Workflows；微软推出常驻助手 Microsoft Scout 和自研 MAI 模型，强调企业安全架构与从零训练能力。节目还涉及 Anthropic 的 650 亿美元融资与估值跃升，以及相关产业动向。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:31.333Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/last-week-in-ai/2026-06-06-247-opus-48-mai-anthropic-ipo-minimax-m3.md",
+        "localUrl": "/content/summaries/last-week-in-ai/2026-06-06-247-opus-48-mai-anthropic-ipo-minimax-m3.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "X5MwJDAR620",
+        "title": "Last Week in AI #247 - Opus 4.8, MAI, Anthropic IPO, Minimax-M3",
+        "url": "https://www.youtube.com/watch?v=X5MwJDAR620",
+        "matchedAt": "2026-07-03T10:02:42.352Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-05-25-246-gemini-35-omni-musk-loses-openai-vs-erdos",
+      "title": "#246 - Gemini 3.5 + Omni, Musk Loses, OpenAI vs Erdős",
+      "publishedAt": "2026-05-25T08:00:00.000Z",
+      "duration": "01:33:59",
+      "episodeUrl": "https://www.youtube.com/watch?v=XfNx0bWcBks",
+      "audioUrl": "https://mgln.ai/e/211/rss.art19.com/episodes/2e9a361b-a342-4aac-a365-16e09a08c934.mp3?rss_browser=BAhJIhJRaWFvbXVBSUluZGV4BjoGRVQ%3D--fdcba3feb8858f4cb38e2e8850dcf35950594c23",
+      "audioType": "audio/mpeg",
+      "description": "Our 246th episode with a summary and discussion of last week's big AI news! Recorded on 05/22/2026 Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at andreyvkurenkov@gmail.com and/or hello@gladstone.ai Read out our text newsletter and comment on the podcast at https://lastweekin.ai/ In this episode: Google I/O highlights included Gemini 3.5 (with 3.5 Flash emphasized for speed and benchmarks), the always-on agent Gemini Spark running on Google Cloud with MCP tool support, and Gemini Omni multimodal video generation/editing, plus updates like Anti-Gravity 2.0, Gemini for Science, and Genie world-model navigation using Street View and Waymo simulation. Coding-agent competition accelerated with Cursor Composer 2.5 (fine-tuned on Moonshot’s Kimi K2.5) and xAI’s early Grok Build release, alongside discussion of potential Cursor–xAI ties and xAI’s",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/last-week-in-ai/2026-05-25-246-gemini-35-omni-musk-loses-openai-vs-erdos.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=XfNx0bWcBks",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#246 - Gemini 3.5 + Omni、Musk 败诉、OpenAI 对阵 Erdős",
+      "descriptionZh": "本期聚焦 Google I/O：Gemini 3.5、强调速度与榜单表现的 3.5 Flash、带 MCP 工具支持的常驻代理 Gemini Spark，以及 Gemini Omni 视频生成/编辑。节目还聊到 Cursor Composer 2.5、xAI 的 Grok Build、潜在的 Cursor–xAI 关联，以及相关竞争格局。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:31.333Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/last-week-in-ai/2026-05-25-246-gemini-35-omni-musk-loses-openai-vs-erdos.md",
+        "localUrl": "/content/summaries/last-week-in-ai/2026-05-25-246-gemini-35-omni-musk-loses-openai-vs-erdos.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "XfNx0bWcBks",
+        "title": "Last Week in AI #246 - Gemini 3.5 + Omni, Musk Loses, OpenAI vs Erdős",
+        "url": "https://www.youtube.com/watch?v=XfNx0bWcBks",
+        "matchedAt": "2026-07-03T10:02:45.564Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-05-18-245-tml-interaction-claude-for-legal-sam-altman-on-stand",
+      "title": "#245 - TML-Interaction, Claude For Legal, Sam Altman on Stand",
+      "publishedAt": "2026-05-18T06:00:00.000Z",
+      "duration": "01:49:14",
+      "episodeUrl": "https://www.youtube.com/watch?v=FloHZ8_LxP8",
+      "audioUrl": "https://mgln.ai/e/211/rss.art19.com/episodes/991e02d8-6378-4eaa-a803-03f15babf1ab.mp3?rss_browser=BAhJIhJRaWFvbXVBSUluZGV4BjoGRVQ%3D--fdcba3feb8858f4cb38e2e8850dcf35950594c23",
+      "audioType": "audio/mpeg",
+      "description": "Our 245th episode with a summary and discussion of last week's big AI news! Recorded on 05/13/2026 Hosted by Andrey Kurenkov and Jeremie Harris Feel free to email us your questions and feedback at andreyvkurenkov@gmail.com and/or hello@gladstone.ai Read out our text newsletter and comment on the podcast at https://lastweekin.ai/ In this episode: OpenAI released new voice intelligence API features including GPT Realtime 2 (GPT-5-powered) plus realtime translation and Whisper transcription, emphasizing the latency–reasoning tradeoff, larger context, and new guardrails amid fraud risks. Thinking Machines previewed a low-latency, full‑duplex conversational system with a two-model architecture and custom inference stack, reporting strong interactivity benchmark results but without public access or third‑party validation yet. Anthropic pushed further into vertical products with Claude for Lega",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/last-week-in-ai/2026-05-18-245-tml-interaction-claude-for-legal-sam-altman-on-stand.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=FloHZ8_LxP8",
+          "type": "source"
+        }
+      ],
+      "titleZh": "#245 - TML-Interaction、Claude for Legal、Sam Altman 出庭",
+      "descriptionZh": "本期讨论 OpenAI 新增语音智能 API：GPT Realtime 2、实时翻译与 Whisper 转写，并分析低延迟与推理能力的权衡及欺诈风险防护。节目还介绍 Thinking Machines 的全双工对话系统与双模型架构，以及 Anthropic 向法律等垂直场景推进的 Claude for Legal。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:31.333Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/last-week-in-ai/2026-05-18-245-tml-interaction-claude-for-legal-sam-altman-on-stand.md",
+        "localUrl": "/content/summaries/last-week-in-ai/2026-05-18-245-tml-interaction-claude-for-legal-sam-altman-on-stand.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "FloHZ8_LxP8",
+        "title": "Last Week in AI #245 - TML-Interaction, Claude For Legal, Sam Altman on Stand",
+        "url": "https://www.youtube.com/watch?v=FloHZ8_LxP8",
+        "matchedAt": "2026-07-03T10:02:48.927Z",
+        "matchScore": 1
+      }
+    }
+  ]
+}

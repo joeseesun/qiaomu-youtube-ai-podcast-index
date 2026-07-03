@@ -1,0 +1,253 @@
+{
+  "podcastId": "ai-daily-brief",
+  "podcastTitle": "The AI Daily Brief",
+  "fetchedAt": "2026-07-02T16:23:23.990Z",
+  "sourceRss": "https://anchor.fm/s/f7cac464/podcast/rss",
+  "episodes": [
+    {
+      "id": "2026-07-01-fable-is-back-heres-what-you-should-try-first",
+      "title": "Fable is Back: Here's What You Should Try First",
+      "publishedAt": "2026-07-01T20:39:08.000Z",
+      "duration": "00:29:59",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/nlw/episodes/Fable-is-Back-Heres-What-You-Should-Try-First-e3lhm3n",
+      "audioUrl": "https://anchor.fm/s/f7cac464/podcast/play/122263095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427190589-44100-2-79244ad1db14d.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Fable 5 is officially returning after export controls were lifted, but the rollout comes with new guardrails, lingering policy questions, and a short window of subsidized access. NLW breaks down what changed, what to watch for, and why Fable’s biggest value may be in strategy, hard technical problems, and writing with clear standards. In the headlines: OpenAI’s inference cost push, Base44’s new model, AWS’s forward-deployed AI unit, Claude Tag for Teams, and SpaceX’s Memphis data center backlash. Brought to you by: KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/Sophisticated⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Hyperagent - Hire a fleet of always-on agents. New users get $1,000 in inference. hyperagent.com/aidailyb",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-daily-brief/2026-07-01-fable-is-back-heres-what-you-should-try-first.md",
+        "localUrl": "/content/transcripts/ai-daily-brief/2026-07-01-fable-is-back-heres-what-you-should-try-first.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-daily-brief/2026-07-01-fable-is-back-heres-what-you-should-try-first.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-daily-brief/2026-07-01-fable-is-back-heres-what-you-should-try-first.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Fable 回归了：你应该先试什么",
+      "descriptionZh": "Fable 5 在出口管制放松后正式回归，但这次上线伴随新的使用限制、尚未明朗的政策问题，以及一小段补贴期。NLW 解析变化、关注点，以及 Fable 在战略、复杂技术问题和高标准写作上的价值。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:58.145Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-daily-brief/2026-07-01-fable-is-back-heres-what-you-should-try-first.md",
+        "localUrl": "/content/summaries/ai-daily-brief/2026-07-01-fable-is-back-heres-what-you-should-try-first.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-30-how-big-is-the-ai-economy",
+      "title": "How Big Is the AI Economy?",
+      "publishedAt": "2026-06-30T20:56:32.000Z",
+      "duration": "00:27:54",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-Big-Is-the-AI-Economy-e3lg6tt",
+      "audioUrl": "https://anchor.fm/s/f7cac464/podcast/play/122214781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F427125407-44100-2-3b3f2301a9ba9.mp3",
+      "audioType": "audio/mpeg",
+      "description": "AI is now running at a $175 billion annualized revenue rate, with token demand, compute, and power growth reshaping the economy around it. NLW breaks down new research from Exponential View on why the AI boom may be more revenue-validated than the bubble discourse suggests. In the headlines: Fable relaunch rumors, agent regulation, California’s Claude deal, Amazon-Anthropic pricing, Meta’s distillation worries, GPU price hikes, and “Ramageddon.” Brought to you by: KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/Sophisticated⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Section - Section turns AI investment into workforce transformation and ROI - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.sectionai.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Outsystems - Stop wondering h",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-daily-brief/2026-06-30-how-big-is-the-ai-economy.md",
+        "localUrl": "/content/transcripts/ai-daily-brief/2026-06-30-how-big-is-the-ai-economy.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-daily-brief/2026-06-30-how-big-is-the-ai-economy.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-daily-brief/2026-06-30-how-big-is-the-ai-economy.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AI 经济到底有多大？",
+      "descriptionZh": "AI 目前的年化营收已达 1750 亿美元，token 需求、算力和电力增长正在重塑整个经济。NLW 解读 Exponential View 的新研究，讨论这波 AI 热潮为何比“泡沫”说更有收入验证。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:58.145Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-daily-brief/2026-06-30-how-big-is-the-ai-economy.md",
+        "localUrl": "/content/summaries/ai-daily-brief/2026-06-30-how-big-is-the-ai-economy.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-29-mythos-comes-back-but-not-for-everyone",
+      "title": "Mythos Comes Back But Not for Everyone",
+      "publishedAt": "2026-06-29T18:13:14.000Z",
+      "duration": "00:33:12",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/nlw/episodes/Mythos-Comes-Back-But-Not-for-Everyone-e3lef4i",
+      "audioUrl": "https://anchor.fm/s/f7cac464/podcast/play/122157650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-29%2F427049048-44100-2-59c08c0e54e42.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Mythos is coming back for a select group of trusted partners, while OpenAI’s new GPT-5.6 family is also launching behind a government-limited access program. The bigger story is the emerging ad hoc licensing regime for frontier AI—and whether this moment permanently changes who gets access to the most powerful models. Brought to you by: KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/Sophisticated⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Section - Section turns AI investment into workforce transformation and ROI - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.sectionai.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Outsystems - Stop wondering how AI will change your business and start building the agents that will lead it - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://outsystems.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Scrunch -",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-daily-brief/2026-06-29-mythos-comes-back-but-not-for-everyone.md",
+        "localUrl": "/content/transcripts/ai-daily-brief/2026-06-29-mythos-comes-back-but-not-for-everyone.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-daily-brief/2026-06-29-mythos-comes-back-but-not-for-everyone.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-daily-brief/2026-06-29-mythos-comes-back-but-not-for-everyone.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Mythos 回归，但并非人人都能用",
+      "descriptionZh": "Mythos 将向一小批受信任的合作伙伴回归，同时 OpenAI 的新 GPT-5.6 系列也将在政府限制访问计划下推出。本期讨论前沿 AI 正在形成的临时许可体系，以及这是否会永久改变谁能接触最强模型。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:02.376Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-daily-brief/2026-06-29-mythos-comes-back-but-not-for-everyone.md",
+        "localUrl": "/content/summaries/ai-daily-brief/2026-06-29-mythos-comes-back-but-not-for-everyone.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-28-the-capability-overhang-playbook",
+      "title": "The Capability Overhang Playbook",
+      "publishedAt": "2026-06-28T11:52:35.000Z",
+      "duration": "00:26:02",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-Capability-Overhang-Playbook-e3lchen",
+      "audioUrl": "https://anchor.fm/s/f7cac464/podcast/play/122094487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426966199-44100-2-33e95372fce36.mp3",
+      "audioType": "audio/mpeg",
+      "description": "A forced pause in frontier model releases might be frustrating, but it is also a chance to catch up to the capabilities already sitting unused in current AI tools. NLW lays out a practical playbook for closing that gap, from personal evals and context assets to agent builds, model independence, better organizational incentives, and advanced agentic patterns. Enterprise Agent Leadership Program (FKA EnterpriseClaw) - Next cohort begins 6.29.26: ⁠⁠⁠⁠⁠⁠⁠http://training.besuper.ai/⁠⁠⁠⁠⁠⁠⁠⁠ Brought to you by: KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/Sophisticated⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Section - Section turns AI investment into workforce transformation and ROI - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.sectionai.com/⁠⁠⁠⁠⁠⁠⁠",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-daily-brief/2026-06-28-the-capability-overhang-playbook.md",
+        "localUrl": "/content/transcripts/ai-daily-brief/2026-06-28-the-capability-overhang-playbook.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-daily-brief/2026-06-28-the-capability-overhang-playbook.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-daily-brief/2026-06-28-the-capability-overhang-playbook.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "能力积压的行动指南",
+      "descriptionZh": "前沿模型发布被迫放缓，反而给了大家追赶现有 AI 工具中未被充分利用能力的机会。NLW 从个人评测、上下文素材、代理构建、模型独立性到组织激励与高级 agentic 模式，整理出一套实用行动指南。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:02.376Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-daily-brief/2026-06-28-the-capability-overhang-playbook.md",
+        "localUrl": "/content/summaries/ai-daily-brief/2026-06-28-the-capability-overhang-playbook.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-27-the-ad-hoc-ai-licensing-regime",
+      "title": "The Ad Hoc AI Licensing Regime",
+      "publishedAt": "2026-06-27T16:18:40.000Z",
+      "duration": "00:10:55",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-Ad-Hoc-AI-Licensing-Regime-e3lbomb",
+      "audioUrl": "https://anchor.fm/s/f7cac464/podcast/play/122069131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F426933172-44100-2-fb4074f84cbc5.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This week’s AI Weekly Brief looks at the emerging government-limited rollout process for frontier models, from Mythos to GPT-5.6, and why an opaque, customer-by-customer access regime could be bad for everyone. It also covers Claude Tag, open model momentum, CEO-led AI ROI, and the suddenly revived AI infrastructure trade. Enterprise Agent Leadership Program (FKA EnterpriseClaw) - Next cohort begins 6.29.26: ⁠⁠⁠⁠⁠⁠⁠http://training.besuper.ai/⁠⁠⁠⁠⁠⁠⁠ The AI Daily Brief helps you understand the most important news and discussions in AI. Subscribe to the podcast version of The AI Daily Brief wherever you listen: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://pod.link/1680633614⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-daily-brief/2026-06-27-the-ad-hoc-ai-licensing-regime.md",
+        "localUrl": "/content/transcripts/ai-daily-brief/2026-06-27-the-ad-hoc-ai-licensing-regime.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-daily-brief/2026-06-27-the-ad-hoc-ai-licensing-regime.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-daily-brief/2026-06-27-the-ad-hoc-ai-licensing-regime.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "临时拼凑的 AI 许可机制",
+      "descriptionZh": "本期《AI Weekly Brief》讨论前沿模型正在出现的政府限量放开流程，从 Mythos 到 GPT-5.6，以及这种按客户逐一批准、透明度不足的访问机制为何可能伤害所有人。还涉及 Claude Tag、开源模型势头、CEO 主导的 AI ROI 和重新升温的 AI 基础设施交易。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:07.458Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-daily-brief/2026-06-27-the-ad-hoc-ai-licensing-regime.md",
+        "localUrl": "/content/summaries/ai-daily-brief/2026-06-27-the-ad-hoc-ai-licensing-regime.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

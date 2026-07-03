@@ -1,0 +1,253 @@
+{
+  "podcastId": "ai-agents-podcast",
+  "podcastTitle": "AI Agents Podcast",
+  "fetchedAt": "2026-07-02T16:23:52.817Z",
+  "sourceRss": "https://anchor.fm/s/fe2628e4/podcast/rss",
+  "episodes": [
+    {
+      "id": "2026-06-12-aydin-mirzaee-fellowapp-ai-agents-that-10x-your-productivity",
+      "title": "Aydin Mirzaee Fellow.app - AI Agents That 10x Your Productivity",
+      "publishedAt": "2026-06-12T01:03:31.000Z",
+      "duration": "00:43:18",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/ai-agents-podcast/episodes/Aydin-Mirzaee-Fellow-app---AI-Agents-That-10x-Your-Productivity-e3km6hl",
+      "audioUrl": "https://anchor.fm/s/fe2628e4/podcast/play/121362421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-12%2F425986983-44100-2-1f0f2271faa68.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, host Demetri Panici sits down with Aidan Mirza, founder and CEO of Fellow, to explore how AI is transforming meetings into actionable organizational intelligence. Aidan shares the story behind Fellow’s evolution from a meeting management platform into an AI-powered workplace assistant that helps teams prepare better, capture context, automate workflows, and execute on decisions faster. They also dive into proactive AI, MCP integrations, meeting automation, AI-powered productivity, and the future of organizations where conversations become reusable knowledge. If you want to understand how AI is changing meetings, collaboration, and workplace efficiency, this episode is worth watching. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – The rise of",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-agents-podcast/2026-06-12-aydin-mirzaee-fellowapp-ai-agents-that-10x-your-productivity.md",
+        "localUrl": "/content/transcripts/ai-agents-podcast/2026-06-12-aydin-mirzaee-fellowapp-ai-agents-that-10x-your-productivity.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-agents-podcast/2026-06-12-aydin-mirzaee-fellowapp-ai-agents-that-10x-your-productivity.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-agents-podcast/2026-06-12-aydin-mirzaee-fellowapp-ai-agents-that-10x-your-productivity.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Aydin Mirzaee 与 Fellow.app：让生产力提升 10 倍的 AI Agents",
+      "descriptionZh": "本期 AI Agents Podcast 采访 Fellow 创始人兼 CEO Aydin Mirzaee，探讨 Fellow 如何从会议管理工具演进为 AI 工作助手。内容涵盖会议自动化、主动式 AI、MCP 集成、流程执行，以及如何把对话转化为可复用的组织知识。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:47.318Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-agents-podcast/2026-06-12-aydin-mirzaee-fellowapp-ai-agents-that-10x-your-productivity.md",
+        "localUrl": "/content/summaries/ai-agents-podcast/2026-06-12-aydin-mirzaee-fellowapp-ai-agents-that-10x-your-productivity.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-15-chatgpt-workspace-agents-automating-workflows-with-ai-integrations-and-memory-ep-140",
+      "title": "ChatGPT Workspace Agents: Automating Workflows with AI Integrations and Memory | EP 140",
+      "publishedAt": "2026-05-15T17:27:02.000Z",
+      "duration": "00:36:46",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/ai-agents-podcast/episodes/ChatGPT-Workspace-Agents-Automating-Workflows-with-AI-Integrations-and-Memory--EP-140-e3jdtsb",
+      "audioUrl": "https://anchor.fm/s/fe2628e4/podcast/play/120042827/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2F424229957-44100-2-6b4ddeb3b4b7a.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, Demetri Panici and Jotform CEO Aytekin Tank break down OpenAI’s new ChatGPT Workspace Agents and why they could completely change how people automate work. They explore how cloud-hosted AI agents can now interact with apps like Gmail, Google Drive, Slack, and more — allowing users to build automated workflows without writing code. The conversation covers the evolution from Custom GPTs to fully autonomous agents with integrations, memory, scheduled execution, and reusable skills. Aytekin also demos real-world examples including uptime monitoring agents, Google Docs monitoring workflows, and automated reporting systems running entirely in the cloud. They also compare ChatGPT Workspace Agents to Claude’s developer-focused Managed Agents platform, discuss the future",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-agents-podcast/2026-05-15-chatgpt-workspace-agents-automating-workflows-with-ai-integrations-and-memory-ep-140.md",
+        "localUrl": "/content/transcripts/ai-agents-podcast/2026-05-15-chatgpt-workspace-agents-automating-workflows-with-ai-integrations-and-memory-ep-140.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-agents-podcast/2026-05-15-chatgpt-workspace-agents-automating-workflows-with-ai-integrations-and-memory-ep-140.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-agents-podcast/2026-05-15-chatgpt-workspace-agents-automating-workflows-with-ai-integrations-and-memory-ep-140.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "ChatGPT Workspace Agents：用 AI 集成与记忆自动化工作流｜第 140 集",
+      "descriptionZh": "本期 AI Agents Podcast 中，Demetri Panici 与 Jotform CEO Aytekin Tank 解析 OpenAI 新推出的 ChatGPT Workspace Agents，探讨其如何通过 Gmail、Google Drive、Slack 等应用集成、记忆与定时执行，帮助用户在无需编程的情况下自动化工作流。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:52.378Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-agents-podcast/2026-05-15-chatgpt-workspace-agents-automating-workflows-with-ai-integrations-and-memory-ep-140.md",
+        "localUrl": "/content/summaries/ai-agents-podcast/2026-05-15-chatgpt-workspace-agents-automating-workflows-with-ai-integrations-and-memory-ep-140.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-07-inside-ai-healthcare-addiction-recovery-workflow-automation-and-the-future-of-patient",
+      "title": "Inside AI Healthcare: Addiction Recovery, Workflow Automation, and the Future of Patient Care | EP 139",
+      "publishedAt": "2026-05-07T13:28:54.000Z",
+      "duration": "00:36:06",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/ai-agents-podcast/episodes/Inside-AI-Healthcare-Addiction-Recovery--Workflow-Automation--and-the-Future-of-Patient-Care--EP-139-e3j1eps",
+      "audioUrl": "https://anchor.fm/s/fe2628e4/podcast/play/119634172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-7%2F423678359-44100-2-7fc0ac063f8fc.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Subscribe to AI Agents Podcast Channel:https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, host Demetri Panici sits down with a healthcare AI consultant and operator to explore how AI is transforming patient care, addiction recovery, and provider workflows. They discuss the growing burden on healthcare workers, why AI note-taking tools are becoming essential, and how workflow automation could help reduce burnout across the medical industry. The conversation also dives into addiction treatment, medication adherence, insurance reimbursement challenges, and the real-world barriers preventing healthcare AI from scaling faster. If you want to understand where AI is actually delivering value in healthcare today—and where the industry still has a long way to go—this episode is worth watching. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 –",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-agents-podcast/2026-05-07-inside-ai-healthcare-addiction-recovery-workflow-automation-and-the-future-of-patient.md",
+        "localUrl": "/content/transcripts/ai-agents-podcast/2026-05-07-inside-ai-healthcare-addiction-recovery-workflow-automation-and-the-future-of-patient.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-agents-podcast/2026-05-07-inside-ai-healthcare-addiction-recovery-workflow-automation-and-the-future-of-patient.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-agents-podcast/2026-05-07-inside-ai-healthcare-addiction-recovery-workflow-automation-and-the-future-of-patient.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "走进 AI 医疗：成瘾康复、工作流自动化与患者护理的未来｜第 139 集",
+      "descriptionZh": "本期 AI Agents Podcast 中，主持人 Demetri Panici 与一位医疗 AI 顾问兼从业者探讨 AI 如何改变患者护理、成瘾康复和医护流程，分析 AI 记笔记工具、工作流自动化、保险报销与医疗落地障碍，并讨论这一领域的真实价值与挑战。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:52.378Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-agents-podcast/2026-05-07-inside-ai-healthcare-addiction-recovery-workflow-automation-and-the-future-of-patient.md",
+        "localUrl": "/content/summaries/ai-agents-podcast/2026-05-07-inside-ai-healthcare-addiction-recovery-workflow-automation-and-the-future-of-patient.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-01-inside-classify-contextual-intelligence-ai-agents-and-the-hidden-layer-powering-the-w",
+      "title": "Inside Classify: Contextual Intelligence, AI Agents, and the Hidden Layer Powering the Web | EP 138",
+      "publishedAt": "2026-05-01T22:05:35.000Z",
+      "duration": "00:54:01",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/ai-agents-podcast/episodes/Inside-Classify-Contextual-Intelligence--AI-Agents--and-the-Hidden-Layer-Powering-the-Web--EP-138-e3iosfq",
+      "audioUrl": "https://anchor.fm/s/fe2628e4/podcast/play/119353274/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-2%2F423324286-44100-2-e3a24247a0646.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, host Demetri Panici sits down with Brendan Norman, co-founder and CEO of Classify, to explore how contextual intelligence is becoming a foundational layer for AI agents. Brendan breaks down how Classify helps machines understand content at a deeper, more human-like level—and why that matters for everything from advertising to autonomous agents. They also dive into how AI is reshaping small teams, why agents still struggle with consistency, and what’s really happening behind the scenes as infrastructure evolves. If you want to understand the next layer of AI beyond models—the systems that make them actually useful—this episode is worth watching. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – Why understanding AI is constantly evolving 02:28 –",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-agents-podcast/2026-05-01-inside-classify-contextual-intelligence-ai-agents-and-the-hidden-layer-powering-the-w.md",
+        "localUrl": "/content/transcripts/ai-agents-podcast/2026-05-01-inside-classify-contextual-intelligence-ai-agents-and-the-hidden-layer-powering-the-w.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-agents-podcast/2026-05-01-inside-classify-contextual-intelligence-ai-agents-and-the-hidden-layer-powering-the-w.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-agents-podcast/2026-05-01-inside-classify-contextual-intelligence-ai-agents-and-the-hidden-layer-powering-the-w.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "深入 Classify：上下文智能、AI Agents 与驱动 Web 的隐藏层 | 第138期",
+      "descriptionZh": "Demetri Panici 采访 Classify 联合创始人兼 CEO Brendan Norman，探讨上下文智能如何成为 AI agents 的基础层，以及 Classify 如何帮助机器更深层理解内容。内容还涉及 AI 如何重塑小团队、agents 为何仍不够稳定，以及底层基础设施的演进。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:58.899Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-agents-podcast/2026-05-01-inside-classify-contextual-intelligence-ai-agents-and-the-hidden-layer-powering-the-w.md",
+        "localUrl": "/content/summaries/ai-agents-podcast/2026-05-01-inside-classify-contextual-intelligence-ai-agents-and-the-hidden-layer-powering-the-w.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-04-29-why-ai-hype-is-always-wrong-and-what-actually-happens-ep-137",
+      "title": "Why AI Hype Is Always Wrong (And What Actually Happens) | EP 137",
+      "publishedAt": "2026-04-29T20:57:03.000Z",
+      "duration": "00:53:21",
+      "episodeUrl": "https://podcasters.spotify.com/pod/show/ai-agents-podcast/episodes/Why-AI-Hype-Is-Always-Wrong-And-What-Actually-Happens--EP-137-e3il9me",
+      "audioUrl": "https://anchor.fm/s/fe2628e4/podcast/play/119235726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-29%2F423133533-44100-2-28d708cabb225.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Subscribe to AI Agents Podcast Channel:https://link.jotform.com/subscribe-to-podcast Every major tech shift follows the same pattern: one side says it’ll change the world overnight, the other says it’ll destroy everything. AI is no different—and both sides are usually wrong. In this episode of the AI Agents Podcast, Rade Kovacevic (CEO of Polar Grid) breaks down what actually happens during massive market cycles, why AI progress feels chaotic, and where real value is being built right now. We dive into the future of real-time AI, why latency is the hidden bottleneck, and how technologies like voice agents, edge computing, and AI infrastructure will shape the next wave of products. If you want a grounded, no-hype perspective on AI’s future—this episode is for you. Timestamps: 00:00 – Why viral AI takes are always extreme 02:00 – Rade’s background & building companies early 05:30 – The rea",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-agents-podcast/2026-04-29-why-ai-hype-is-always-wrong-and-what-actually-happens-ep-137.md",
+        "localUrl": "/content/transcripts/ai-agents-podcast/2026-04-29-why-ai-hype-is-always-wrong-and-what-actually-happens-ep-137.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-agents-podcast/2026-04-29-why-ai-hype-is-always-wrong-and-what-actually-happens-ep-137.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-agents-podcast/2026-04-29-why-ai-hype-is-always-wrong-and-what-actually-happens-ep-137.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "为什么 AI 炒作总是错的：以及真正会发生什么 | 第137期",
+      "descriptionZh": "Demetri Panici 与 Polar Grid CEO Rade Kovacevic 讨论技术浪潮中的炒作规律，解释为什么 AI 的进展看似混乱却有其路径，并分析当前真实价值的建设方向。还会聊到实时 AI、延迟瓶颈、voice agents、edge computing 和 AI infrastructure 的作用。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:58.899Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-agents-podcast/2026-04-29-why-ai-hype-is-always-wrong-and-what-actually-happens-ep-137.md",
+        "localUrl": "/content/summaries/ai-agents-podcast/2026-04-29-why-ai-hype-is-always-wrong-and-what-actually-happens-ep-137.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

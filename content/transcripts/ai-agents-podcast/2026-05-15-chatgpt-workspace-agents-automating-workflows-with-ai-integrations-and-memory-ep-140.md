@@ -1,0 +1,804 @@
+# ChatGPT Workspace Agents: Automating Workflows with AI Integrations and Memory | EP 140
+
+- Podcast: AI Agents Podcast
+- Source: https://podcasters.spotify.com/pod/show/ai-agents-podcast/episodes/ChatGPT-Workspace-Agents-Automating-Workflows-with-AI-Integrations-and-Memory--EP-140-e3jdtsb
+- 获取时间: 2026-07-03T05:12:15.441Z
+
+## Transcript
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/Aydin-Mirzaee-Fellow-app---AI-Agents-That-10x-Your-Productivity-e3km6hl)
+
+#### [Aydin Mirzaee Fellow.app - AI Agents That 10x Your Productivity](https://creators.spotify.com/ai-agents-podcast/episodes/Aydin-Mirzaee-Fellow-app---AI-Agents-That-10x-Your-Productivity-e3km6hl)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/Aydin-Mirzaee-Fellow-app---AI-Agents-That-10x-Your-Productivity-e3km6hl)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with Aidan Mirza, founder and CEO of Fellow, to explore how AI is transforming meetings into actionable organizational intelligence. Aidan shares the story behind Fellow’s evolution from a meeting management platform into an AI-powered workplace assistant that helps teams prepare better, capture context, automate workflows, and execute on decisions faster.
+
+They also dive into proactive AI, MCP integrations, meeting automation, AI-powered productivity, and the future of organizations where conversations become reusable knowledge. If you want to understand how AI is changing meetings, collaboration, and workplace efficiency, this episode is worth watching.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+00:00 – The rise of proactive AI assistants
+
+02:03 – Aidan’s journey from SurveyMonkey to Fellow
+
+03:21 – How AI reinvented the meetings industry
+
+05:23 – Meeting bots, privacy, and workplace trust
+
+11:09 – AI-powered meeting prep and real-time assistance
+
+14:06 – Building an AI chief of staff for every employee
+
+18:02 – The 10-star framework for designing AI products
+
+22:27 – Integrations, MCP, and connected AI workflows
+
+30:33 – Automating work from meetings to execution
+
+40:56 – Why context is the most valuable asset in AI
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Learn more about Fellow ➡️ [https://fellow.app/](https://fellow.app/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Jun 12, 2026 43:18
+
+[ #### ChatGPT Workspace Agents: Automating Workflows with AI Integrations and Memory | EP 140 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, Demetri Panici and Jotform CEO Aytekin Tank break down OpenAI’s new ChatGPT Workspace Agents and why they could completely change how people automate work. They explore how cloud-hosted AI agents can now interact with apps like Gmail, Google Drive, Slack, and more — allowing users to build automated workflows without writing code. The conversation covers the evolution from Custom GPTs to fully autonomous agents with integrations, memory, scheduled execution, and reusable skills. Aytekin also demos real-world examples including uptime monitoring agents, Google Docs monitoring workflows, and automated reporting systems running entirely in the cloud. They also compare ChatGPT Workspace Agents to Claude’s developer-focused Managed Agents platform, discuss the future of SaaS products in an AI-first world, and explain why integrations, memory, and workflow orchestration are becoming the most valuable layer of modern AI systems. If you want to understand where AI agents are heading — and how businesses can use them to automate repetitive work today — this episode is worth watching. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – Why AI agents are becoming so powerful 00:48 – Introduction to ChatGPT Workspace Agents 03:29 – What makes Workspace Agents different from Custom GPTs 06:09 – Integrations, skills, and memory explained 09:03 – Claude Managed Agents vs ChatGPT Agents 11:30 – Building an uptime monitoring AI agent live 21:58 – Creating a Google Docs monitoring workflow 27:51 – How AI agents are changing productivity and automation 30:03 – The future of SaaS products in an AI agent world 34:08 – Why AI workflows still need SaaS platforms ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up to learn more ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ May 15, 2026 36:46](https://creators.spotify.com/ai-agents-podcast/episodes/ChatGPT-Workspace-Agents-Automating-Workflows-with-AI-Integrations-and-Memory--EP-140-e3jdtsb)[ #### Inside AI Healthcare: Addiction Recovery, Workflow Automation, and the Future of Patient Care | EP 139 Subscribe to AI Agents Podcast Channel:https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, host Demetri Panici sits down with a healthcare AI consultant and operator to explore how AI is transforming patient care, addiction recovery, and provider workflows. They discuss the growing burden on healthcare workers, why AI note-taking tools are becoming essential, and how workflow automation could help reduce burnout across the medical industry. The conversation also dives into addiction treatment, medication adherence, insurance reimbursement challenges, and the real-world barriers preventing healthcare AI from scaling faster. If you want to understand where AI is actually delivering value in healthcare today—and where the industry still has a long way to go—this episode is worth watching. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – AI as a workflow compressor in healthcare 01:04 – Medication adherence and addiction recovery challenges 02:13 – How their platform differs from consumer solutions 04:17 – Designing simple AI tools for patients and providers 05:10 – Long-term vision for healthcare and medication management 07:23 – AI note-taking, provider burnout, and healthcare workflows 11:24 – Risks of hallucinations and AI memory in medical care 13:47 – How AI can improve healthcare efficiency and patient outcomes 16:16 – Insurance, reimbursement, and why healthcare AI adoption is slow 29:16 – Will AI replace jobs or create better work? ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://link.jotform.com/eCGiU1nteQ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcastInstagram ➡️ https://www.instagram.com/aiagentspodcastTikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ May 07, 2026 36:07](https://creators.spotify.com/ai-agents-podcast/episodes/Inside-AI-Healthcare-Addiction-Recovery--Workflow-Automation--and-the-Future-of-Patient-Care--EP-139-e3j1eps)[](https://creators.spotify.com/ai-agents-podcast/episodes/Inside-Classify-Contextual-Intelligence--AI-Agents--and-the-Hidden-Layer-Powering-the-Web--EP-138-e3iosfq)
+
+#### [Inside Classify: Contextual Intelligence, AI Agents, and the Hidden Layer Powering the Web | EP 138](https://creators.spotify.com/ai-agents-podcast/episodes/Inside-Classify-Contextual-Intelligence--AI-Agents--and-the-Hidden-Layer-Powering-the-Web--EP-138-e3iosfq)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/Inside-Classify-Contextual-Intelligence--AI-Agents--and-the-Hidden-Layer-Powering-the-Web--EP-138-e3iosfq)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with Brendan Norman, co-founder and CEO of Classify, to explore how contextual intelligence is becoming a foundational layer for AI agents. Brendan breaks down how Classify helps machines understand content at a deeper, more human-like level—and why that matters for everything from advertising to autonomous agents.
+
+They also dive into how AI is reshaping small teams, why agents still struggle with consistency, and what’s really happening behind the scenes as infrastructure evolves. If you want to understand the next layer of AI beyond models—the systems that make them actually useful—this episode is worth watching.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+00:00 – Why understanding AI is constantly evolving
+
+02:28 – Brendan’s background and building Classify
+
+05:05 – Agents vs bots and how AI systems interact
+
+08:12 – The missing layer: contextual intelligence
+
+13:16 – Do AI models actually understand language?
+
+19:19 – AI workflows, Claude, and productivity tools
+
+24:11 – Building faster with AI as a small team
+
+30:18 – Opportunities for startups in the AI era
+
+36:38 – Explaining AI in a rapidly changing market
+
+49:08 – Are we approaching the AI singularity?
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up to learn more ➡️ [https://www.tri-classify.com/](https://podcasters.spotify.com/pod/show/ai-agents-podcast/episodes/ChatGPT-Workspace-Agents-Automating-Workflows-with-AI-Integrations-and-Memory--EP-140-e3jdtsb)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+May 01, 2026 54:02
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/Why-AI-Hype-Is-Always-Wrong-And-What-Actually-Happens--EP-137-e3il9me)
+Apr 29, 2026 53:22
+
+[ #### AI Agents for Workflow Automation | EP 136 Subscribe to AI Agents Podcast Channel:https://link.jotform.com/subscribe-to-podcast Most people are still intimidated by advanced AI tools—but they don’t need to be. In this episode, we break down how AI-powered workflow builders are making automation accessible for everyday users and small businesses. Demetri Panici and Aytekin Tank explore the current landscape of AI agents and workflow automation, comparing tools like Zapier, n8n, Pipedream, MuleRun, and Jotform’s upcoming AI-powered workflows. They walk through real demos using the same prompt across platforms—automating weekly employee updates—to show how each tool performs, where they shine, and where they fall short. From no-code simplicity to more advanced agent-based systems, this episode highlights the trade-offs between usability, flexibility, and power. If you’ve ever wanted to automate repetitive work but didn’t know where to start, this episode gives you a clear, practical look at what’s possible today—and what’s coming next. ⏰ TIMESTAMPS:00:00 – Why people are still scared of AI tools 00:49 – What are AI workflow builders? 05:13 – Jotform AI workflow demo 09:18 – MuleRun & building full tools with AI 14:52 – Pipedream demo (email automation) 18:28 – Zapier AI workflow builder 21:24 – n8n: powerful but intimidating 23:41 – AI agents (Perplexity & Claude demos) 29:00 – Real-world automation examples 33:43 – Where Jotform fits + future of AI workflows ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬Sign up for free ➡️ https://www.jotform.com/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬Follow us on: Twitter ➡️ https://x.com/aiagentspodcastInstagram ➡️ https://www.instagram.com/aiagentspodcastTikTok ➡️ https://www.tiktok.com/@aiagentspodcast▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Apr 24, 2026 38:21](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents-for-Workflow-Automation--EP-136-e3ie609)[](https://creators.spotify.com/ai-agents-podcast/episodes/Tina-Kung---Nue-io-AI-Agents-That-10x-Your-Productivity--EP-135-e3i9pfd)
+
+#### [Tina Kung - Nue.io AI Agents That 10x Your Productivity | EP 135](https://creators.spotify.com/ai-agents-podcast/episodes/Tina-Kung---Nue-io-AI-Agents-That-10x-Your-Productivity--EP-135-e3i9pfd)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/Tina-Kung---Nue-io-AI-Agents-That-10x-Your-Productivity--EP-135-e3i9pfd)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with Tina Kung, Co-Founder and CTO of Nue (nue.io), to discuss why preventing AI hallucinations becomes critical when AI moves beyond insights and starts executing real financial transactions.
+
+Tina explains how transactional intelligence is changing how companies manage revenue, why data accuracy is essential for AI systems operating in finance, and how AI agents can move from summarization to actually taking action — generating quotes, creating invoices, and executing complex revenue workflows automatically.
+
+They also dive into evolving AI-native revenue models, how modern AI companies structure pricing, how engineering teams are already transforming their workflows with AI agents, and what the future of AI-driven operations looks like across sales, finance, and product teams.
+
+If you're interested in AI agents that don’t just analyze data but actually act on it — this episode is worth watching.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+00:00 — Preventing AI hallucinations in financial transactions
+
+00:54 — Introducing Tina Kung and Nue (nue.io)
+
+03:02 — Transactional intelligence vs traditional AI insights
+
+07:03 — AI that takes action: quotes, invoices, and automation
+
+09:13 — AI companies and hybrid revenue models
+
+16:27 — New pricing models emerging in the AI era
+
+23:02 — Building practical AI without hallucinations
+
+29:13 — How AI is changing engineering teams
+
+33:03 — Hiring shifts in the AI-first world
+
+36:47 — Tina’s personal AI productivity stack
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ [https://www.jotform.com/](https://www.jotform.com/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Apr 22, 2026 45:53
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/ChatGPT-App-Store-Is-the-Next-AI-Platform--EP-134-e3i0elo)
+
+#### [ChatGPT App Store Is the Next AI Platform | EP 134](https://creators.spotify.com/ai-agents-podcast/episodes/ChatGPT-App-Store-Is-the-Next-AI-Platform--EP-134-e3i0elo)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/ChatGPT-App-Store-Is-the-Next-AI-Platform--EP-134-e3i0elo)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with Jotform Founder & CEO Aytekin Tank to discuss the newly emerging ChatGPT App Store and why it could become one of the biggest shifts in software distribution.
+
+Aytekin explains how MCP (Model Context Protocol), originally introduced by Anthropic, helped shape the idea of connected AI apps — and how OpenAI’s ChatGPT App Store is bringing that vision to life. Instead of switching between dozens of SaaS tools, users can now interact with apps directly inside ChatGPT using natural language.
+
+They also explore real-world examples including Jotform, Canva, Adobe Photoshop, Apple Music, and TripAdvisor integrations — showing how AI agents can connect tools, automate workflows, and reduce the need for traditional interfaces.
+
+The conversation also covers why chat interfaces may replace traditional SaaS dashboards, how AI memory improves personalization, and why companies that build AI integrations now could benefit from massive distribution.
+
+In this episode, we're seeing how AI agents and app stores are converging — and why the next generation of software may live entirely inside AI.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+00:00 – MCP, Anthropic, and the rise of AI app ecosystems
+
+01:07 – Introduction to the ChatGPT App Store
+
+03:22 – Why AI apps feel like the early Apple App Store
+
+05:28 – Jotform inside ChatGPT: building forms with AI
+
+10:36 – Moving from traditional UI to chat interfaces
+
+16:46 – Why AI apps are more powerful with context & memory
+
+24:15 – Canva, Photoshop, and AI creative workflows
+
+29:30 – TripAdvisor and AI travel planning apps
+
+32:45 – Why ChatGPT apps are still early but growing fast
+
+35:21 – The future of SaaS: apps inside AI agents
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ [https://www.jotform.com/](https://www.jotform.com/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Apr 16, 2026 37:58
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Recruiting--Hirings-Future-with-Katie-Fortunato--Jobstream--EP-133-e3htjqe)
+
+#### [AI Recruiting & Hiring's Future with Katie Fortunato, Jobstream | EP 133](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Recruiting--Hirings-Future-with-Katie-Fortunato--Jobstream--EP-133-e3htjqe)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Recruiting--Hirings-Future-with-Katie-Fortunato--Jobstream--EP-133-e3htjqe)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with Katie Fortunato, Co-Founder and EVP of Innovation & Platform Strategy at Hire Innovations AI, to discuss how AI is reshaping hiring, innovation, and the future of work.
+
+Katie explains how her team built an AI innovation incubator to safely test new ideas without risking their core enterprise business. She also shares how AI is enabling faster product launches, leaner teams, and entirely new business models — including solopreneurs and fractional work.
+
+The conversation dives into hiring trends, AI-driven product development, vibe coding, tech stack consolidation, and why companies that embrace experimentation will move faster than those waiting on the sidelines.
+
+They also discuss how AI is changing talent acquisition, why healthcare and AI engineering roles are growing, and how founders can build faster using modern AI tools.
+
+If you're interested in AI innovation, hiring trends, solopreneurs, and building products faster with AI, this episode is worth watching.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+00:00 – Building an AI innovation incubator safely
+
+01:09 – Katie Fortunato intro & Hire Innovations overview
+
+03:08 – A day in innovation and product strategy
+
+05:43 – Why legacy companies need AI sandboxes
+
+07:10 – Three ways companies innovate with AI
+
+09:35 – Launching Job Stream using vibe coding
+
+11:22 – Non-technical founders building with AI
+
+13:38 – Claude, Lovable, and rapid product development
+
+16:11 – AI is consolidating the tech stack
+
+18:30 – Finding product-market fit with AI
+
+20:13 – Understanding hiring cycles and timing launches
+
+23:00 – Automate yourself before AI automates you
+
+24:39 – Healthcare, AI engineers, and job growth
+
+27:03 – Solopreneurs and lean AI-powered teams
+
+29:08 – Fractional work and gig economy growth
+
+31:12 – Designing your dream life, not just your job
+
+33:54 – Advice for founders using AI to free time
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ [https://www.jotform.com/](https://www.jotform.com/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Apr 14, 2026 44:06
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/Inside-Jotform-AI-MCP--Voice-Control--and-the-Future-of-Building-Forms--EP-132-e3hcr8o)
+
+#### [Inside Jotform AI: MCP, Voice Control, and the Future of Building Forms | EP 132](https://creators.spotify.com/ai-agents-podcast/episodes/Inside-Jotform-AI-MCP--Voice-Control--and-the-Future-of-Building-Forms--EP-132-e3hcr8o)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/Inside-Jotform-AI-MCP--Voice-Control--and-the-Future-of-Building-Forms--EP-132-e3hcr8o)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with Jotform founder Aytekin Tank to break down Jotform AI, the company’s new in product AI assistant built to help users create forms faster, easier, and with far less friction. Aytekin explains how Jotform AI can answer questions, take actions inside the product, and proactively suggest better next steps while users build.
+
+They also get into how MCP powers the system behind the scenes, why Jotform AI uses multiple specialized agents instead of one general agent, and how voice interaction changes the onboarding experience for non technical users. If you want a practical look at how AI agents are being embedded directly into SaaS products, this episode is worth watching.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+00:00 – Jotform AI uses multiple agents behind the scenes
+
+01:00 – What Jotform AI is and how it works inside the product
+
+02:21 – How Jotform AI improves onboarding and boosts success rates
+
+05:03 – Live voice demo: building a pizza party signup form
+
+08:32 – How Jotform AI is built on Jotform Agents
+
+14:20 – Why users succeed faster with AI guided form building
+
+24:13 – MCP, specialized agents, and how Jotform AI works technically
+
+28:02 – Will users work inside products or through external AI agents?
+
+33:13 – What’s next for Jotform AI and proactive suggestions
+
+37:26 – Final thoughts on how AI changes product learning curves
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ [https://www.jotform.com/](https://www.jotform.com/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Apr 06, 2026 38:03
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents--Autonomous-Workflows-with-Samim-Safaei-Siift-ai--EP-131-e3haaau)
+
+#### [AI Agents & Autonomous Workflows with Samim Safaei Siift ai | EP 131](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents--Autonomous-Workflows-with-Samim-Safaei-Siift-ai--EP-131-e3haaau)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents--Autonomous-Workflows-with-Samim-Safaei-Siift-ai--EP-131-e3haaau)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode, we sit down with the founder and CEO of Sift AI to unpack a problem most founders don’t even realize they have: they’re solving the wrong problems.
+
+From customer discovery and validation to the rise of “vibe founding,” we explore why asking for help with fundraising might actually mean you’re not ready yet—and how AI is both helping and hurting founders in that process.
+
+We also dive into how tools like ChatGPT fall short when it comes to iteration, context, and real business building—and what a more structured, founder-first AI platform could look like.
+
+If you're building (or thinking about building) something, this episode will challenge how you think about strategy, validation, and using AI the right way.
+
+⏰ TIMESTAMPS:
+
+00:00 – Most founders don’t know what they need help with
+
+00:23 – The real reason you’re struggling with fundraising
+
+01:34 – From startups to AI: the founder’s journey
+
+03:09 – Why founders still lack real support
+
+05:22 – The problem with ChatGPT for building businesses
+
+07:16 – Founders don’t know what to ask AI
+
+09:04 – ChatGPT’s bias and “people pleasing” issue
+
+10:01 – The rise of “vibe founding”
+
+14:14 – What “structure as a service” actually means
+
+26:40 – The future of solopreneurs and job security
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ [https://www.jotform.com/](https://www.jotform.com/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Apr 03, 2026 43:20
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/Unlocking-AI-Vector-Databases-with-James-Luan--Zilliz-CPO--EP-130-e3h24kv)
+
+#### [Unlocking AI Vector Databases with James Luan, Zilliz CPO | EP 130](https://creators.spotify.com/ai-agents-podcast/episodes/Unlocking-AI-Vector-Databases-with-James-Luan--Zilliz-CPO--EP-130-e3h24kv)
+
+[**Subscribe to AI Agents Podcast Channel:**](https://creators.spotify.com/ai-agents-podcast/episodes/Unlocking-AI-Vector-Databases-with-James-Luan--Zilliz-CPO--EP-130-e3h24kv)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with James Luan from Zilliz to talk about how AI is already changing the day to day work of engineers. James explains why coding agents are already taking over parts of his workflow, how vector databases became a core building block for modern AI systems, and why retrieval still matters even in a world obsessed with bigger models.
+
+They also get into the real mechanics behind RAG, hallucinations, MCP, long term memory for agents, and the challenges of building production grade AI systems that can search, reason, and scale reliably. If you want a practical conversation about where agent infrastructure is going and what engineers should actually pay attention to, this episode is worth watching.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+**⏰ TIMESTAMPS:**
+
+00:00 – AI is already taking parts of engineering work
+
+01:03 – James Luan’s background and first AI moments
+
+07:07 – Why Zilliz was built and how vector databases fit in
+
+16:58 – Long term memory, agent search, and reasoning workflows
+
+21:37 – MCP, tooling limits, and real world production issues
+
+31:02 – Are coding agents already replacing parts of engineering?
+
+35:52 – AI for travel planning, presentations, and parallel work
+
+38:57 – NotebookLM, Gamma, and James’s favorite AI tools
+
+39:45 – Where to find James and Zilliz
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+**Sign up for free ➡️**[https://www.jotform.com/](https://www.jotform.com/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+**Follow us on:**
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Mar 27, 2026 41:02
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents-for-Risk--Compliance-with-Dror-Asaf-KOVANT--EP-129-e3gv6cv)
+
+#### [AI Agents for Risk & Compliance with Dror Asaf KOVANT | EP 129](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents-for-Risk--Compliance-with-Dror-Asaf-KOVANT--EP-129-e3gv6cv)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents-for-Risk--Compliance-with-Dror-Asaf-KOVANT--EP-129-e3gv6cv)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with Dror Asaf, co-founder and CTO of Coval, to talk about what it actually takes to bring agentic AI into enterprise operations. They get into why supply chain and operations are still surprisingly archaic, why trust and security are some of the biggest blockers to adoption, and how enterprise teams can use AI to remove bottlenecks without removing human decision-making.
+
+Dror also shares how Coval is approaching enterprise AI differently, from on-prem deployments and Microsoft Teams integrations to strong governance and compliance layers. They also dig into the future of jobs, why AI will likely reshape work more than eliminate it, and why the people who know how to leverage these tools will have a massive advantage going forward.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+00:00 – AI, jobs, and why new skill sets will matter most
+
+01:03 – Dror Asaf’s background and why he started Coval
+
+03:42 – Raising pre-seed funding and finding the right VC partner
+
+08:31 – Key milestones: first deployment, first failures, and building the team
+
+11:05 – How Coval uses agents in enterprise operations and supply chain
+
+14:04 – What Dror learned about agent reliability, governance, and hallucinations
+
+23:58 – Coval’s edge: security, on-prem deployment, and Microsoft Teams
+
+27:56 – The long-term vision for enterprise AI adoption
+
+33:16 – Will AI replace jobs or transform them?
+
+38:33 – Dror’s favorite AI tools: Claude Code, Co-work, and more
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ [https://www.jotform.com/](https://www.jotform.com/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Mar 25, 2026 42:49
+
+[ #### AI Agents in Legal Tech - David Wong Thomson Reuters on Responsible AI | EP 127 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, host Demetri Panici sits down with David Wong, Chief Product Officer at Thomson Reuters, to explore how AI agents are starting to reshape legal, tax, audit, and other professional services industries. They discuss how Thomson Reuters evolved far beyond its well-known news brand into a software and research powerhouse for lawyers, accountants, tax professionals, and risk teams — and why AI is now becoming one of the biggest technological shifts those industries have ever seen. David shares his journey from engineering, consulting, and ad systems into leading product at Thomson Reuters, along with how his team tested early GPT models on legal research years ago and watched the technology go from failing badly to becoming good enough for serious professional use cases. Demetri and David also break down how AI can help with legal research, tax preparation, compliance work, and document-heavy workflows, why tax is such a strong fit for AI systems, and how the future of professional services may involve smaller teams supported by highly capable AI agents. This episode is a must-watch for anyone interested in AI agents, legal tech, tax automation, enterprise workflows, and the future of knowledge work — especially if you want to understand how AI is beginning to transform industries built on expertise, research, and structured judgment. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⏰ TIMESTAMPS:00:00 – Smaller teams powered by AI agents 00:52 – Meet David Wong, Chief Product Officer at Thomson Reuters 01:49 – David’s background and journey into product leadership 03:24 – What Thomson Reuters actually does beyond news 06:02 – Early exposure to AI and machine learning 08:39 – Testing GPT-3 on legal research years before the boom 10:20 – Where AI helps in legal research and written work 13:55 – How AI applies to tax preparation and compliance 24:00 – Teaching AI to use tools instead of “doing the math” 33:48 – How AI could flatten team structures in professional services 47:23 – Where to learn more about Thomson Reuters and CoCounsel ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on:Twitter ➡️ https://x.com/aiagentspodcastInstagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Mar 25, 2026 48:39](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents-in-Legal-Tech---David-Wong-Thomson-Reuters-on-Responsible-AI--EP-127-e3gd1lc)[](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-That-Thinks-Like-a-Human---Brian-Raymond-Unstructured-on-Agentic-Software--Human-AI-Collaboration--EP-128-e3ghsq1)
+
+#### [Building AI That Thinks Like a Human - Brian Raymond Unstructured on Agentic Software & Human-AI Collaboration | EP 128](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-That-Thinks-Like-a-Human---Brian-Raymond-Unstructured-on-Agentic-Software--Human-AI-Collaboration--EP-128-e3ghsq1)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-That-Thinks-Like-a-Human---Brian-Raymond-Unstructured-on-Agentic-Software--Human-AI-Collaboration--EP-128-e3ghsq1)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, host Demetri Panici sits down with Bryan Raymond, founder and CEO of Unstructured, to break down one of the least flashy but most important layers in AI: data preparation. They dig into why so many AI prototypes still fail in practice, why RAG systems struggle with messy enterprise data, and how structured inputs like JSON, Markdown, and HTML can dramatically improve model performance.
+
+Bryan explains how Unstructured helps enterprises turn raw files, scanned documents, audio, video, and other messy sources into AI-ready data for RAG pipelines and agent systems. The conversation covers why context quality matters so much, why tables and document layout are still hard for models, how vision-language models changed the game, and what it takes to move from AI prototype to production.
+
+They also get into where AI is heading in 2026: declining failure rates, more practical “bread and butter” use cases, better multi-agent systems, and why companies like Cursor and Lovable have succeeded by packaging great UX around powerful infrastructure. If you want a clearer view of what’s actually missing in enterprise AI stacks right now, this episode is a must-watch.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+00:00 – Why AI still feels exciting and broken at the same time
+
+01:03 – Bryan Raymond’s background and the origin of Unstructured
+
+03:03 – What Unstructured does: turning raw data into AI-ready data
+
+06:06 – Why RAG exists and why structured data matters so much
+
+10:42 – The hard part: tables, layouts, scanned PDFs, and document parsing
+
+17:48 – Who needs this most: gen-AI teams vs data engineering teams
+
+20:20 – The industries moving fastest with enterprise AI
+
+26:28 – 2026 predictions: lower failure rates and stronger agent systems
+
+29:33 – Cursor, Lovable, enterprise UX, and where AI infrastructure is heading
+
+33:42 – AI jobs, junior engineers, and where real opportunity still exists
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ [https://www.jotform.com/](https://www.jotform.com/)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ [https://x.com/aiagentspodcast](https://x.com/aiagentspodcast)
+
+Instagram ➡️ [https://www.instagram.com/aiagentspodcast](https://www.instagram.com/aiagentspodcast)
+
+TikTok ➡️ [https://www.tiktok.com/@aiagentspodcast](https://www.tiktok.com/@aiagentspodcast)
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Mar 17, 2026 43:18
+
+[ #### Claude Code: Rebuilding 5 Websites Without Writing Code | EP 126 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, host Demetri Panici sits down with Jotform CEO Aytekin Tank to explore Claude Code — a powerful AI development tool that lets you build, edit, and deploy entire applications simply by describing what you want. They walk through how Claude Code makes it possible to rebuild abandoned websites, deploy them with Vercel, and manage entire projects without writing a single line of code. By running multiple coding sessions in parallel, developers and non-developers alike can work on several products at once while AI handles the implementation. The conversation also dives into a live demo showing how Claude Code plans changes, modifies a codebase, creates a contact page using Jotform, and pushes updates to a project in real time. Along the way, they discuss how AI coding tools are changing the development workflow — from “vibe coding” and parallel agents to automated GitHub workflows that keep projects updated daily. More importantly, they explore the bigger shift happening in software: when AI handles most of the technical execution, the real bottleneck becomes ideas, product taste, and knowing what to build. If you're curious about the future of AI-assisted development, autonomous coding agents, and how tools like Claude Code could change the way products are built, this episode is a deep dive into what might be the next era of software creation. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⏰ TIMESTAMPS: 00:00 – Rebuilding multiple abandoned websites with Claude Code 03:26 – Using Claude Code alongside OpenClaw infrastructure 07:18 – Why ideas and product taste are becoming the new bottleneck 16:08 – Watching Claude Code execute the development plan 22:38 – Using GitHub to automate website updates 31:11 – Running multiple AI coding agents simultaneously 35:21 – Brainstorming and planning features with AI skills 39:13 – Executing AI-generated development plans 44:11 – Avoiding conflicts when editing projects in parallel 48:02 – The “ChatGPT moment” for AI coding tools 49:28 – Why 2026 feels like a new era for building software 50:23 – Final thoughts on the future of AI-assisted development ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Mar 09, 2026 51:08](https://creators.spotify.com/ai-agents-podcast/episodes/Claude-Code-Rebuilding-5-Websites-Without-Writing-Code--EP-126-e3g5o0l)[ #### OpenClaw: The AI That Controls Your Computer 24/7 | EP 125 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcastIn this episode of the AI Agents Podcast, hosts Aytekin Tank and Demetri Panici break down OpenClaw — a wildly powerful “AI that actually does things.” They compare it to tools like Claude Co-Work, show a live demo pulling G2 reviews and generating a report + Keynote deck, and talk about what it means when agents can run 24/7 via Telegram/Slack/WhatsApp.They also dig into the real tradeoff: OpenClaw’s insane capability (always-on, self-healing/heartbeat, autonomous computer control, agent teams) versus the security risks of giving an unvetted agent too much access. If you’re thinking about running agents on a dedicated machine (like a Mac mini), this episode is basically a “do this, not that” starter kit.This episode is a must-watch for anyone curious about autonomous agents, recurring workflows, and the early “AI employee” era — plus how to use these tools safely without nuking your accounts. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⏰ TIMESTAMPS:00:00 – OpenClaw, always-on agents, and “it figured it out”00:54 – Why OpenClaw might be the craziest tool on the show02:15 – OpenClaw’s rise, name changes, and security concerns04:18 – OpenClaw vs Claude Co-Work (control + limits)07:39 – Live demo: pulling G2 reviews and generating insights12:08 – Making the report better + turning it into a Keynote deck18:02 – How to run OpenClaw via VM/Mac mini + messaging it remotely21:25 – Agent teams + “AI departments” doing recurring work32:14 – Safety checklist: what NOT to give agents access to37:39 – Agents making social networks (and weird agent behavior)46:52 – Final thoughts + using agents responsibly49:13 – Wrap-up▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬Sign up for free ➡️ https://www.jotform.com/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬Follow us on: Twitter ➡️ https://x.com/aiagentspodcastInstagram ➡️ https://www.instagram.com/aiagentspodcastTikTok ➡️ https://www.tiktok.com/@aiagentspodcast▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Mar 03, 2026 49:57](https://creators.spotify.com/ai-agents-podcast/episodes/OpenClaw-The-AI-That-Controls-Your-Computer-247--EP-125-e3fspml)[ #### Vibe Working Is Here: Agent Teams, Claude Code & the Future of SaaS | EP 124 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, hosts Aytekin Tank and Demetri Panici explore the rise of “vibe working” and what it means for knowledge workers, founders, and SaaS companies in 2026. They break down how AI agents like Claude Code, Claude Co-Work, OpenClaw, GPT-5.2, and Gemini are transforming how work gets done—from parallel research agents and automated slide decks to building full internal dashboards with nothing but natural language prompts. The conversation dives into the concept of “agent stress,” running AI agents in parallel, and how teams are starting to manage digital workers the same way they manage human ones. They also discuss the viral “Something Big Is Happening” article and what Anthropic’s latest releases signal for the future of software, SaaS businesses, and market competition. Demetri shares real-world demos of building motion graphics engines, ad dashboards, research systems, and internal tools using Claude Code—without being a traditional engineer. They also unpack the economics behind AI pricing, token subsidies, and why now may be the best time to experiment while frontier models are heavily subsidized. This episode is a must-watch for founders, operators, developers, and ambitious knowledge workers who want to understand how AI agents, parallel workflows, and natural-language programming are reshaping productivity—and how to take advantage of it before the landscape changes. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⏰ TIMESTAMPS: 00:00 – Agent stress and keeping your AI busy 00:50 – What is “vibe working”? 02:18 – Parallel AI agents and agent teams explained 06:11 – $85B wiped from software stocks in one day 08:16 – “What software still matters?” 13:16 – Why recent AI model improvements feel different 15:55 – The $200 Claude plan and token economics1 9:14 – Competition: Claude vs GPT vs Gemini 22:49 – Building dashboards and motion graphics with AI 33:30 – OpenClaw, Cloud Code, and workflow automation 54:08 – How to start vibe working today ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on:Twitter ➡️ https://x.com/aiagentspodcastInstagram ➡️ https://www.instagram.com/aiagentspodcastTikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Feb 27, 2026 57:28](https://creators.spotify.com/ai-agents-podcast/episodes/Vibe-Working-Is-Here-Agent-Teams--Claude-Code--the-Future-of-SaaS--EP-124-e3fmrfd)[ #### Building AI Red Flags - Max Eisendrath Makes Risk Management Smarter with Redflag AI | EP 123 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcastIn this episode of the AI Agents Podcast, host Demetri Panici sits down with Max Eisinger, Founder and CEO of Red Flag AI, to break down content protection in the age of AI, deepfakes, and large-scale digital piracy.They talk about how piracy has evolved from classic reuploads to live stream leaks, and why AI-generated content is making attribution and authenticity harder than ever. Max shares how Red Flag AI approaches detection at scale, why watermarking/fingerprinting and provenance tracking matter, and what platforms like YouTube are doing to respond.They also cover Red Flag’s upcoming “Shield” concept (designed to make training on protected content way more expensive), the arms race of filters/edits meant to evade detection, and why soon humans won’t reliably tell what’s real without advanced verification.This episode is a must-watch for creators, media teams, and AI builders who want a clear view of where content ownership, monetization recovery, and authenticity standards are headed.▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⏰ TIMESTAMPS:00:00 – Can humans still detect AI-generated content?00:40 – Max Eisinger’s background and founding Red Flag AI04:00 – The evolution of online piracy and live stream leaks06:02 – AI-generated content, deepfakes, and attribution challenges08:17 – Making enterprise-level protection accessible to creators10:39 – Watermarking, fingerprinting, and avoiding false positives13:35 – Red Flag Shield: protecting content from AI model training16:47 – Recovering lost revenue for creators18:26 – Shorts, edits, and the content arms race24:20 – Cross-platform protection and centralized control25:34 – The positives and risks of AI-generated media30:24 – Why humans can’t reliably detect AI anymore33:14 – Bottom-up provenance vs. top-down detection36:19 – The future of shared authenticity standards37:23 – AI tools inside software teams42:59 – Where to find Red Flag AI ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Feb 24, 2026 44:30](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-Red-Flags---Max-Eisendrath-Makes-Risk-Management-Smarter-with-Redflag-AI--EP-123-e3ffsju)[ #### Building AI Research Agents with Kevin White (ScrunchAI) | EP122 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, host Demetri Panici speaks with Kevin White, Head of Marketing at Scrunch, about how artificial intelligence is transforming SEO, brand visibility, and digital marketing strategies. As AI platforms like ChatGPT, Perplexity, Gemini, and other large language models rapidly change how users discover products and services, marketers are facing a major shift. Traditional SEO strategies are evolving into something much broader — where brands must now optimize not just for search engines, but also for AI-driven discovery platforms. Kevin shares insights into how companies can benchmark their brand visibility across AI tools, monitor AI crawler activity, and optimize websites to ensure accurate representation within AI-generated responses. The discussion dives deep into the concept of zero-click search, where users get answers directly from AI without visiting websites, and how businesses can still drive conversions despite declining traditional traffic metrics. The conversation also explores Scrunch’s Agent Experience Platform, which helps companies detect AI bot traffic, optimize site structure for AI crawlers using structured formats like markdown and JSON, and create separate optimized experiences for both human visitors and AI agents. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – Marketing in the Age of AI 01:04 – Kevin White’s Marketing & AI Background 03:06 – Joining Scrunch & AI Marketing Opportunities 05:12 – Why Measuring AI Visibility Matters 07:55 – Zero-Click Search & AI Brand Analytics 09:05 – Optimizing Websites for AI Crawlers 10:25 – Agent Experience Platforms Explained 12:55 – How AI Bots Crawl and Interpret Websites 15:17 – Identifying AI Bot Traffic & Analytics 17:04 – Scrunch Customer Workflow & Marketing Maturity Model 19:13 – Target Customers & Market Adoption 21:02 – Real Business Results & Conversion Improvements 23:00 – Higher Conversion Rates from AI Discovery 25:05 – AI Tools Supporting Small & Medium Businesses 29:32 – AI Commerce & Future Content Monetization ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Feb 04, 2026 33:51](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-Research-Agents-with-Kevin-White-ScrunchAI--EP122-e3eim0c)[ #### Social AI Agents with David Petrou Continua AI CEO | EP121 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, host Demetri Panici sits down with David Petrou, founder and CEO of Continua AI, to discuss the evolution of AI agents, multimodal models, and social AI. They explore how agentic systems are reshaping collaboration, productivity, and human connection, sharing insights from real-world experience building AI products and lessons learned from past innovations. David shares his journey from Google, where he spent nearly two decades working on AI and machine learning, to founding Continua AI, a company focused on creating AI agents that actively participate in group conversations, nudging people to connect and collaborate more effectively. They discuss the nuances of AI development, from early experiences with machine learning and language models to the latest breakthroughs in reasoning, tool usage, and zero-shot learning. David and Demetri also cover technical insights, including AI hallucinations, token efficiency, latency, cost optimization, and on-device processing, providing listeners with a clear understanding of the opportunities and challenges in building intelligent systems today. This episode is a must-watch for anyone interested in the future of AI, productivity, and social intelligence—whether you're a developer, entrepreneur, or AI enthusiast—and how cutting-edge AI can elevate both personal and organizational performance. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – Proactive AI agents and Slack integrations 03:18 – Introduction to the AI Agents Podcast 05:15 – David Petri’s background and journey into AI 09:37 – Machine learning, humility, and agentic intelligence 14:06 – Why early AI ideas failed and lessons from Google Glass 18:36 – Multimodal AI and real-world use cases 23:03 – Hallucinations, tokens, and how LLMs actually work 27:03 – Cost, latency, and the rise of on-device AI 31:20 – Designing social AI for group conversations 36:48 – Product vision: AI that enhances human connection 41:55 – The future of agentic AI and collaboration 47:32 – Final thoughts on innovation and timing 52:11 – Episode wrap-up and closing remarks ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Jan 29, 2026 52:22](https://creators.spotify.com/ai-agents-podcast/episodes/Social-AI-Agents-with-David-Petrou-Continua-AI-CEO--EP121-e3eafa8)[ #### Scaling Revenue Teams with AI-Driven GTM Data – Jason Ambrose (People.ai) | EP120 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, we sit down with Jason Ambrose, CEO of People.ai, to explore how AI is transforming revenue operations and scaling go-to-market (GTM) teams. Jason shares how People.ai uses AI-driven data to automate administrative tasks, uncover actionable insights, and enable sales teams to focus on building customer relationships and closing deals. He dives into the critical role of AI in optimizing CRM workflows, forecasting with better accuracy, and surfacing context-rich answers to drive strategic decisions. We also discuss key trends in AI adoption across traditional and tech-forward enterprises, the importance of embedding AI into sales motions without disrupting workflow, and how emerging AI agent frameworks like Multi-Agent Collaboration Protocol (MCP) are unlocking intelligent automation at scale. Whether you're in RevOps, sales leadership, or exploring AI-powered tools to boost productivity, this episode is packed with practical insights for leveraging AI in your GTM strategy. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:33 - Meet The Host And Guest 1:34 - Jason’s Journey Into AI 2:38 - What Is RevTech Explained 5:03 - Joining People AI And Mission 7:01 - How People AI Works 9:05 - Traditional Vs Tech Companies In AI 11:01 - People AI’s Core Differentiators 15:01 - Future Of AI In Sales 20:02 - Product Evolution And MCP Unlock 31:09 - Real Use Cases With Agents And AI ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Jan 27, 2026 51:55](https://creators.spotify.com/ai-agents-podcast/episodes/Scaling-Revenue-Teams-with-AI-Driven-GTM-Data--Jason-Ambrose-People-ai--EP120-e3e8l3a)[ #### AI Agent Relationship Secrets Revealed by Sundar Subramanian Zyter TruCare CEO | EP119 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, Demetri Panici sits down with Sundar Subramanian, CEO of Zyter TruCare, to discuss how AI is transforming healthcare workflows. Sundar shares insights from his work leading AI innovation and building multi-agent systems like SymfonY, which are revolutionizing the way clinicians and healthcare organizations operate. Healthcare is complex, and administrative tasks often take clinicians away from patient care. In this conversation, Sundar explains how AI agents are being deployed to streamline workflows, reduce administrative burden, and improve patient outcomes. From triage documentation to prior authorizations, AI is helping clinicians focus on what truly matters—delivering high-quality, human-centered care. Sundar also dives into the ethical and practical considerations when implementing AI in healthcare. He shares lessons from building AI systems that are not just technologically advanced, but also trusted, human-centric, and scalable. Whether you are a healthcare professional, technology enthusiast, or an AI researcher, this episode provides valuable insights into the future of AI-human collaboration in healthcare. Sundar’s experiences highlight the importance of integrating AI thoughtfully into workflows to maximize both efficiency and human impact. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 – Intro: Exploring AI in healthcare workflows. 2:00 – Sundar shares his journey into AI. 8:00 – Lessons learned from past technology transformations. 14:00 – How Zider is using AI to improve healthcare processes. 20:00 – Streamlining prior authorizations & utilization management. 27:00 – Giving clinicians time back and improving patient care. 33:00 – Building effective human-AI teams in healthcare. 38:00 – Adoption challenges & compliance considerations. 40:00 – Ensuring AI ethics and building trust. 41:00 – Predictions for the future of AI in healthcare. 41:30 – Key takeaways for listeners. 42:00 – Conclusion & wrap-up. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Jan 23, 2026 42:51](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agent-Relationship-Secrets-Revealed-by-Sundar-Subramanian-Zyter-TruCare-CEO--EP119-e3e19s3)[ #### AI Agents Transforming Cybersecurity with Ian Amit (Gomboc.ai) | EP118 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, we speak with Ian Amit, co-founder and CEO of Gomboc.ai, about how AI agents are revolutionizing cybersecurity and infrastructure management. Drawing on his extensive background as both an attacker and defender in the cybersecurity space, Ian discusses how deterministic AI can identify and fix vulnerabilities in cloud environments, optimize performance, and reduce engineering toil at the source—right within the development environment. Ian explains how Gomboc.ai shifts the focus from merely identifying problems to actually fixing them in real-time, embedded within the coding process. We also explore why generative AI often falls short in secure engineering applications and how Gomboc’s deterministic approach brings speed, accuracy, and trust to software development. Whether you're a DevOps professional, security engineer, or tech leader, this episode offers key insights into the future of AI-powered development and cybersecurity. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Expanding Fixes Beyond Security 1:03 - Introducing Ian Amit and Gombok AI 2:00 - How Cybersecurity Led to AI Innovation 5:51 - Problem Solving Through AI in Security 10:02 - Early Motivation Behind Gombok AI 16:01 - Shifting Left in Code Fixing 21:00 - Fixing Code Problems at the Source 28:49 - Problems With AI-Generated Code 33:08 - Real-World Use Cases in Cloud Security ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Jan 19, 2026 38:17](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Agents-Transforming-Cybersecurity-with-Ian-Amit-Gomboc-ai--EP118-e3dn03r)[ #### Claude Cowork is INSANE (Try These Use Cases Out) | EP117 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast Claude Cowork is transforming the way we interact with AI in our daily workflows. In this episode, Demetri Panici and Aytekin Tank explore this groundbreaking new tool from Anthropic, showcasing powerful real-world use cases where Claude Cowork goes beyond basic chat capabilities to actually execute tasks on your desktop. From organizing files to building presentations, automating browser actions, and generating PDF reports, Claude Cowork functions as a true digital assistant, helping users with productivity-enhancing automation without needing to write code. The hosts break down how Claude Cowork leverages access to your computer and browser to perform intelligent tasks with context awareness and user permissions. Whether it's streamlining client meeting recaps, building forms with integrations like Jotform, or cleaning up cluttered folders, this AI agent offers an unparalleled level of autonomy and precision. Tune in to learn how you can start using Claude Cowork to turn ideas into action and boost your daily efficiency with minimal input. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - How Claude Cowork Was Created 1:05 - Introducing Claude Cowork AI Agent 2:20 - Use Cases and Early Impressions 5:01 - Full Access to Files and Browser 7:02 - From Chatbot to Execution Agent 11:01 - Real-Time Folder Organization Demo 17:00 - Claude Cowork’s Planning Capabilities 21:00 - Jotform Integration via MCP Connector 26:00 - Creating Client Meeting Reports 31:00 - Chrome Extension and Web Automation 40:00 - Claude Controls Another AI Session 47:30 - Final Thoughts and Productivity Potential ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Jan 16, 2026 53:57](https://creators.spotify.com/ai-agents-podcast/episodes/Claude-Cowork-is-INSANE-Try-These-Use-Cases-Out--EP117-e3doeah)[ #### AI's Future Unlocked — Peter Grimvall, Ekona AI CEO | EP116 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, we sit down with Peter Grimvall, co-founder and CEO of Ekona AI, to explore how AI is reshaping operations in highly regulated industries like pharma, finance, and supply chain. Peter shares his journey from leading AI initiatives at IKEA to building a lean, AI-first company that simplifies complex business processes using GenAI and machine learning. Hear how Ekona leverages advanced AI models to automate tasks like compliance review, sales forecasting, and agentic workflow orchestration—cutting months of labor down to days. We also dig into practical insights on the evolving capabilities of AI, from building multi-agent solutions to deploying secure, offline AI tools for sensitive industries. Peter offers a grounded take on AI’s real impact on jobs, innovation, and operational agility, making this episode a must-listen for anyone looking to future-proof their organization with smart, scalable AI solutions. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - AI Industry Shifts and Model Trends 1:00 - Guest Introduction and Econa’s Origin Story 6:58 - Running a Lean, AI-First Company 12:15 - Key Use Cases in Pharma and Supply Chain 20:27 - Building and Managing Multi-Agent Systems 27:00 - Evolution of AI Models and Real-World Impact 33:00 - The Truth About AI and Job Displacement 38:01 - Most Misunderstood Business Use of AI 41:04 - Practical Ways Companies Can Implement AI 45:42 - Favorite AI Tools and Real-World Applications ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Jan 13, 2026 49:55](https://creators.spotify.com/ai-agents-podcast/episodes/AIs-Future-Unlocked--Peter-Grimvall--Ekona-AI-CEO--EP116-e3dhars)[ #### Building AI Ads with Ray Jang (Atria) | EP115 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast AI isn’t just changing how we work — it’s redefining who truly belongs in their craft. In this episode of the AI Agents Podcast, host Demetri Panici sits down with Ray Jang, Founder & CEO of Atria, to discuss how AI is reshaping creative work, careers, and the future of modern advertising. From Ray’s journey leaving TikTok to surviving a near-death startup pivot, to building a creative intelligence platform used by brands and agencies alike, this conversation dives deep into: ➡️ How AI is lowering the floor but raising the ceiling ➡️ Why the “middle” of many careers is disappearing ➡️ The future of creative work, advertising, and AI agents ➡️ What it really takes to build and adapt in an AI-first world Whether you’re a founder, marketer, creative, or builder, this episode will challenge how you think about skills, leverage, and long-term relevance. 👉 Are you mastering your craft — or just getting by? ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – AI as a “Binary Filter” for Careers 02:10 – Intro: Meet the Host & Podcast Overview 03:15 – Welcoming Ray Jen, Founder & CEO of Atria 05:40 – Ray’s Background & Time at TikTok 08:45 – The First Startup Idea & Why It Failed 12:30 – The Painful Pivot With 3 Months of Runway 16:40 – Finding Product-Market Fit Under Pressure 21:55 – How Atria Was Born 25:30 – What Creative Intelligence Really Means 30:10 – How Brands & Agencies Use Atria Today 34:45 – Scaling Ads Without Scaling Teams 39:20 – AI, Creativity & Job Displacement 44:10 – Lowering the Floor, Raising the Ceiling 48:55 – Why AI Empowers True Creators 52:10 – Ray’s Long-Term Vision for Atria 54:00 – Final Thoughts & Where to Find Ray ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Jan 08, 2026 54:28](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-Ads-with-Ray-Jang-Atria--EP115-e3dbrv2)[ #### Building AI Risk Mitigation with Ina Jelic Enough CEO | EP114 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast What happens when AI leaves the lab and enters real life? In this episode of the AI Agents Podcast, host Demetri Panici sits down with Ina Jelic, Founder & CEO of Enough, to explore how AI can be used to solve one of the most critical and human problems: personal safety. Ina shares a powerful personal story that led her into building an AI-powered wearable — a mini AI bodyguard — designed to detect threats autonomously using multimodal AI, including audio and video analysis. From real-time danger detection to evidence collection and intelligent escalation, this conversation dives deep into how AI can replace human limitations in high-stress situations. You’ll hear how AI agents reason in real time, why edge AI matters for safety-critical products, and what it really takes to bring AI + hardware into the real world. This episode also explores the emotional, ethical, and technical challenges of deploying AI systems that people rely on when it matters most. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS 00:00 – Why AI going live is both exciting and scary 00:48 – Meeting Ina, Founder & CEO of Enough 02:37 – A real-life attack and the reality of personal safety 05:46 – Introducing the AI-powered wearable bodyguard 08:59 – Audio threat detection and keyword analysis 10:42 – Video analysis, object detection, and behavior patterns 13:17 – Why AI must act without user input 14:01 – From idea to R&D: building the product 16:16 – Why evidence matters psychologically 18:21 – How AI became the true core of the product 19:52 – AI in police systems and manual processes 21:14 – How AI evolution changed the product architecture 23:38 – Edge AI and real-time decision making 25:00 – What edge AI actually means 28:31 – How it feels to finally bring AI into the real world ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Dec 29, 2025 35:41](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-Risk-Mitigation-with-Ina-Jelic-Enough-CEO--EP114-e3cqsc1)[ #### Building the Future of AI Recruiting with Jeff Fish Intelo Founder | EP113 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast Discover how AI agents are transforming retail merchandising and planning with Jeff Fish, Co-Founder & Co-CEO of Intelo AI, on the AI Agents Podcast. Jeff shares insights from his 20+ years in enterprise tech, including leading Salesforce China, and explains why purpose-built, vertical AI agents deliver better results than generic platforms. The discussion covers real retail challenges like spreadsheet overload, inventory misalignment, and planning complexity—and how AI agents help merchandisers focus on strategy instead of repetitive tasks. The episode also explores Intelo AI’s $2M funding round, the “foot wide, mile deep” approach to building multi-agent platforms, and why AI is designed to augment human expertise rather than replace jobs. A must-watch for retail leaders, founders, and anyone curious about how AI is driving measurable ROI in traditional industries. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS 00:00 – Introduction & Jeff’s Background 02:15 – Starting Intelo AI & Building AI in China 05:45 – Co-Founder Partnership Dynamics 11:45 – Merchandising Challenges & Spreadsheet Overload 18:30 – Will AI Replace Jobs? 28:00 – AI Bubble & Valuation Debate 35:30 – Hiring for AI Literacy 43:00 – Multi-Model & Agent Integration Strategy ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Dec 25, 2025 50:23](https://creators.spotify.com/ai-agents-podcast/episodes/Building-the-Future-of-AI-Recruiting-with-Jeff-Fish-Intelo-Founder--EP113-e3cq6ta)[ #### How AI Transforms Healthcare Follow Ups with RJ Burnham | EP112 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast In this episode of the AI Agents Podcast, we explore how artificial intelligence is revolutionizing healthcare follow-ups with RJ Burnham, CEO of Consig. RJ shares his mission to eliminate inefficient manual outreach workflows by embedding AI-driven voice technology directly into existing healthcare systems. By automating the initial stages of patient communication—such as post-discharge check-ins and follow-up calls—Consig is helping providers drastically improve operational efficiency and patient outcomes without adding more tools to already overloaded staff. RJ dives into real-world scenarios where AI-generated conversations have led to meaningful impacts, from reducing hospital readmissions to increasing staff retention. With a firm focus on compliance, data integration, and supporting—not replacing—healthcare workers, RJ reveals how AI can scale care and build better patient-provider relationships. Whether you’re in healthcare tech or just curious about the future of digital care, this episode highlights the powerful role AI can play in reshaping communication in one of the world’s most vital industries. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Reimagining Healthcare Workflows 0:54 - Meet RJ Burnham From Consig 3:03 - Fixing Communication In Healthcare 5:00 - Real-Life Scenarios In Patient Follow-Up 7:00 - Automating Nurse-Patient Phone Calls 12:02 - Navigating Complex Healthcare Systems 17:00 - The Future Of Healthcare Communication 23:02 - Real World Impact And Case Studies 28:00 - Compliance Challenges In AI Healthcare 36:00 - Scaling Human Care With AI ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Dec 23, 2025 44:44](https://creators.spotify.com/ai-agents-podcast/episodes/How-AI-Transforms-Healthcare-Follow-Ups-with-RJ-Burnham--EP112-e3cmu06)[](https://creators.spotify.com/ai-agents-podcast/episodes/Revolutionizing-Industrial-AI-with-James-Zhan--RangerRFX--EP111-e3citt0)
+
+#### [Revolutionizing Industrial AI with James Zhan, RangerRFX | EP111](https://creators.spotify.com/ai-agents-podcast/episodes/Revolutionizing-Industrial-AI-with-James-Zhan--RangerRFX--EP111-e3citt0)
+
+[Subscribe to AI Agents Podcast Channel on YouTube:](https://creators.spotify.com/ai-agents-podcast/episodes/Revolutionizing-Industrial-AI-with-James-Zhan--RangerRFX--EP111-e3citt0)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+Discover how artificial intelligence is transforming the backbone of global industry in this episode of AI Agents.
+
+Host Demetri Panici sits down with James Zhan, founder and CEO of RangerRFX, to explore how AI agents are streamlining tender management and revolutionizing how industrial companies win billion-dollar contracts.
+
+James shares his personal journey from industrial engineer to tech founder and the real pain points that inspired Ranger's mission to modernize and optimize legacy systems.
+
+From computer vision reading decades-old engineering drawings to multi-agent collaboration boosting sales cycles by up to 30%, this conversation is a deep dive into the future of heavy industry powered by AI.
+
+Whether you're in manufacturing, engineering, or just curious about where applied AI is making tangible impact, this episode reveals the tools, strategies, and cultural shifts redefining industrial innovation.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+(0:00) - The Future Of Engineering Careers
+
+(1:02) - Meet James Jen Of Ranger AI
+
+(3:48) - Solving Tendering With AI
+
+(7:01) - What Makes Ranger AI Agentic
+
+(10:17) - Cutting Proposal Time By 30 Percent
+
+(13:00) - Industrial Knowledge Work Is Undervalued
+
+(17:00) - Adoption Challenges In Legacy Industries
+
+(21:00) - AI Agent Use Cases In Industry
+
+(27:00) - Transforming Engineering Drawings With AI
+
+(32:57) - Limiting AI Prompts For Usability
+
+(38:00) - How AI Replaces Busy Work
+
+(41:00) - Why Industrial Automation Won’t Replace All Jobs
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ https://www.jotform.com/
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ https://x.com/aiagentspodcast
+
+Instagram ➡️ https://www.instagram.com/aiagentspodcast
+
+TikTok ➡️ https://www.tiktok.com/@aiagentspodcast
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Dec 19, 2025 57:56
+
+[ #### AI Powered Recruitment Transformation With Sneh Lata RChilli | EP110 Subscribe to AI Agents Podcast Channel on YouTube: https://link.jotform.com/subscribe-to-podcast Discover how AI is revolutionizing talent acquisition in this episode of the AI Agents Podcast featuring Sneh Lata, Director of Product at RChilli. She shares her journey from business analyst to product leader and delves into how RChilli is using generative AI agents to streamline recruitment processes within enterprise platforms like Oracle, SAP, and Salesforce. Learn how AI can clean, structure, and enrich talent data while reducing bias and accelerating hiring decisions. Explore how RChilli’s modular suite—Recruitment AI, Data Hygiene, Unbiased Hiring, and Recruitment Hub—is transforming human capital management with actionable, standardized insights. Sneh also reveals how their AI agents work within existing workflows to enhance candidate data dynamically, while maintaining a human-centric approach rooted in ethical and responsible AI practices. Whether you're in HR tech or simply AI-curious, this episode offers a pragmatic look at real-world AI integration. Connect with Sneh Lata: LinkedIn: https://www.linkedin.com/in/sneh2575/ Email: team@rchilli.com ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - What Is Artificial Intelligence 1:03 - Guest Introduction And Background 2:26 - Journey Into AI And HR Tech 8:06 - Reinventing Recruitment With AI 13:06 - Breaking Down Archely’s Modules 20:00 - Inside The Talent Data Refresh Agent 25:02 - Building Responsible And Inclusive AI 33:05 - The Future Of AI Agents In Workflows 40:52 - Human And AI Collaboration Outlook 45:05 - Personal AI Tools And Best Practices 47:00 - Final Thoughts And Where To Learn More ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Dec 17, 2025 48:10](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Powered-Recruitment-Transformation-With-Sneh-Lata-RChilli--EP110-e3ced6i)[](https://creators.spotify.com/ai-agents-podcast/episodes/Building-Autonomous-AI-Agents-with-Omkar-Pandharkame-Chief-Strategy-Officer-at-Supervity--EP109-e3ccm8k)
+
+#### [Building Autonomous AI Agents with Omkar Pandharkame Chief Strategy Officer at Supervity | EP109](https://creators.spotify.com/ai-agents-podcast/episodes/Building-Autonomous-AI-Agents-with-Omkar-Pandharkame-Chief-Strategy-Officer-at-Supervity--EP109-e3ccm8k)
+
+[Subscribe to AI Agents Podcast Channel on YouTube:](https://creators.spotify.com/ai-agents-podcast/episodes/Building-Autonomous-AI-Agents-with-Omkar-Pandharkame-Chief-Strategy-Officer-at-Supervity--EP109-e3ccm8k)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, hosted by Dmitri Panici and featuring Omkar Pandharkame, Chief Strategy Officer at Supervity, we dive deep into the future of AI employees and how AI agents are reshaping work.
+
+From democratizing AI for everyone to creating conversational AI employees that automate repetitive tasks, this episode is a must-watch for business leaders, AI enthusiasts, and anyone curious about the next wave of AI productivity tools.
+
+Supervity is pioneering the AI employee revolution by making it easy for anyone — from a 10-year-old to enterprise leaders — to build, deploy, and manage AI agents in their workflows.
+
+Discover how AI can handle accounts payable, recruitment, and other critical business processes while keeping humans in command, not just in the loop.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+0:00 – Introduction: Dmitri Panici welcomes Omkar Pandharkame from Supervity
+
+2:10 – Omkar shares his journey: from organizational psychologist to AI strategy leader
+
+5:30 – The vision of Supervity: democratizing AI agents for everyone
+
+8:45 – AI employees vs. traditional SaaS tools: making AI conversational and business-friendly
+
+12:15 – Real-world use cases: Accounts Payable AI employee
+
+15:00 – AI in recruitment: The Super Recruiter for end-to-end hiring automation
+
+18:30 – Removing SaaS baggage: Conversational workflows and Whisper Flow integration
+
+22:00 – Competitors and market positioning: NA10, Crew AI, Gumloop, and others
+
+25:30 – The power of AI orchestration: Operator agents vs. Orchestrator agents
+
+28:45 – AI command center: Managing AI employees effectively
+
+32:00 – Job growth, automation, and repurposing human work
+
+35:30 – Insights on human in command vs. human in the loop
+
+38:00 – Exciting product launches: Supernova V3 AI agent platform, Accounts Payable AI employee, Super
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ https://www.jotform.com/
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ https://x.com/aiagentspodcast
+
+Instagram ➡️ https://www.instagram.com/aiagentspodcast
+
+TikTok ➡️ https://www.tiktok.com/@aiagentspodcast
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Dec 15, 2025 39:49
+
+[ #### Jotform Salesforce AI Agents are Amazing! And Some Other Agents | EP108 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast Salesforce is one of the biggest CRM platforms in the world — used by millions of teams, enterprise organizations, and global brands to manage customers, track leads, run support teams, and automate operations. But with AI entering the picture, the way companies manage customer workflows is changing forever. In this episode of the AI Agents Podcast, host Demetri Panici and Aytekin Tank deep-dive into Salesforce AI Agents, Agentforce, and how Jotform’s AI Agents compare in capability, pricing, and real-world use cases. This episode includes a full walkthrough demo, conversation analysis, behind-the-scenes improvements using AI-powered support, and a look at other tools like Sunbird, Piper, and more. If you’re a business owner, SaaS founder, operations manager, CRM admin, or anyone interested in how AI agents can transform your workflows — this episode is for you. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – Intro: AI Agents + Salesforce Overview 01:14 – Why Salesforce is HUGE for Customer Management 02:32 – Podcast Introduction (Demetri & Aytekin) 04:25 – What This Episode Covers (Salesforce AI Agents + Demo) 06:40 – Why Reviews Matter at the Start of the Episode 08:10 – Salesforce Conference Recap 09:44 – How Jotform Showcased Its Salesforce AI Agent 11:15 – What Makes Salesforce a Big AI Player 12:48 – The Rise of Agentforce (Salesforce’s AI Agent System) 15:32 – Matthew McConaughey Agentforce Ads (Funny Commentary) 17:10 – How Agentforce Works (Reasoning + Context + Actions) 19:05 – Agentforce vs Traditional Chatbots 21:40 – Why Enterprise Companies Use Salesforce AI 23:58 – Agentforce Pricing: $2 per conversation breakdown 25:44 – Comparing Jotform AI Agent Pricing (SMB Focus) 28:30 – Pay-Per-Usage Pros & Cons 29:55 – Why Small Businesses Need Affordable AI Agents 32:10 – Deep Dive: What Salesforce Actually Does 34:00 – Jotform Integration: AI + CRM Sync 36:15 – Improving AI Agents Through Real Support Conversations 38:04 – How Jotform Jumped from 25% → 75% Resolution Rate ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Dec 08, 2025 42:05](https://creators.spotify.com/ai-agents-podcast/episodes/Jotform-Salesforce-AI-Agents-are-Amazing--And-Some-Other-Agents--EP108-e3bud3v)[ #### Google Workspace Studio AI Agents | EP107 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast Every day, we rely on Google products like Gmail, Drive, Docs, Sheets, and Calendar. Now, Google has taken productivity to the next level with Google Workspace Studio, a simple AI-powered agent builder that lets you automate workflows across your Google apps. In this episode of the AI Agents Podcast, Hosts Demetri Panici and Aytekin Tank walk you through this exciting new product, share a live demo, and compare it to other workflow tools like Jotform. From auto-approving expense requests to summarizing meetings and integrating Gmail, Calendar, Sheets, and Docs — Google Workspace Studio brings AI-powered automation to your fingertips. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 – Introduction: AI Agents Podcast & Guest Intro 1:10 – Google Gemini 3 & Momentum in AI 3:05 – Overview of Google Workspace Studio (formerly Workflows / AI Agents) 5:15 – Admin Access & Rollout Details (Dec 3 – Jan 5) 6:40 – Demo: AI-powered Automation Made Simple 9:00 – Workflow Examples: Gmail, Google Calendar, Docs & Sheets Integration 11:30 – Creating a Reimbursement Workflow with AI 14:50 – Testing the Workflow & Auto Approval Demo 18:00 – Comparing Google Workspace Studio vs Jotform Workflows 21:30 – Use Cases, Templates, and Integration Tips 24:10 – Initial Bugs, Alpha/Beta Rollout, and Expectations ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Dec 04, 2025 25:33](https://creators.spotify.com/ai-agents-podcast/episodes/Google-Workspace-Studio-AI-Agents--EP107-e3bss07)[ #### Building AI Agents That Scale – Dikshant Dave Zigment CEO | EP106 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast AI agents aren’t here to replace humans — they’re here to supercharge them. In today’s episode of the AI Agents Podcast, host Demetri Panici sits down with Dikshant Dave, Founder & CEO of Zigment, an AI-powered agentic customer-journey platform helping businesses scale, automate workflows, and boost conversion rates without removing the human element. We dive deep into the evolution of AI agents, how autonomy changed everything, the limitations of traditional chatbots, and why sentiment-aware agentic systems represent the next frontier of customer engagement and sales automation. Whether you’re in SaaS, e-commerce, marketing, or AI development — this conversation will reshape how you think about AI in business. Brought to you by Jotform — your productivity partner for smarter workflows. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 00:00 – Intro: AI Agents ≠ Replacing Humans 01:15 – Meet Your Host & Show Overview 02:20 – Welcoming Guest: Zigment CEO Dikshant Dave 03:05 – How Dikshant Entered the AI Space 06:12 – The Problem That Sparked Zigment 09:10 – Why Traditional Chatbots Failed 11:45 – Autonomy: What Makes Modern AI Agents Different 14:05 – True Difference Between Support Bots & AI Sales Agents 17:00 – Can AI Agents Really Work as Part of a Team? 19:40 – Do AI Agents Replace Humans? The Real Answer 23:22 – Sentiment & Intent Detection Inside Zigment 27:10 – How Modern LLMs Enabled Better Emotional Understanding 31:04 – GPT-3.5 → GPT-4: The Big Jump 33:58 – When Reasoning Models Actually Matter 36:40 – Do Businesses Trust AI to Close Deals? 40:12 – Full AI-Driven Sales? Early Experiments 42:18 – Scaling Zigment to Millions in Revenue 45:51 – Biggest Technical & Product Challenges 49:20 – Multi-Channel Agents: Web, SMS, Email & Social 52:14 – What Keeps the Founder Awake at Night 55:20 – Zigment’s Long-Term Vision & Company Ethos 58:55 – Final Thoughts & Closing Messages ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Dec 03, 2025 49:25](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-Agents-That-Scale--Dikshant-Dave-Zigment-CEO--EP106-e3bqtjd)[ #### Building AI Driven Sales – Peter Jung From Syncsonic AI Reveals the Future | EP105 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast Discover how AI is transforming the future of sales in this episode of the AI Agents Podcast featuring Peter Jung, founder of Syncsonic.ai. Peter shares his journey from performance marketing to building AI-powered sales and support agents, helping businesses optimize lead conversions, automate customer follow-ups, and reduce operational inefficiencies. Learn how his AI receptionist, Amy, is already handling hundreds of calls at a medical clinic and how AI fills post-advertising funnel gaps for local and service-based businesses. We dive deep into real-world applications of conversational AI, the practical challenges of building scalable AI tools for SMBs, and how automation can dramatically enhance customer service and sales without replacing the human touch. Whether you're a founder, marketer, or tech enthusiast, this episode sheds light on how lean teams can leverage AI to scale smarter and operate more efficiently. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:50 - Meet The Guest: Peter From SyncSonic 2:00 - Getting Started In AI And Marketing 4:08 - From Lead Gaps To AI Solutions 6:43 - Automating Follow-Ups With AI Agents 10:24 - Real Use Case: Medical Clinic Receptionist 13:00 - Human-Like Interactions With AI Voice Agents 16:01 - Best Industries For AI Receptionists 22:50 - AI’s Impact On Business Team Size 28:08 - Constant Evolution Of AI Tools 36:02 - Winning With AI At Founders Live 43:06 - Game-Changing AI Ad Creatives At Scale ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Dec 01, 2025 50:21](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-Driven-Sales--Peter-Jung-From-Syncsonic-AI-Reveals-the-Future--EP105-e3bn87n)[ #### AI Revenue Optimization Secrets with Simeon Lukov Dynamic Pricing | EP104 Subscribe to AI Agents Podcast Channel: https://link.jotform.com/subscribe-to-podcast Unlock the secrets of AI-driven revenue growth in this exciting episode featuring Simeon Lukov, CEO of DynamicPricing.ai. Discover how cutting-edge AI tools are transforming e-commerce by automating price testing, optimizing profit margins, and personalizing customer experiences. From rapid price experimentation to agentic workflows powered by reinforcement learning, Simeon shares real-world examples of how top Shopify merchants are capitalizing on AI to stay competitive. We also explore industry trends including personalized pricing strategies, emerging agent-to-agent commerce, and enhanced chatbot integrations. Whether you're a merchant, product manager, or AI enthusiast, this conversation offers valuable insights into how AI is redefining pricing models and shaping the future of online retail. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Shopify and OpenAI Integration 0:57 - Meet Simeon Lukov of Dynamic Pricing AI 2:31 - How Dynamic Pricing AI Works 5:03 - Real Case Studies and ROI 7:03 - Agentic Workflows and Smart Pricing Tools 10:00 - E-Commerce Platform Integrations 12:15 - Exciting Company Growth Metrics 13:06 - Emerging AI Trends in E-Commerce 16:00 - Long-Term Vision and Industry Expansion 20:03 - Personalization, Flash Sales, and Dynamic UI ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Nov 28, 2025 38:17](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Revenue-Optimization-Secrets-with-Simeon-Lukov-Dynamic-Pricing--EP104-e3bjjt8)[](https://creators.spotify.com/ai-agents-podcast/episodes/Transforming-Buyer-Seller-Engagement-with-Alon-Rosenberg-from-Knock-AI--EP103-e3bgdr0)
+
+#### [Transforming Buyer Seller Engagement with Alon Rosenberg from Knock AI | EP103](https://creators.spotify.com/ai-agents-podcast/episodes/Transforming-Buyer-Seller-Engagement-with-Alon-Rosenberg-from-Knock-AI--EP103-e3bgdr0)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/Transforming-Buyer-Seller-Engagement-with-Alon-Rosenberg-from-Knock-AI--EP103-e3bgdr0)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, Demetri Panici sits down with Alon Rosenberg, CEO and co-founder of Knock AI, to explore how AI and messaging apps are transforming buyer-seller engagement in B2B markets.
+
+They dive into the core challenges sales and marketing teams face today—unresponsive leads, low-quality form submissions, and high no-show rates—and how Knock helps businesses eliminate friction by enabling personalized, asynchronous conversations across Slack, WhatsApp, LinkedIn, and more.
+
+Alon shares how Knock’s AI-driven qualification, routing, and engagement tools create a smoother path from inbound lead to sales pipeline, replacing outdated forms, chatbots, and calendar tools.
+
+With smart enrichment data and real-time AI decision-making, Knock is helping growing B2B companies rethink how they build and accelerate pipeline at scale.
+
+Whether you're in demand gen, growth marketing, or sales leadership, this episode offers key insights on the future of go-to-market strategies powered by real-time AI and user-centric engagement.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+0:00 - Intro To AI Messaging
+
+1:04 - Meet The NOC AI Founder
+
+1:48 - What NOC AI Actually Does
+
+3:00 - Role-Based Use Cases For NOC
+
+5:01 - Replacing Traditional Website Tools
+
+6:22 - Top Challenges In GTM Engagement
+
+8:50 - Using Messaging Platforms For Sales
+
+12:01 - AI In Qualification And Routing
+
+21:04 - Future Of Jobs In The AI Era
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ https://www.jotform.com/
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ https://x.com/aiagentspodcast
+
+Instagram ➡️ https://www.instagram.com/aiagentspodcast
+
+TikTok ➡️ https://www.tiktok.com/@aiagentspodcast
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Nov 26, 2025 43:37
+
+[](https://creators.spotify.com/ai-agents-podcast/episodes/From-Founder-to-AI-Innovator--James-Leavesleys-Cultiv8tiv-Journey--EP102-e3bd512)
+
+#### [From Founder to AI Innovator – James Leavesley's Cultiv8tiv Journey | EP102](https://creators.spotify.com/ai-agents-podcast/episodes/From-Founder-to-AI-Innovator--James-Leavesleys-Cultiv8tiv-Journey--EP102-e3bd512)
+
+[Subscribe to AI Agents Podcast Channel:](https://creators.spotify.com/ai-agents-podcast/episodes/From-Founder-to-AI-Innovator--James-Leavesleys-Cultiv8tiv-Journey--EP102-e3bd512)[https://link.jotform.com/subscribe-to-podcast](https://link.jotform.com/subscribe-to-podcast)
+
+In this episode of the AI Agents Podcast, we sit down with James Leavesley, founder and CEO of Cultiv8tiv, to explore how he's innovating workplace culture assessment through AI.
+
+James shares his journey from identifying toxic company culture to launching a powerful AI-driven platform that transforms how organizations understand, measure, and improve their internal dynamics.
+
+By standardizing culture analysis and making it affordable, Cultiv8tiv helps businesses uncover what's really impacting performance, retention, and morale—beyond surface-level engagement surveys.
+
+We also dive into the development of Cultiv8tiv's anonymous Culture Pulse Score, how AI eliminates bias in organizational insights, and why trust and transparency are essential to cultural health.
+
+James explains the role of leadership in shaping strong culture, the importance of gritty, honest feedback, and how AI can accelerate positive change by turning qualitative responses into actionable data.
+
+It's a must-listen for founders, HR leaders, and anyone looking to build a better workplace in the age of AI.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+⏰ TIMESTAMPS:
+
+0:29 - Meet The AI Agents Host
+
+1:19 - How James Entered the AI Space
+
+3:01 - The Workplace Culture Aha Moment
+
+7:00 - Understanding Company Culture Data
+
+10:02 - Fast-Tracking Product Development
+
+13:00 - Targeting Fractional HR Leaders
+
+17:17 - AI’s Role in Measuring Culture
+
+21:24 - Breaking Down The Culture Pulse
+
+26:22 - Leadership Assumptions vs Reality
+
+28:49 - What Sets Their AI Apart
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Sign up for free ➡️ https://www.jotform.com/
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Follow us on:
+
+Twitter ➡️ https://x.com/aiagentspodcast
+
+Instagram ➡️ https://www.instagram.com/aiagentspodcast
+
+TikTok ➡️ https://www.tiktok.com/@aiagentspodcast
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Nov 24, 2025 51:16
+
+[ #### Building Trustworthy Agentic AI at Aarda – Constantin Berthelier | EP101 In this episode of the AI Agents Podcast, Demetri Panici speaks with Constantin Berthelier, COO of Aarda AI, about revolutionizing storytelling in video games through agentic AI. Drawing from his 12-year background in narrative design, Constantin shares how traditional scripted storylines are giving way to dynamic, world-driven experiences enabled by generative AI. He explains how Aarda’s platform supports immersive, player-driven narratives by prioritizing deep worldbuilding instead of limiting gameplay to isolated chatbots. Constantin also dives into the challenges facing the gaming industry’s adoption of AI, including content moderation, monetization, and production costs. He outlines how Aarda’s tools empower developers—from industry veterans to first-time creators—to prototype fully playable narrative games quickly and affordably. By helping users channel AI’s capabilities responsibly and creatively, Aarda aims to make rich, interactive storytelling more accessible than ever before. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Breaking Chatbot Misconceptions 0:47 - Meet Constantine Of Arda AI 1:55 - From Narrative Design To AI Tools 4:04 - Shifting From Scripted To Dynamic AI 6:02 - True Freedom In Narrative Gaming 10:08 - How AI Is Changing Game Development 12:57 - Building Complex AI World Logic 17:01 - Bringing AAA Storytelling To Everyone 24:28 - Rapid Prototyping For Game Creators 31:00 - Storytelling As The Future Of Gaming ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Nov 20, 2025 43:08](https://creators.spotify.com/ai-agents-podcast/episodes/Building-Trustworthy-Agentic-AI-at-Aarda--Constantin-Berthelier--EP101-e3b7uq5)[ #### Tejas Manohar Hightouch Building the Future of Reverse ETL | EP100 In this episode of the AI Agents Podcast, Tejas Manohar, Co-CEO of Hightouch, dives into the transformative power of Reverse ETL and AI in the marketing landscape. From his engineering roots at Segment to leading one of the fastest-growing AI platforms designed for enterprise marketers, Tejas shares how Hightouch is streamlining data activation and audience segmentation—bridging the gap between data warehouses and customer touchpoints to enable fully personalized marketing at scale. Discover how Hightouch's AI-powered agents are helping marketing teams move beyond manual reporting and data wrangling to unlock actionable insights, automate workflows, and build campaigns with more precision and speed. Whether you're managing multi-channel ad strategy, lifecycle marketing, or creative planning, this conversation showcases the real-world impact of AI tools on productivity and marketing ROI for B2C enterprises. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Marketing Teams Are Overwhelmed 1:02 - Introducing Tejas and HighTouch 3:00 - How HighTouch Uses AI in Marketing 5:32 - Inside Look at HighTouch Agents Platform 9:50 - AI and Customization for Enterprises 12:00 - AI-Powered Marketing Reporting 17:00 - Campaign Optimization with AI Agents 21:02 - HighTouch’s Approach to Content Creation 26:01 - Smarter Audience Segmentation with AI 36:00 - The Future of Marketing Jobs and AI ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Nov 18, 2025 40:43](https://creators.spotify.com/ai-agents-podcast/episodes/Tejas-Manohar-Hightouch-Building-the-Future-of-Reverse-ETL--EP100-e3b4ofb)[ #### Why You Have to Try ChatGPT Atlas | EP99 In this episode of the AI Agents Podcast, we explore why ChatGPT Atlas is a must-try tool for anyone looking to supercharge their productivity. Hosts Demetri Panici and Aytekin Tank delve into the powerful new agent mode that turns your browser into a fully automated assistant capable of performing deep web research, managing tasks, and interacting with sites like LinkedIn, G2, and Jotform in real-time. They put Atlas to the test with real-world tasks like building forms, planning a night out, and gathering product research—all simply by giving natural language instructions. Whether you're an entrepreneur, a busy professional, or just someone curious about the future of AI agents, this episode showcases how ChatGPT Atlas's browser integration represents a major upgrade in automation. Say goodbye to basic prompts and hello to intelligent browsing with real-world impact. Tune in to see how AI is transforming how we interact with the web. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Why Writing Prompts Doesn't Scale 1:25 - ChatGPT Launches a Custom Browser 3:09 - Demonstrating Real Browser Automation 5:08 - Deep Research and AI Browsers 8:03 - Building Forms With Voice Commands 11:11 - AI-Powered Research on LinkedIn 17:00 - Planning a Weekend With Agent Mode 22:35 - Smart Reservations and Halloween Finds 36:45 - Researching Review Sites With AI 44:45 - The Future of Browsing Is Agentic ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Nov 14, 2025 46:40](https://creators.spotify.com/ai-agents-podcast/episodes/Why-You-Have-to-Try-ChatGPT-Atlas--EP99-e3av9qe)[ #### Why You Need to Try Out N8N Agent Workflow Builder | EP98 In this episode of the AI Agents Podcast, we dive into why the new N8N Agent Workflow Builder is making waves in the world of AI automation. We explore how this game-changing tool allows users to build intelligent, task-oriented AI workflows using simple natural language prompts—no coding required. From creating AI agents that summarize tech news to automating onboarding processes, you'll discover how N8N’s intuitive interface is reshaping how we interact with automation tools. Join host Demetri Panici and Aytekin Tank as they break down the power of AI agents, discuss key features like tool integrations, memory systems, and real-world applications, and compare how similar innovations are evolving at Jotform. Whether you're a tech enthusiast or a productivity seeker, this episode offers a hands-on look at how AI agents can be leveraged to save time, streamline workflows, and boost efficiency across your daily operations. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Intro To AI Agents Podcast 0:49 - Exploring Workflow Builders 3:00 - How Agent Workflow Builder Works 6:00 - Building A Summarizer Agent 10:01 - Connecting Tools And RSS Feeds 13:01 - Automating Personalized News Alerts 17:03 - Real World Use Cases For AI 20:05 - Comparing With Jotform AI Workflow 24:06 - Accessibility And The Future Of AI 28:00 - Closing Thoughts On AI Progress ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Nov 12, 2025 29:55](https://creators.spotify.com/ai-agents-podcast/episodes/Why-You-Need-to-Try-Out-N8N-Agent-Workflow-Builder--EP98-e3as2i9)[ #### Challenges and Opportunities in Enterprise AI Answer Agents with Yana Tornoe (Question Base) | EP97 In this episode of The AI Agents Podcast, Yana Tornoe, co-founder and COO of Question Base, joins us to explore how artificial intelligence is reshaping how organizations manage knowledge and drive student and employee success in the EdTech space. Yana shares insights from over a decade of building productivity tools, highlighting the challenges enterprises face in converting outdated communication and scattered documentation into verified, reliable answers through AI-powered knowledge systems. We dive into how Question Base integrates with platforms like Slack, Google Drive, and Notion to centralize and enhance knowledge sharing while maintaining accuracy and compliance, especially crucial in sectors like education, medtech, and fintech. Yana also discusses the evolving role of human oversight in AI workflows, emphasizing the need for AI agents to be managed just like any team member to ensure trustworthy and scalable results. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Why AI Management Skills Matter 1:00 - Meet Yana Tornoe Of QuestionBase 2:25 - Building QuestionBase From Real Problems 6:50 - Integrating Slack, Notion And Company Tools 10:00 - Challenges With Enterprise AI Accuracy 14:00 - Industries Adopting AI Agents 22:00 - Impact Of LLM Improvement On Products 29:00 - Evolving UX In AI Knowledge Management 38:00 - Documenting Knowledge In An AI World 41:00 - AI’s Future Impact On The Job Market ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Nov 07, 2025 50:24](https://creators.spotify.com/ai-agents-podcast/episodes/Challenges-and-Opportunities-in-Enterprise-AI-Answer-Agents-with-Yana-Tornoe-Question-Base--EP97-e3aleh4)[ #### Building AI Vision for Industrial Automation's Future - Marc Gyöngyösi (OneTrack) | EP96 In this episode of the AI Agents Podcast, Marc Gyöngyösi, founder and CEO of OneTrack, shares his journey from robotics at BMW to leveraging AI vision technology to revolutionize safety and productivity in industrial environments. We dive into the challenges of outdated legacy systems in warehouses and manufacturing, and how AI agents are now bridging the gap between physical operations and digital intelligence—significantly reducing inefficiencies, improving safety, and elevating real-time decision-making. Marc also discusses OneTrack’s approach to building scalable, multi-agent frameworks that validate results, ensure technical accuracy, and expand beyond static dashboards to offer proactive, personalized insights. Whether it's reducing warehouse injuries, automating operational analysis, or replacing outdated software, this conversation highlights the transformative role of AI in the future of industrial automation. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:27 - Meet The Podcast Hosts 1:18 - Mark’s AI Journey Begins 3:10 - Solving Real-World Logistics Problems 5:49 - Safety And Productivity With AI 10:25 - Why Now Is The Time For AI 13:37 - Long-Term Vision For AI In Operations 20:25 - Ensuring Agent Accuracy And Reliability 27:02 - Reducing AI Risks In The Workplace 33:06 - AI’s Impact On Jobs And Society 35:03 - Why Dashboards Are Becoming Obsolete ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Nov 06, 2025 45:25](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-Vision-for-Industrial-Automations-Future---Marc-Gyngysi-OneTrack--EP96-e3ajhqa)[ #### Building AI Agents for Enterprise with Chris Hand (Genserv.ai) | EP95 In this episode of the AI Agents Podcast, we sit down with Chris Hand, founder and CEO of GenServ.ai, to explore how enterprise organizations can deploy reliable AI agents to handle complex, repeatable business processes. Chris shares his journey from leading a venture studio to launching GenServ, a company dedicated to building "digital employees" that bring automation and generative AI into the back office, streamlining operations across industries like staffing, legal, education, and equipment financing. Throughout the conversation, Chris dives into the technical foundations of building functional AI agents—highlighting prompt chaining, multi-model orchestration, and aligning AI use with real business goals. He also touches on the evolving AI model landscape, including Claude 4.5 Sonnet and Gemini 2.5 Flash, and why system access remains the biggest bottleneck for scaling intelligent agents. If you're looking to adopt AI meaningfully in your business or want to understand how agentic automation is reshaping hiring and knowledge work, this episode offers practical insights. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Back Office Automation With AI 1:37 - Starting GenServ AI 4:08 - The Power Of A Co-Founder 7:18 - Solving Real Business Problems 10:11 - Why Prompt Chaining Still Matters 17:39 - Implementing Agents For Clients 24:25 - AI In Traditional Industries 28:03 - Underestimated Power Of Gemini 36:02 - Evaluating New AI Models 39:58 - Job Replacement And Digital Employees 44:54 - System Access As The Next Barrier ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Nov 04, 2025 49:31](https://creators.spotify.com/ai-agents-podcast/episodes/Building-AI-Agents-for-Enterprise-with-Chris-Hand-Genserv-ai--EP95-e3afq2b)[ #### AI Customer Experiences in Germany - Tyrel Gidinski AICX Founder | EP94 In this episode of AI Agents, we explore how AI is transforming customer experiences in Germany with Tyrel Gidinski, founder of AICX. Tyrel shares insights into why German enterprises are cautiously adopting AI, focusing heavily on security, integration, and measurable outcomes. From improving team collaboration to saving tens of thousands of man-hours with generative AI, Tyrel discusses how AICX has successfully helped clients move from experimentation to impactful implementation. We also dive into the unique challenges and opportunities of building AI agents tailored for the European market, including how the AICX HARP engine operates independently of mainstream tools to ensure enterprise-level security and performance. If you're interested in how AI agents are reshaping industries like automotive, insurance, and consulting—especially in highly regulated environments—this episode delivers actionable strategies and real-world use cases. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - European AI Privacy Concerns 0:49 - Meet Tyrell And His AI Journey 3:07 - Excitement Around AI Adoption 6:00 - Target Customers And Industry Focus 9:20 - Challenges With AI Integration 12:03 - Enterprise Security And MCP Risks 17:31 - Agent KPIs And Business Value 21:06 - Importance Of Adoption In AI 26:04 - The Role Of Internal AI Teams 32:26 - Future Of Agents And Seamless Integration ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Oct 31, 2025 59:29](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Customer-Experiences-in-Germany---Tyrel-Gidinski-AICX-Founder--EP94-e3aaauj)[ #### AI Influencer Workflow Revolution with Kostas Ketselidis Uplodio Founder Exposed | EP93 Discover how AI is disrupting influencer marketing in this revealing episode with Kostas Ketselidis, founder of Uplodio. We dive into how his team built Amy, an AI agent that automates the entire influencer campaign process—from creator discovery and outreach to negotiation and onboarding. Learn how brands are scaling their influencer programs using intelligent agent workflows that reduce manual effort and optimize campaign execution. This episode explores real-world use cases from startups and SaaS companies, the challenges of AI adoption in traditional workflows, and the future of AI agents inside marketing teams. Whether you're a founder, marketer, or AI enthusiast, this episode uncovers how intelligent automation is reshaping the creator economy. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Future Of AI In The Workforce 0:46 - Meet The Guest: Costas From Uplodio 1:21 - How Uplodio Started With AI 2:43 - Transforming Influencer Marketing With AI 4:24 - How Uplodio’s AI Agent Works 5:49 - Case Study: Sivable’s Influencer Campaign 7:02 - Uplodio Vs Traditional Influencer Agencies 8:43 - Why Influencer Marketing Needs Automation 10:23 - The Future Role Of AI In Teams 13:58 - AI Agents And The Job Market Outlook 16:18 - Personality In AI Agents: Meet Amy 20:21 - Where The AI Workflow Currently Ends 24:08 - Building Custom Workflows For Marketing Teams 27:15 - Top AI Tools Founders Are Using 29:58 - Founder Sales Stack Breakdown 34:02 - Favorite Tools And Features Of Uploadio 36:45 - Scaling Influencer Deals Through AI Automation 38:03 - Final Thoughts On AI’s Rapid Growth ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Oct 29, 2025 40:03](https://creators.spotify.com/ai-agents-podcast/episodes/AI-Influencer-Workflow-Revolution-with-Kostas-Ketselidis-Uplodio-Founder-Exposed--EP93-e3a6rk7)[ #### Try Out ChatGPT’s New Agent Builder! | EP92 In this episode of the AI Agents Podcast, Demetri Panici and Aytiken Tank discuss OpenAI’s latest tool, the Agent Builder, a powerful addition to their newly released Agent Kit. They explore how developers can now visually build and deploy AI agents using a workflow-inspired canvas, similar to tools like Zapier or Make. From web searches to API integrations using MCPS, the Agent Builder gives users powerful new capabilities—all customizable with model selection, tool access, output formatting, and more. They also compare OpenAI’s offering with established platforms like Jotform AI Agents, examining pros and cons such as developer complexity, UI differences, and readiness for non-dev users. Whether you're a developer building custom AI workflows, or just curious about how Agent Builder stacks up in the low/no-code space, this episode will help you understand the future potential of AI-driven automation platforms. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ⏰ TIMESTAMPS: 0:00 - Welcome and Episode Overview 0:51 - OpenAI’s Agent Builder Explained 2:25 - Building AI Workflows Visually 5:03 - Real Use Case: Customer Service Agents 10:02 - Jotform AI vs OpenAI Toolkits 14:00 - What Is Included in the Agent Kit 19:06 - Deep Dive into Connectors and MCPs 24:00 - Automating Client Services With Agents 29:00 - Pitfalls of Abandoning Current Tools 32:33 - Final Thoughts and Sign Off ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Sign up for free ➡️ https://www.jotform.com/ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Follow us on: Twitter ➡️ https://x.com/aiagentspodcast Instagram ➡️ https://www.instagram.com/aiagentspodcast TikTok ➡️ https://www.tiktok.com/@aiagentspodcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Oct 27, 2025 34:40](https://creators.spotify.com/ai-agents-podcast/episodes/Try-Out-ChatGPTs-New-Agent-Builder---EP92-e3a3ko3)
