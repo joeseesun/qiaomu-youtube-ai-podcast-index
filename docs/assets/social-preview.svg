@@ -8,7 +8,7 @@
     <path d="M66 28.8c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v38.4c0 1.8-1.5 3.3-3.3 3.3S66 69 66 67.2V28.8Zm-12.3 3.9c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v30.6c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3V32.7Zm-36 7.8c0-1.8 1.5-3.3 3.3-3.3s3.3 1.5 3.3 3.3v15c0 1.8-1.5 3.3-3.3 3.3s-3.3-1.5-3.3-3.3v-15Z" fill="#dd5b00"/>
     <circle cx="73.5" cy="22.5" r="6.3" fill="#0075de"/>
   </g>
-  <text x="116" y="292" fill="#171a18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="800">AI 播客索引</text>
+  <text x="116" y="292" fill="#171a18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="72" font-weight="800">一起学习 Youtube AI 播客</text>
   <text x="116" y="362" fill="#615d59" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="500">整理值得长期跟踪的 AI 播客、中文简介、Transcript 状态和总结入口</text>
   <text x="116" y="430" fill="#171a18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="700">youtube.qiaomu.ai</text>
   <g transform="translate(116 482)" fill="#0075de" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">
