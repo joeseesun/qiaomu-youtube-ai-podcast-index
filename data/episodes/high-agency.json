@@ -1,0 +1,358 @@
+{
+  "podcastId": "high-agency",
+  "podcastTitle": "High Agency",
+  "fetchedAt": "2026-07-02T16:23:46.263Z",
+  "sourceRss": "https://humanloop.com/podcast",
+  "episodes": [
+    {
+      "id": "how-replicate-is-democratizing-ai-with-open-source-resources",
+      "title": "How Replicate is Democratizing AI with Open-Source Resources",
+      "publishedAt": null,
+      "duration": null,
+      "episodeUrl": "https://www.youtube.com/watch?v=RgvXE2_YZtw",
+      "audioUrl": null,
+      "audioType": null,
+      "description": "In this episode, we explore how Replicate is breaking down barriers in AI development through its open-source platform. CEO Ben Firshman shares how Replicate enables developers without machine learning expertise to run AI models in the cloud.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://humanloop.com/blog/replicate-is-democratizing-ai-with-open-source",
+            "type": "text/html",
+            "language": "en"
+          }
+        ],
+        "localPath": "content/transcripts/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+        "localUrl": "/content/transcripts/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+        "sourceType": "text/html",
+        "note": "Saved from Humanloop highlights/transcript page."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+        "localUrl": "/content/articles/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+        "note": "Generated from episode transcript page with Qiaomu writing constraints."
+      },
+      "resources": [
+        {
+          "label": "原文与 Transcript",
+          "url": "https://humanloop.com/blog/replicate-is-democratizing-ai-with-open-source",
+          "type": "source"
+        },
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+          "type": "article"
+        },
+        {
+          "label": "Humanloop 原文",
+          "url": "https://humanloop.com/blog/replicate-is-democratizing-ai-with-open-source",
+          "type": "source"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Replicate 如何借助开源资源推动 AI 普及",
+      "descriptionZh": "本期探讨 Replicate 如何通过开源平台降低 AI 开发门槛。CEO Ben Firshman 分享 Replicate 怎样让没有机器学习经验的开发者也能在云端运行 AI 模型。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:12.120Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+        "localUrl": "/content/summaries/high-agency/how-replicate-is-democratizing-ai-with-open-source-resources.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "principles-for-building-excellent-ai-features",
+      "title": "Principles for Building Excellent AI Features",
+      "publishedAt": null,
+      "duration": null,
+      "episodeUrl": "https://www.youtube.com/watch?v=5Ik2_L3vjqU",
+      "audioUrl": null,
+      "audioType": null,
+      "description": "In this episode of High Agency, Raza speaks with Lorilyn McCue, the driving force behind Superhuman’s AI-powered features. Lorilyn lays out the principles that guide her team’s work, from continuous learning to prioritizing user feedback.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://humanloop.com/blog/principles-for-building-excellent-ai-features",
+            "type": "text/html",
+            "language": "en"
+          }
+        ],
+        "localPath": "content/transcripts/high-agency/principles-for-building-excellent-ai-features.md",
+        "localUrl": "/content/transcripts/high-agency/principles-for-building-excellent-ai-features.md",
+        "sourceType": "text/html",
+        "note": "Saved from Humanloop highlights/transcript page."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/high-agency/principles-for-building-excellent-ai-features.md",
+        "localUrl": "/content/articles/high-agency/principles-for-building-excellent-ai-features.md",
+        "note": "Generated from episode transcript page with Qiaomu writing constraints."
+      },
+      "resources": [
+        {
+          "label": "原文与 Transcript",
+          "url": "https://humanloop.com/blog/principles-for-building-excellent-ai-features",
+          "type": "source"
+        },
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/high-agency/principles-for-building-excellent-ai-features.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/high-agency/principles-for-building-excellent-ai-features.md",
+          "type": "article"
+        },
+        {
+          "label": "Humanloop 原文",
+          "url": "https://humanloop.com/blog/principles-for-building-excellent-ai-features",
+          "type": "source"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/high-agency/principles-for-building-excellent-ai-features.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "打造优秀 AI 功能的原则",
+      "descriptionZh": "本期 High Agency 中，Raza 与 Superhuman AI 功能负责人 Lorilyn McCue 对谈。她分享团队如何以持续学习和用户反馈为核心，制定并打磨 AI 功能的设计原则。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:12.120Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/high-agency/principles-for-building-excellent-ai-features.md",
+        "localUrl": "/content/summaries/high-agency/principles-for-building-excellent-ai-features.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "the-problem-with-rag-terminology",
+      "title": "The Problem with RAG Terminology",
+      "publishedAt": null,
+      "duration": null,
+      "episodeUrl": "https://www.youtube.com/watch?v=561A-exbsDw",
+      "audioUrl": null,
+      "audioType": null,
+      "description": "Jeff Huber covers the evolution of vector databases in AI engineering, challenges common assumptions about RAG and shares insights from Chroma's journey.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://humanloop.com/blog/the-problem-with-rag-terminology",
+            "type": "text/html",
+            "language": "en"
+          }
+        ],
+        "localPath": "content/transcripts/high-agency/the-problem-with-rag-terminology.md",
+        "localUrl": "/content/transcripts/high-agency/the-problem-with-rag-terminology.md",
+        "sourceType": "text/html",
+        "note": "Saved from Humanloop highlights/transcript page."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/high-agency/the-problem-with-rag-terminology.md",
+        "localUrl": "/content/articles/high-agency/the-problem-with-rag-terminology.md",
+        "note": "Generated from episode transcript page with Qiaomu writing constraints."
+      },
+      "resources": [
+        {
+          "label": "原文与 Transcript",
+          "url": "https://humanloop.com/blog/the-problem-with-rag-terminology",
+          "type": "source"
+        },
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/high-agency/the-problem-with-rag-terminology.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/high-agency/the-problem-with-rag-terminology.md",
+          "type": "article"
+        },
+        {
+          "label": "Humanloop 原文",
+          "url": "https://humanloop.com/blog/the-problem-with-rag-terminology",
+          "type": "source"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/high-agency/the-problem-with-rag-terminology.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "RAG 术语的问题",
+      "descriptionZh": "Jeff Huber 讲述向量数据库在 AI 工程中的演进，剖析人们对 RAG 的常见误解，并分享 Chroma 的发展历程与经验。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:16.133Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/high-agency/the-problem-with-rag-terminology.md",
+        "localUrl": "/content/summaries/high-agency/the-problem-with-rag-terminology.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "how-to-create-ai-strategy-in-enterprises",
+      "title": "How to Create AI Strategy in Enterprises",
+      "publishedAt": null,
+      "duration": null,
+      "episodeUrl": "https://www.youtube.com/watch?v=qIJIoRUOIAw",
+      "audioUrl": null,
+      "audioType": null,
+      "description": "Peter Gostev shares his experiences implementing LLMs at NatWest and Moonpig. He discusses creating an AI strategy, talks about the challenges of deploying LLMs in large organizations, and shares thoughts on underappreciated AI developments.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://humanloop.com/blog/how-to-create-ai-strategy",
+            "type": "text/html",
+            "language": "en"
+          }
+        ],
+        "localPath": "content/transcripts/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+        "localUrl": "/content/transcripts/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+        "sourceType": "text/html",
+        "note": "Saved from Humanloop highlights/transcript page."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+        "localUrl": "/content/articles/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+        "note": "Generated from episode transcript page with Qiaomu writing constraints."
+      },
+      "resources": [
+        {
+          "label": "原文与 Transcript",
+          "url": "https://humanloop.com/blog/how-to-create-ai-strategy",
+          "type": "source"
+        },
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+          "type": "article"
+        },
+        {
+          "label": "Humanloop 原文",
+          "url": "https://humanloop.com/blog/how-to-create-ai-strategy",
+          "type": "source"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "如何在企业中制定 AI 战略",
+      "descriptionZh": "Peter Gostev 分享他在 NatWest 和 Moonpig 推行 LLMs 的经历，讨论企业如何制定 AI 战略、在大型组织中部署 LLMs 的挑战，以及一些被低估的 AI 进展。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:16.133Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+        "localUrl": "/content/summaries/high-agency/how-to-create-ai-strategy-in-enterprises.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "building-ai-employees-with-coinbases-ex-cpo",
+      "title": "Building AI Employees with Coinbase's Ex-CPO",
+      "publishedAt": null,
+      "duration": null,
+      "episodeUrl": "https://www.youtube.com/watch?v=5RjeUL95OsE",
+      "audioUrl": null,
+      "audioType": null,
+      "description": "In this episode of High Agency, we're joined by Surojit Chatterjee, former CPO of Coinbase and now CEO of Ema. Surojit unveils his audacious plan to create universal AI employees and revolutionize Fortune 1000 workforce.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://humanloop.com/blog/building-ai-employees",
+            "type": "text/html",
+            "language": "en"
+          }
+        ],
+        "localPath": "content/transcripts/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+        "localUrl": "/content/transcripts/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+        "sourceType": "text/html",
+        "note": "Saved from Humanloop highlights/transcript page."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+        "localUrl": "/content/articles/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+        "note": "Generated from episode transcript page with Qiaomu writing constraints."
+      },
+      "resources": [
+        {
+          "label": "原文与 Transcript",
+          "url": "https://humanloop.com/blog/building-ai-employees",
+          "type": "source"
+        },
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+          "type": "article"
+        },
+        {
+          "label": "Humanloop 原文",
+          "url": "https://humanloop.com/blog/building-ai-employees",
+          "type": "source"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "用 Coinbase 前 CPO 打造 AI 员工",
+      "descriptionZh": "本期 High Agency 邀请 Coinbase 前 CPO、现任 Ema CEO Surojit Chatterjee，分享他打造通用 AI 员工的大胆计划，以及如何面向 Fortune 1000 企业重塑未来劳动力。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:20.448Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+        "localUrl": "/content/summaries/high-agency/building-ai-employees-with-coinbases-ex-cpo.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

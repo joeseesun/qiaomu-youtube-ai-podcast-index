@@ -1,0 +1,288 @@
+{
+  "podcastId": "no-priors",
+  "podcastTitle": "No Priors",
+  "fetchedAt": "2026-07-02T16:23:11.059Z",
+  "sourceRss": "https://feeds.megaphone.fm/nopriors",
+  "episodes": [
+    {
+      "id": "2026-07-02-how-nuclear-will-unlock-energy-abundance-with-valar-atomics-founder-isaiah-taylor",
+      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+      "publishedAt": "2026-07-02T15:00:00.000Z",
+      "duration": "3686",
+      "episodeUrl": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4",
+      "audioUrl": "https://traffic.megaphone.fm/PDP1493614959.mp3",
+      "audioType": "audio/mpeg",
+      "description": "While the rest of the nuclear industry still relies on simulations and paper designs, Valar Atomics is busy splitting atoms. In fact, they just powered an NVIDIA Blackwell chip directly with a live nuclear reactor in order to power the world’s first nuclear powered website. Sarah Guo joins Valar Atomics founder and CEO Isaiah Taylor on-site at their California headquarters to talk about how Valar is shifting nuclear energy from the theoretical to the practical by building and perfecting reactors via hardware iteration. Isaiah discusses why the US stopped building nuclear reactors in the 1970s, and how Valar utilized a little-known pathway via the Department of Energy, revived by a Trump administration executive order, to successfully develop and run their advanced reactor. He also shares Valar’s strategy for vertical integration, their venture-backed approach to financing, their giga-sit",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/no-priors/2026-07-02-how-nuclear-will-unlock-energy-abundance-with-valar-atomics-founder-isaiah-taylor.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4",
+          "type": "source"
+        }
+      ],
+      "titleZh": "核能如何开启能源富足：Valar Atomics 创始人 Isaiah Taylor",
+      "descriptionZh": "Sarah Guo 走访 Valar Atomics，加州总部，和创始人兼 CEO Isaiah Taylor 讨论他们如何用硬件迭代把核能从理论推向实践。节目还聊到美国为何在 1970 年代放缓造堆、Valar 如何借助 DOE 路径推进先进反应堆，以及垂直整合和风险投资融资策略。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:37.732Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/no-priors/2026-07-02-how-nuclear-will-unlock-energy-abundance-with-valar-atomics-founder-isaiah-taylor.md",
+        "localUrl": "/content/summaries/no-priors/2026-07-02-how-nuclear-will-unlock-energy-abundance-with-valar-atomics-founder-isaiah-taylor.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "5Xvbq_zvOQ4",
+        "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+        "matchedAt": "2026-07-03T09:56:30.151Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4"
+      }
+    },
+    {
+      "id": "2026-06-26-really-big-test-time-compute-in-ai-changes-benchmarks-safety-and-research-with-openai",
+      "title": "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown",
+      "publishedAt": "2026-06-26T10:13:00.000Z",
+      "duration": "2178",
+      "episodeUrl": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
+      "audioUrl": "https://traffic.megaphone.fm/PDP3897457969.mp3",
+      "audioType": "audio/mpeg",
+      "description": "When a new AI model drops, it’s judged based on a static benchmark grid that doesn’t account for how long the model is allowed to think. How then should we measure a model’s true capability? OpenAI research scientist Noam Brown returns to talk with Sarah Guo about his latest essay on why the AI industry’s traditional benchmark grids are broken, and how large-scale test-time compute is fundamentally changing how models are evaluated. Noam explains how, if properly scaffolded, today’s models can reason for weeks or even months on complex tasks. He also discusses real-world implications of test-time compute, from building poker solver bots to disproving legendary math conjectures. Together, they also unpack the large gaps in current AI safety frameworks, explore the bottlenecks for recursive self-improvement, and look ahead at the future of multi-agent collaboration and global knowledge sha",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/no-priors/2026-06-26-really-big-test-time-compute-in-ai-changes-benchmarks-safety-and-research-with-openai.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
+          "type": "source"
+        }
+      ],
+      "titleZh": "AI 中超大规模测试时算力如何改变基准、安全与研究：对话 OpenAI 研究科学家 Noam Brown",
+      "descriptionZh": "OpenAI 研究科学家 Noam Brown 做客 No Priors，和 Sarah Guo 讨论他关于传统 AI 基准为何失效的最新文章，以及大规模测试时算力如何改变模型评测。他还谈到模型在复杂任务上可被支撑着推理数周乃至数月，并延伸到扑克求解、数学猜想、AI 安全、递归自我改进与多智能体协作的未来。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:43.948Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/no-priors/2026-06-26-really-big-test-time-compute-in-ai-changes-benchmarks-safety-and-research-with-openai.md",
+        "localUrl": "/content/summaries/no-priors/2026-06-26-really-big-test-time-compute-in-ai-changes-benchmarks-safety-and-research-with-openai.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "AZrU6y3pUcU",
+        "title": "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI's Noam Brown",
+        "matchedAt": "2026-07-03T09:56:30.152Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU"
+      }
+    },
+    {
+      "id": "2026-06-18-re-engineering-the-semiconductor-supply-chain-with-intel-ceo-lip-bu-tan",
+      "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip-Bu Tan",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "duration": "2699",
+      "episodeUrl": "https://www.youtube.com/watch?v=asCgCv2XB4s",
+      "audioUrl": "https://traffic.megaphone.fm/PDP2617151899.mp3",
+      "audioType": "audio/mpeg",
+      "description": "At 66 years old, instead of heading towards retirement, former Cadence CEO and legendary investor Lip-Bu Tan decided to take on the hardest job in tech: turning Intel around. Elad Gil and Sarah Guo sit down with Intel CEO Lip-Bu Tan to talk about why he took the job and what “saving” Intel actually looks like. Tan explains how his experience in startup culture informed his decisions to drive Intel’s culture towards faster decisions, focus on customer satisfaction, and engineer accountability. He also discusses his strategy to strengthen Intel’s balance sheet by welcoming investments from Jensen Huang’s Nvidia, Softbank, and the US government. Tan also shares his product roadmap that centers the CPU for agentic AI and inference, the collaboration with Elon Musk on Terafab, his investing framework for semiconductors, and his views on how AI is reshaping design and operations at, as he puts",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/no-priors/2026-06-18-re-engineering-the-semiconductor-supply-chain-with-intel-ceo-lip-bu-tan.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=asCgCv2XB4s",
+          "type": "source"
+        }
+      ],
+      "titleZh": "重塑半导体供应链：对话 Intel CEO Lip-Bu Tan",
+      "descriptionZh": "Elad Gil 和 Sarah Guo 对话 Intel CEO Lip-Bu Tan，听他解释为何接下这份艰难工作，以及“拯救”Intel 具体意味着什么。Tan 结合创业与投资经验，谈到如何推动更快决策、以客户为中心、强化问责，并通过引入 Nvidia、Softbank 和美国政府投资改善资产负债表，还分享面向 agentic AI 与推理的 CPU 路线图。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:43.948Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/no-priors/2026-06-18-re-engineering-the-semiconductor-supply-chain-with-intel-ceo-lip-bu-tan.md",
+        "localUrl": "/content/summaries/no-priors/2026-06-18-re-engineering-the-semiconductor-supply-chain-with-intel-ceo-lip-bu-tan.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "asCgCv2XB4s",
+        "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
+        "matchedAt": "2026-07-03T09:56:30.152Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=asCgCv2XB4s"
+      }
+    },
+    {
+      "id": "2026-06-10-biohub-the-future-of-biology-is-open-source-with-co-founders-mark-zuckerberg-priscill",
+      "title": "Biohub: The Future of Biology is Open-Source with Co-Founders Mark Zuckerberg, Priscilla Chan, and Head of Science Alex Rives",
+      "publishedAt": "2026-06-10T13:00:00.000Z",
+      "duration": "3380",
+      "episodeUrl": "https://www.youtube.com/watch?v=u8cYwaLzN-k",
+      "audioUrl": "https://traffic.megaphone.fm/PDP2294664679.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Biohub started with an ambitious goal of curing, preventing, and managing all disease by the end of the century. A decade later, thanks to the convergence of frontier AI and biological data, that goal may have been too conservative. In this episode, Elad Gil and Sarah Guo sit down with Biohub co-founders Mark Zuckerberg and Priscilla Chan, alongside Biohub Head of Science Alex Rives. Together, they discuss Biohub’s $500 million virtual biology initiative, which integrates frontier AI with wet-lab work to build predictive world models of cells, proteins, and systems. They also talk about their newly announced open-source engine for digital protein and antibody design, ESMFold2; why Biohub is a nonprofit rather than a venture-backed startup; and how hierarchical simulations will soon allow doctors to treat patients at an individual, mechanistic level. Sign up for new podcasts every week. E",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/no-priors/2026-06-10-biohub-the-future-of-biology-is-open-source-with-co-founders-mark-zuckerberg-priscill.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=u8cYwaLzN-k",
+          "type": "source"
+        }
+      ],
+      "titleZh": "Biohub：生物学的未来是开源的——对话联合创始人 Mark Zuckerberg、Priscilla Chan 与科学负责人 Alex Rives",
+      "descriptionZh": "Biohub 以治愈、预防和管理所有疾病为世纪目标。十年后，Elad Gil 与 Sarah Guo 对话联合创始人 Mark Zuckerberg、Priscilla Chan 和科学负责人 Alex Rives，聊其 5 亿美元虚拟生物学计划、开源蛋白与抗体设计引擎 ESMFold2，以及为何选择非营利模式。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:49.433Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/no-priors/2026-06-10-biohub-the-future-of-biology-is-open-source-with-co-founders-mark-zuckerberg-priscill.md",
+        "localUrl": "/content/summaries/no-priors/2026-06-10-biohub-the-future-of-biology-is-open-source-with-co-founders-mark-zuckerberg-priscill.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "u8cYwaLzN-k",
+        "title": "“Curing All Disease by next century is too conservative\" - Mark Zuckerberg",
+        "matchedAt": "2026-07-03T09:56:30.152Z",
+        "matchScore": 0.222,
+        "url": "https://www.youtube.com/watch?v=u8cYwaLzN-k"
+      }
+    },
+    {
+      "id": "2026-06-04-we-need-an-ecosystem-in-ai-and-every-company-can-win-a-place-in-it",
+      "title": "We Need An Ecosystem in AI, And Every Company Can Win A Place In It",
+      "publishedAt": "2026-06-04T07:00:00.000Z",
+      "duration": "2546",
+      "episodeUrl": "https://www.youtube.com/watch?v=RQE8OS392dU",
+      "audioUrl": "https://traffic.megaphone.fm/PDP8130248763.mp3",
+      "audioType": "audio/mpeg",
+      "description": "What does it mean for a business to truly operate at the AI frontier? In a special crossover episode at Microsoft Build, Sarah Guo and Elad Gil team up with Latent Space host “swyx” to talk with Microsoft Chairman and CEO Satya Nadella about the future of AI platforms, software development, and the tech ecosystem. Satya reflects on the latest breakthroughs from Microsoft Build, the strategic shift toward multi-model harnesses, and why private evaluations (evals) are now a company’s most important intellectual property. They also discuss how autonomous AI agents are reshaping the role of software engineers, the durability of SaaS business models, and why showing communities the ROI on data centers is so critical. Plus, Satya shares his thoughts on the economic and societal impacts of the token economy, as well as the future of AI-driven education startups. Sign up for new podcasts every w",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/no-priors/2026-06-04-we-need-an-ecosystem-in-ai-and-every-company-can-win-a-place-in-it.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=RQE8OS392dU",
+          "type": "source"
+        }
+      ],
+      "titleZh": "AI 需要一个生态系统，而每家公司都能在其中找到位置",
+      "descriptionZh": "在 Microsoft Build 的特别联动节目中，Sarah Guo、Elad Gil 与 Latent Space 主持人 swyx 对话 Microsoft 董事长兼 CEO Satya Nadella，讨论 AI 平台、软件开发与生态系统的未来，以及多模型框架、私有评测、自动化 AI 代理、SaaS 模式韧性和数据中心 ROI。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:49.433Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/no-priors/2026-06-04-we-need-an-ecosystem-in-ai-and-every-company-can-win-a-place-in-it.md",
+        "localUrl": "/content/summaries/no-priors/2026-06-04-we-need-an-ecosystem-in-ai-and-every-company-can-win-a-place-in-it.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "RQE8OS392dU",
+        "title": "We Need An Ecosystem in AI, And Every Company Can Win A Place In It",
+        "matchedAt": "2026-07-03T09:56:30.152Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=RQE8OS392dU"
+      }
+    }
+  ]
+}

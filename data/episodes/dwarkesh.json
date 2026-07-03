@@ -1,0 +1,266 @@
+{
+  "podcastId": "dwarkesh",
+  "podcastTitle": "Dwarkesh Podcast",
+  "fetchedAt": "2026-07-02T16:23:26.470Z",
+  "sourceRss": "https://www.dwarkesh.com/feed",
+  "episodes": [
+    {
+      "id": "2026-07-01-the-winning-essays-for-the-big-questions-about-ai",
+      "title": "The Winning Essays for the Big Questions About AI",
+      "publishedAt": "2026-07-01T22:13:17.000Z",
+      "duration": null,
+      "episodeUrl": "https://www.dwarkesh.com/p/blog-prize-winners",
+      "audioUrl": "https://substack-post-media.s3.amazonaws.com/public/images/38961b9e-fc04-435d-a44b-7e72b0819d86_554x554.jpeg",
+      "audioType": "image/jpeg",
+      "description": "Two months ago, I posted some big questions about AI. We had 600 essays submitted for this contest. Below is a bit of information of the 3 winners, followed by all 3 full essay. Thanks to everyone who participated! First Place - Jassi Pannu Jassi Pannu is an Assistant Professor at Johns Hopkins University, where she focuses on biosecurity and pandemic preparedness. She serves on the board of Blueprint Biosecurity. Jassi answered the question about what the OpenAI Foundation should do. She persuasively argues that we can live in a post-disease world, and gave very concrete and well thought out ideas about how to dedicate 10s of billions of dollars to that project. Second Place - Ege Erdil Ege Erdil is a co-founder of Mechanize , a startup building environments and evals for frontier coding agents. He was previously a researcher at Epoch AI. Ege answered the question about what countries o",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/dwarkesh/2026-07-01-the-winning-essays-for-the-big-questions-about-ai.md",
+        "localUrl": "/content/transcripts/dwarkesh/2026-07-01-the-winning-essays-for-the-big-questions-about-ai.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/dwarkesh/2026-07-01-the-winning-essays-for-the-big-questions-about-ai.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/dwarkesh/2026-07-01-the-winning-essays-for-the-big-questions-about-ai.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AI 大问题征文的获奖文章",
+      "descriptionZh": "两个月前我提出了一些关于 AI 的大问题，这次征文收到了 600 篇稿件。节目介绍了三位获奖者及其文章：Jassi Pannu 讨论 OpenAI Foundation 应该做什么，主张推动无疾病世界；Ege Erdil 则结合 Mechanize 和 Epoch AI 的经验回应国家相关问题。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:07.458Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/dwarkesh/2026-07-01-the-winning-essays-for-the-big-questions-about-ai.md",
+        "localUrl": "/content/summaries/dwarkesh/2026-07-01-the-winning-essays-for-the-big-questions-about-ai.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-30-grant-sanderson-ai-and-the-future-of-math",
+      "title": "Grant Sanderson – AI and the future of math",
+      "publishedAt": "2026-06-30T15:53:19.000Z",
+      "duration": null,
+      "episodeUrl": "https://www.dwarkesh.com/p/grant-sanderson-2",
+      "audioUrl": "https://api.substack.com/feed/podcast/204275916/96bb07d6147c4ef4193fd586a2c304af.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Always so much fun to chat with Grant . AI has been making much faster progress in math than in other fields. As a result, mathematics is showing us, very concretely, what AI progress in other fields will look like. Even within mathematics, there&#8217;s a jagged landscape. What does it look like? What is the nature of the most important conceptual breakthroughs in the history of mathematics, and how different are they from what AIs are currently able to do? Does AI (on net) increase or decrease human understanding of the field? How big is the overhang from having AIs systematically try to connect ideas already in the literature? And what advice does Grant have for aspiring mathematicians, coders, and other students who are passionate about fields that are being most transformed upon by AI? Watch on YouTube ; listen on Apple Podcasts or Spotify . Sponsors Gemini 3.5 Live Translate is wha",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/dwarkesh/2026-06-30-grant-sanderson-ai-and-the-future-of-math.md",
+        "localUrl": "/content/transcripts/dwarkesh/2026-06-30-grant-sanderson-ai-and-the-future-of-math.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/dwarkesh/2026-06-30-grant-sanderson-ai-and-the-future-of-math.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/dwarkesh/2026-06-30-grant-sanderson-ai-and-the-future-of-math.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Grant Sanderson：AI 与数学的未来",
+      "descriptionZh": "和 Grant Sanderson 聊得总是很有趣。AI 在数学上的进展远快于其他领域，也让我们更具体地看到它在别处会如何推进。节目探讨数学中的“崎岖地形”、重大概念突破的本质，以及 AI 连接已有文献的潜力与局限，并给想学数学、写代码的学生一些建议。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:12.426Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/dwarkesh/2026-06-30-grant-sanderson-ai-and-the-future-of-math.md",
+        "localUrl": "/content/summaries/dwarkesh/2026-06-30-grant-sanderson-ai-and-the-future-of-math.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-26-the-next-big-breakthrough-will-be-ais-learning-on-the-job",
+      "title": "The next big breakthrough will be AIs learning on the job",
+      "publishedAt": "2026-06-26T15:51:34.000Z",
+      "duration": null,
+      "episodeUrl": "https://www.dwarkesh.com/p/the-next-paradigm",
+      "audioUrl": "https://api.substack.com/feed/podcast/203704568/53d7d1bee7d0a5057222b2a37ebf9e67.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Here&#8217;s the big research bet the labs are making currently : if we train AIs to accomplish millions of verifiable tasks across thousands of diverse RL environments, then we&#8217;ll basically have built AGI. Because such training will create these general problem solving skills (like how to make progress on an open ended task for weeks on end in the face of errors, mistakes, and ambiguity). The people optimistic about this vision would say that anything we might consider a fundamental deficits with the current learning paradigm&#8212;for example, data inefficiency and lack of continual learning&#8212;can be steamrolled by just scaling training more, just as all the supposed &#8220;fundamental&#8221; research problems in natural language processing collapsed against the flood of compute thrown into LLMs. Yes, these models are 1/1-millionth as sample efficient as humans during trainin",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/dwarkesh/2026-06-26-the-next-big-breakthrough-will-be-ais-learning-on-the-job.md",
+        "localUrl": "/content/articles/dwarkesh/2026-06-26-the-next-big-breakthrough-will-be-ais-learning-on-the-job.md",
+        "note": "Saved from original webpage body."
+      },
+      "resources": [
+        {
+          "label": "原文正文",
+          "url": "/content/articles/dwarkesh/2026-06-26-the-next-big-breakthrough-will-be-ais-learning-on-the-job.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/dwarkesh/2026-06-26-the-next-big-breakthrough-will-be-ais-learning-on-the-job.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=wxOZWD6wYVY",
+          "type": "source"
+        }
+      ],
+      "titleZh": "下一个重大突破，将是 AI 在工作中学习",
+      "descriptionZh": "本期讨论实验室当前押注的研究方向：让 AI 在成千上万种 RL 环境里完成数百万个可验证任务，借此获得近似 AGI 的通用解题能力。节目还分析这种路径是否能弥补数据效率、持续学习等当前缺陷，以及把训练规模继续放大，能否像 LLM 一样压倒所谓“根本性”研究难题。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:12.426Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/dwarkesh/2026-06-26-the-next-big-breakthrough-will-be-ais-learning-on-the-job.md",
+        "localUrl": "/content/summaries/dwarkesh/2026-06-26-the-next-big-breakthrough-will-be-ais-learning-on-the-job.md",
+        "note": "由原始页面正文生成的中文总结。"
+      },
+      "youtube": {
+        "videoId": "wxOZWD6wYVY",
+        "title": "How On Policy Self Distillation Works - Sasha Rush",
+        "url": "https://www.youtube.com/watch?v=wxOZWD6wYVY",
+        "source": "episode-page-embed",
+        "matchedAt": "2026-07-03T10:10:17.331Z",
+        "matchScore": 0.001
+      }
+    },
+    {
+      "id": "2026-06-19-the-data-black-hole-at-the-center-of-ai",
+      "title": "The data black hole at the center of AI",
+      "publishedAt": "2026-06-19T16:45:03.000Z",
+      "duration": null,
+      "episodeUrl": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+      "audioUrl": "https://api.substack.com/feed/podcast/202734201/8586aab0c95c1b9d772549aae349b176.mp3",
+      "audioType": "audio/mpeg",
+      "description": "One definition of intelligence is sample efficiency - that is to say, how much data do you need to see in a given domain in order to operate fluently and competently. It&#8217;s not clear that we&#8217;ve actually made much progress on training sample efficiency over the last few years - it seems like more so we&#8217;ve dramatically widened and improved the data distribution. The main way that AIs have been getting better is from adding more and better data , and scaling the compute to develop that data in the first place. Obviously RL is the main way that has happened. You can think of RL as a kind of synthetic data generation - you dump a lot of compute against a verifier in order to find the &#8220;good&#8221; data. Then you train your model to predict these correct rollouts, much in the same way that you might train it to predict the next word in internet text. For this process to w",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/dwarkesh/2026-06-19-the-data-black-hole-at-the-center-of-ai.md",
+        "localUrl": "/content/transcripts/dwarkesh/2026-06-19-the-data-black-hole-at-the-center-of-ai.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/dwarkesh/2026-06-19-the-data-black-hole-at-the-center-of-ai.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/dwarkesh/2026-06-19-the-data-black-hole-at-the-center-of-ai.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AI 核心的数据黑洞",
+      "descriptionZh": "节目讨论智能的一个关键指标——样本效率：要在某个领域熟练运作，需要看多少数据。过去几年训练样本效率似乎并未明显提升，AI 变强更多依赖更大、更好的数据，以及用算力生成这些数据的能力，RL 也被视为一种合成数据生成方式。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:17.431Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/dwarkesh/2026-06-19-the-data-black-hole-at-the-center-of-ai.md",
+        "localUrl": "/content/summaries/dwarkesh/2026-06-19-the-data-black-hole-at-the-center-of-ai.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-16-ada-palmer-machiavelli-is-the-most-misunderstood-thinker-of-all-time",
+      "title": "Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
+      "publishedAt": "2026-06-16T17:27:51.000Z",
+      "duration": null,
+      "episodeUrl": "https://www.dwarkesh.com/p/ada-palmer-2",
+      "audioUrl": "https://api.substack.com/feed/podcast/202271948/86d8188a61055b682e315bbbf910e784.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Had Ada Palmer back on &#8211; this time to talk about Machiavelli, perhaps the most misunderstood thinker of all time. Machiavelli cut his teeth as a high-level diplomat for Florence, a position from which he got to closely observe the most important rulers in Europe at the time, including the ones who were on the path to destroying his dearly beloved Florence. In 1513 the Medici retook control of Florence and, wrongly suspecting Machiavelli of participating in a coup attempt, fired, tortured, and exiled him. Machiavelli could have fled his exile and worked for any number of different principalities that would have been eager to make use of his talents. Instead, he decided to rot in the countryside and compile his career&#8217;s lessons about power, politics, and human nature into a book he dedicated to the very man whose new regime had tortured and exiled him, Lorenzo di Piero de&#8217",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/dwarkesh/2026-06-16-ada-palmer-machiavelli-is-the-most-misunderstood-thinker-of-all-time.md",
+        "localUrl": "/content/transcripts/dwarkesh/2026-06-16-ada-palmer-machiavelli-is-the-most-misunderstood-thinker-of-all-time.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/dwarkesh/2026-06-16-ada-palmer-machiavelli-is-the-most-misunderstood-thinker-of-all-time.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/dwarkesh/2026-06-16-ada-palmer-machiavelli-is-the-most-misunderstood-thinker-of-all-time.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Ada Palmer：Machiavelli 可能是有史以来最被误解的思想家",
+      "descriptionZh": "Ada Palmer 回到节目，聊被认为是“最被误解的思想家”Machiavelli。节目回顾他在 Florence 作为高级外交官的经历、亲眼观察欧洲权力斗争，以及 1513 年 Medici 回归后他遭到解雇、酷刑和流放，并如何把对权力、政治与人性的体悟写成著作。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:17.431Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/dwarkesh/2026-06-16-ada-palmer-machiavelli-is-the-most-misunderstood-thinker-of-all-time.md",
+        "localUrl": "/content/summaries/dwarkesh/2026-06-16-ada-palmer-machiavelli-is-the-most-misunderstood-thinker-of-all-time.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

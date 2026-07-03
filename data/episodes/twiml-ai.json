@@ -1,0 +1,253 @@
+{
+  "podcastId": "twiml-ai",
+  "podcastTitle": "The TWIML AI Podcast",
+  "fetchedAt": "2026-07-02T16:23:13.325Z",
+  "sourceRss": "https://feeds.megaphone.fm/MLN2155636147",
+  "episodes": [
+    {
+      "id": "2026-06-16-why-ai-agents-break-the-genai-security-model-with-devvret-rishi-770",
+      "title": "Why AI Agents Break the GenAI Security Model with Devvret Rishi - #770",
+      "publishedAt": "2026-06-16T22:10:00.000Z",
+      "duration": "3378",
+      "episodeUrl": "https://twimlai.com/podcast/twimlai/why-ai-agents-break-genai-security-model",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN4571778209.mp3",
+      "audioType": "audio/mpeg",
+      "description": "In this episode, Sam talks with Dev Rishi, GM of AI at Rubrik, about what happens when agents move beyond answering questions and start taking action across tools, systems, and business processes. We explore why the enterprise playbook of static guardrails plus human approval starts to break down in the agent era. Agents are useful because they can plan, call tools, update systems, write code, send messages, and operate across workflows at machine speed, but those same capabilities make them difficult to govern with rules written in advance or approval prompts reviewed one at a time. Dev explains why tool access increases blast radius, why agents can route around controls in surprising ways, and why human-in-the-loop review can become security theater when agents operate at scale. We also discuss what enterprises need instead: better visibility, runtime enforcement, policy-aware governan",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/twiml-ai/2026-06-16-why-ai-agents-break-the-genai-security-model-with-devvret-rishi-770.md",
+        "localUrl": "/content/transcripts/twiml-ai/2026-06-16-why-ai-agents-break-the-genai-security-model-with-devvret-rishi-770.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/twiml-ai/2026-06-16-why-ai-agents-break-the-genai-security-model-with-devvret-rishi-770.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/twiml-ai/2026-06-16-why-ai-agents-break-the-genai-security-model-with-devvret-rishi-770.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "为什么 AI Agents 会打破 GenAI 安全模型——Devvret Rishi 访谈",
+      "descriptionZh": "本期 Sam 对谈 Rubrik 的 AI 总经理 Dev Rishi，探讨 AI agents 从回答问题走向跨工具、系统和业务流程行动后，企业原有的静态护栏加人工审批为何失效。节目还分析工具权限扩大攻击面、agents 绕过控制的方式，以及规模化后人工复核为何可能沦为安全表演，并讨论企业更需要的可观测性、运行时强制和策略感知治理。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:12.643Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/twiml-ai/2026-06-16-why-ai-agents-break-the-genai-security-model-with-devvret-rishi-770.md",
+        "localUrl": "/content/summaries/twiml-ai/2026-06-16-why-ai-agents-break-the-genai-security-model-with-devvret-rishi-770.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-09-is-rag-dead-lessons-from-building-ai-for-tax-law-with-alex-bowcut-769",
+      "title": "Is RAG Dead? Lessons from Building AI for Tax Law with Alex Bowcut - #769",
+      "publishedAt": "2026-06-09T19:25:00.000Z",
+      "duration": "3092",
+      "episodeUrl": "https://twimlai.com/podcast/twimlai/rag-dead-lessons-building-ai-tax-law",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN3192814886.mp3",
+      "audioType": "audio/mpeg",
+      "description": "As context windows grow into the millions of tokens, many AI practitioners are questioning whether retrieval-augmented generation (RAG) is still necessary. If modern models can ingest entire libraries of documents, why bother with retrieval at all? In this episode, Alex Bowcut, Head of Engineering at Sphere, explains why the answer depends on the application. Sphere uses AI to automate global tax compliance—an environment where getting the answer right isn’t enough. Every conclusion must be backed by the correct legal citation, and every decision must withstand expert review. We explore how Sphere built TRAM (Tax Review and Assessment Model), a production AI system that combines retrieval, reasoning models, legal review workflows, reinforcement learning, and deterministic systems to help tax experts move nearly two orders of magnitude faster while maintaining accuracy. Along the way, we ",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/twiml-ai/2026-06-09-is-rag-dead-lessons-from-building-ai-for-tax-law-with-alex-bowcut-769.md",
+        "localUrl": "/content/transcripts/twiml-ai/2026-06-09-is-rag-dead-lessons-from-building-ai-for-tax-law-with-alex-bowcut-769.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/twiml-ai/2026-06-09-is-rag-dead-lessons-from-building-ai-for-tax-law-with-alex-bowcut-769.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/twiml-ai/2026-06-09-is-rag-dead-lessons-from-building-ai-for-tax-law-with-alex-bowcut-769.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "RAG 过时了吗？与 Alex Bowcut 谈面向税法的 AI 构建经验 - #769",
+      "descriptionZh": "随着上下文窗口扩展到百万级 token，RAG 是否还必要引发争论。本期 Alex Bowcut 介绍 Sphere 如何用 AI 自动化全球税务合规，以及 TRAM 在检索、推理、法律审核、强化学习和确定性系统协同下，如何在保证准确与法条依据的前提下提速近百倍。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:17.976Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/twiml-ai/2026-06-09-is-rag-dead-lessons-from-building-ai-for-tax-law-with-alex-bowcut-769.md",
+        "localUrl": "/content/summaries/twiml-ai/2026-06-09-is-rag-dead-lessons-from-building-ai-for-tax-law-with-alex-bowcut-769.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-21-relational-foundation-models-for-enterprise-data-with-jure-leskovec-768",
+      "title": "Relational Foundation Models for Enterprise Data with Jure Leskovec - #768",
+      "publishedAt": "2026-05-21T19:38:00.000Z",
+      "duration": "3983",
+      "episodeUrl": "https://twimlai.com/podcast/twimlai/relational-foundation-models-enterprise-data",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN3747054711.mp3",
+      "audioType": "audio/mpeg",
+      "description": "In this episode, Jure Leskovec, co-founder and chief scientist at Kumo and professor of computer science at Stanford, joins us to explore two fronts of his work: AI for science and relational deep learning. We begin with AI Virtual Cell, a multiscale effort to learn data-driven representations from proteins to cells to patients using single-cell RNA-seq data, protein language models like ESM, and structure models like AlphaFold—without hand-encoding biology. Jure then dives into relational deep learning, reframing enterprise databases as graphs and training neural networks directly on raw multi-table data. He explains Kumo’s Relational Foundation Model (RFM2), which performs in-context learning over subgraphs to make accurate predictions on new databases and tasks with no training, and how this approach benchmarks against RelBench and other multi-table datasets. We also discuss real-worl",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/twiml-ai/2026-05-21-relational-foundation-models-for-enterprise-data-with-jure-leskovec-768.md",
+        "localUrl": "/content/transcripts/twiml-ai/2026-05-21-relational-foundation-models-for-enterprise-data-with-jure-leskovec-768.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/twiml-ai/2026-05-21-relational-foundation-models-for-enterprise-data-with-jure-leskovec-768.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/twiml-ai/2026-05-21-relational-foundation-models-for-enterprise-data-with-jure-leskovec-768.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "面向企业数据的关系型基础模型：与 Jure Leskovec 对谈 - #768",
+      "descriptionZh": "本期 Jure Leskovec 分享他在 Kumo 与 Stanford 的两条研究线：AI for science 和关系深度学习。内容涵盖 AI Virtual Cell、单细胞 RNA-seq、ESM、AlphaFold，以及把企业多表数据库视为图来训练的 RFM2，如何在新数据库上实现无需训练的预测，并与 RelBench 等基准比较。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:17.976Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/twiml-ai/2026-05-21-relational-foundation-models-for-enterprise-data-with-jure-leskovec-768.md",
+        "localUrl": "/content/summaries/twiml-ai/2026-05-21-relational-foundation-models-for-enterprise-data-with-jure-leskovec-768.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-07-how-to-find-the-agent-failures-your-evals-miss-with-scott-clark-767",
+      "title": "How to Find the Agent Failures Your Evals Miss with Scott Clark - #767",
+      "publishedAt": "2026-05-07T22:46:00.000Z",
+      "duration": "3199",
+      "episodeUrl": "https://twimlai.com/podcast/twimlai/how-find-agent-failures-your-evals-miss",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN7498240745.mp3?updated=1778194521",
+      "audioType": "audio/mpeg",
+      "description": "In this episode, Scott Clark, co-founder and CEO of Distributional, joins us to explore how teams can reliably operate and improve complex LLM systems and agents in production. Scott introduces a Maslow’s hierarchy of observability: telemetry for logging, monitoring for known signals, and post-production or online analytics to surface unknown unknowns. We dig into examples of real-world failures Scott’s team has seen in production systems, such as “lazy” tool-use hallucinations that standard evals miss, and how mapping traces into vector fingerprints enables clustering and topic discovery to uncover emergent behaviors. Scott explains how analytics can feed the data flywheel by generating evals, guardrails, and training data, and why online, adaptive approaches are essential for non-stationary models. We also touch on practical how-to’s such as instrumentation with OpenTelemetry, the GenA",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/twiml-ai/2026-05-07-how-to-find-the-agent-failures-your-evals-miss-with-scott-clark-767.md",
+        "localUrl": "/content/transcripts/twiml-ai/2026-05-07-how-to-find-the-agent-failures-your-evals-miss-with-scott-clark-767.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/twiml-ai/2026-05-07-how-to-find-the-agent-failures-your-evals-miss-with-scott-clark-767.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/twiml-ai/2026-05-07-how-to-find-the-agent-failures-your-evals-miss-with-scott-clark-767.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "如何发现你的评测漏掉的 Agent 失败：Scott Clark 访谈 #767",
+      "descriptionZh": "本期节目中，Distributional 联合创始人兼 CEO Scott Clark 讨论团队如何在生产环境中可靠地运行和改进复杂的 LLM 系统与 agents。他提出可观测性的“马斯洛层级”，并结合真实案例讲解评测为何会漏掉“懒惰”式工具调用幻觉，以及如何用向量指纹、聚类和主题发现找出异常行为。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:23.229Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/twiml-ai/2026-05-07-how-to-find-the-agent-failures-your-evals-miss-with-scott-clark-767.md",
+        "localUrl": "/content/summaries/twiml-ai/2026-05-07-how-to-find-the-agent-failures-your-evals-miss-with-scott-clark-767.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-04-30-how-to-engineer-ai-inference-systems-with-philip-kiely-766",
+      "title": "How to Engineer AI Inference Systems with Philip Kiely - #766",
+      "publishedAt": "2026-04-30T20:21:00.000Z",
+      "duration": "3291",
+      "episodeUrl": "https://twimlai.com/podcast/twimlai/how-engineer-ai-inference-systems",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN3829343846.mp3?updated=1777581088",
+      "audioType": "audio/mpeg",
+      "description": "In this episode, Philip Kiely, head of AI education at Baseten, joins us to unpack the fast-evolving discipline of inference engineering. We explore why inference has become the stickiest and most critical workload in AI, how it blends GPU programming, applied research, and large-scale distributed systems, and where the line sits between inference and model serving. Philip shares how research-to-production can move in hours, not months, and why understanding “the knobs” of inference—batching, quantization, speculation, and KV cache reuse—lets teams design better products and SLAs. We trace the inference maturity journey from closed APIs to dedicated deployments and in-house platforms, discuss GPU lifecycles, and survey today’s runtime landscape, including vLLM, SGLang, and TensorRT LLM. Finally, we look ahead to agents and multimodality, making the case for specialized, workload-specific",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/twiml-ai/2026-04-30-how-to-engineer-ai-inference-systems-with-philip-kiely-766.md",
+        "localUrl": "/content/transcripts/twiml-ai/2026-04-30-how-to-engineer-ai-inference-systems-with-philip-kiely-766.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/twiml-ai/2026-04-30-how-to-engineer-ai-inference-systems-with-philip-kiely-766.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/twiml-ai/2026-04-30-how-to-engineer-ai-inference-systems-with-philip-kiely-766.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "如何设计 AI 推理系统：Philip Kiely 访谈 #766",
+      "descriptionZh": "本期节目中，Baseten 的 AI 教育负责人 Philip Kiely 解析快速演进的 inference engineering。我们讨论为什么推理已成为 AI 中最关键的工作负载，涵盖 batching、quantization、speculation、KV cache reuse 等关键“旋钮”，以及从闭源 API 到自建平台的成熟路径，并展望 agents 与多模态场景。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:23.229Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/twiml-ai/2026-04-30-how-to-engineer-ai-inference-systems-with-philip-kiely-766.md",
+        "localUrl": "/content/summaries/twiml-ai/2026-04-30-how-to-engineer-ai-inference-systems-with-philip-kiely-766.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

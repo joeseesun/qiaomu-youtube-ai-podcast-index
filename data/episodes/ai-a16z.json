@@ -1,0 +1,253 @@
+{
+  "podcastId": "ai-a16z",
+  "podcastTitle": "AI + a16z",
+  "fetchedAt": "2026-07-02T16:24:08.276Z",
+  "sourceRss": "https://feeds.simplecast.com/Hb_IuXOo",
+  "episodes": [
+    {
+      "id": "2026-06-24-building-self-accelerating-ai-with-mirendil",
+      "title": "Building Self-Accelerating AI with Mirendil",
+      "publishedAt": "2026-06-24T19:12:55.000Z",
+      "duration": "00:40:38",
+      "episodeUrl": "https://ai-a16z.simplecast.com/episodes/building-self-accelerating-ai-with-mirendil-rt3KPYBk",
+      "audioUrl": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/112866f3-1a50-4a8d-b12e-850b73e71b33/episodes/0e476d5b-0145-4529-ba37-159a9e705e69/audio/128/default.mp3?aid=rss_feed&awCollectionId=112866f3-1a50-4a8d-b12e-850b73e71b33&awEpisodeId=0e476d5b-0145-4529-ba37-159a9e705e69&feed=Hb_IuXOo",
+      "audioType": "audio/mpeg",
+      "description": "Matt Bornstein speaks with Mirendil cofounders Behnam Neyshabur and Harsh Mehta about their vision for building self-accelerating AI. After leading research efforts at Google and Anthropic, the founders started Mirendil around a simple question: what happens when AI systems can meaningfully contribute to their own development? Rather than focusing solely on AI as a tool for productivity, they argue that the most important application may be accelerating scientific and technological progress itself. The conversation explores AI research, scaling laws, automated engineering, scientific discovery, and the challenges of building systems that can improve over time. They discuss the future of AI-assisted research, why they believe scientific progress remains bottlenecked by intelligence, and how more capable AI systems could help unlock advances across medicine, engineering, and the natural sc",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-a16z/2026-06-24-building-self-accelerating-ai-with-mirendil.md",
+        "localUrl": "/content/transcripts/ai-a16z/2026-06-24-building-self-accelerating-ai-with-mirendil.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-a16z/2026-06-24-building-self-accelerating-ai-with-mirendil.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-a16z/2026-06-24-building-self-accelerating-ai-with-mirendil.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "与 Mirendil 一起打造自我加速的 AI",
+      "descriptionZh": "Matt Bornstein 与 Mirendil 联合创始人 Behnam Neyshabur 和 Harsh Mehta 探讨自我加速型 AI 的愿景。他们在 Google 和 Anthropic 做过研究后创办 Mirendil，讨论 AI 如何参与自身发展，以及其在科研、工程和科学发现中的潜在作用。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:55.434Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-a16z/2026-06-24-building-self-accelerating-ai-with-mirendil.md",
+        "localUrl": "/content/summaries/ai-a16z/2026-06-24-building-self-accelerating-ai-with-mirendil.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-15-ideograms-open-weights-image-model-and-the-future-of-ai-design",
+      "title": "Ideogram’s Open-Weights Image Model and the Future of AI Design",
+      "publishedAt": "2026-06-15T15:40:03.000Z",
+      "duration": "00:42:56",
+      "episodeUrl": "https://ai-a16z.simplecast.com/episodes/ideograms-open-weights-image-model-and-the-future-of-ai-design-qXdoKLhL",
+      "audioUrl": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/112866f3-1a50-4a8d-b12e-850b73e71b33/episodes/5c87748e-e560-480d-b57e-2b9275399f6f/audio/128/default.mp3?aid=rss_feed&awCollectionId=112866f3-1a50-4a8d-b12e-850b73e71b33&awEpisodeId=5c87748e-e560-480d-b57e-2b9275399f6f&feed=Hb_IuXOo",
+      "audioType": "audio/mpeg",
+      "description": "Yoko Li and Justine Moore speak with Ideogram founder and CEO Mohammad Norouzi about image generation models, design workflows, and the evolving relationship between AI and creative work. The conversation covers Ideogram's decision to release an open-weight model, the challenges of generating text and layouts within images, and why controllability has become an increasingly important area of research. They discuss prompting, customization, editing, and the tradeoffs between general-purpose models and systems optimized for specific creative tasks. Along the way, Norouzi shares his views on open-source AI, design tools, agentic workflows, and how image generation models may evolve as creators and enterprises seek greater control over their outputs. Resources: Follow Mohammad Norouzi on X: https://x.com/mo_norouzi Follow Yoko Li on X: https://x.com/stuffyokodraws Follow Justine Moore on X: ",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-a16z/2026-06-15-ideograms-open-weights-image-model-and-the-future-of-ai-design.md",
+        "localUrl": "/content/transcripts/ai-a16z/2026-06-15-ideograms-open-weights-image-model-and-the-future-of-ai-design.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-a16z/2026-06-15-ideograms-open-weights-image-model-and-the-future-of-ai-design.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-a16z/2026-06-15-ideograms-open-weights-image-model-and-the-future-of-ai-design.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Ideogram 的开放权重图像模型与 AI 设计的未来",
+      "descriptionZh": "Yoko Li 和 Justine Moore 对话 Ideogram 创始人兼 CEO Mohammad Norouzi，聊图像生成模型、设计工作流，以及 AI 与创意工作的变化关系。内容涵盖开放权重模型发布、图像中的文字与排版生成、可控性、提示词、自定义与编辑，以及开源 AI 和 agentic 工作流的未来。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:55.434Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-a16z/2026-06-15-ideograms-open-weights-image-model-and-the-future-of-ai-design.md",
+        "localUrl": "/content/summaries/ai-a16z/2026-06-15-ideograms-open-weights-image-model-and-the-future-of-ai-design.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-04-building-search-for-ai-agents-with-exa-ceo-will-bryk",
+      "title": "Building Search for AI Agents with Exa CEO Will Bryk",
+      "publishedAt": "2026-06-04T14:53:51.000Z",
+      "duration": "00:49:44",
+      "episodeUrl": "https://ai-a16z.simplecast.com/episodes/building-search-for-ai-agents-with-exa-ceo-will-bryk-O7xRJK9R",
+      "audioUrl": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/112866f3-1a50-4a8d-b12e-850b73e71b33/episodes/78646531-28f3-4402-a559-37b1fa935fb4/audio/128/default.mp3?aid=rss_feed&awCollectionId=112866f3-1a50-4a8d-b12e-850b73e71b33&awEpisodeId=78646531-28f3-4402-a559-37b1fa935fb4&feed=Hb_IuXOo",
+      "audioType": "audio/mpeg",
+      "description": "Sarah Wang speaks with Exa cofounder and CEO Will Bryk about building search infrastructure for the AI era. The conversation covers Exa’s origins, why traditional search engines were not designed for AI agents, and how search changes when the user is no longer a human but an autonomous system. They discuss retrieval, agent workflows, coding agents, data access, and why search may become a foundational layer for the emerging agent economy. Along the way, Bryk shares his views on AI-native products, the future of information discovery, and why some of the most important problems in technology can ultimately be framed as search problems. Resources: Find Will on X: https://x.com/WilliamBryk Find Sarah on X: https://x.com/sarahdingwang Check out everything a16z is doing with artificial intelligence here , including articles, projects, and more podcasts. Hosted by Simplecast, an AdsWizz compan",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-a16z/2026-06-04-building-search-for-ai-agents-with-exa-ceo-will-bryk.md",
+        "localUrl": "/content/transcripts/ai-a16z/2026-06-04-building-search-for-ai-agents-with-exa-ceo-will-bryk.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-a16z/2026-06-04-building-search-for-ai-agents-with-exa-ceo-will-bryk.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-a16z/2026-06-04-building-search-for-ai-agents-with-exa-ceo-will-bryk.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "为 AI Agents 构建搜索：访 Exa CEO Will Bryk",
+      "descriptionZh": "Sarah Wang 与 Exa 联合创始人兼 CEO Will Bryk 讨论面向 AI 时代的搜索基础设施。节目回顾 Exa 的起源、传统搜索为何不适合 AI agents，以及当用户从人变成自主系统后，检索、数据访问和 coding agents 会如何改变搜索在 agent economy 中的位置。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:55.434Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-a16z/2026-06-04-building-search-for-ai-agents-with-exa-ceo-will-bryk.md",
+        "localUrl": "/content/summaries/ai-a16z/2026-06-04-building-search-for-ai-agents-with-exa-ceo-will-bryk.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-02-ai-agents-and-the-fight-for-customer-data",
+      "title": "AI Agents and the Fight for Customer Data",
+      "publishedAt": "2026-06-02T16:50:49.000Z",
+      "duration": "00:50:46",
+      "episodeUrl": "https://ai-a16z.simplecast.com/episodes/ai-agents-and-the-fight-for-customer-data-oTfoFpTX",
+      "audioUrl": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/112866f3-1a50-4a8d-b12e-850b73e71b33/episodes/934c03fb-9788-4898-a8a3-50cf647ed4ef/audio/128/default.mp3?aid=rss_feed&awCollectionId=112866f3-1a50-4a8d-b12e-850b73e71b33&awEpisodeId=934c03fb-9788-4898-a8a3-50cf647ed4ef&feed=Hb_IuXOo",
+      "audioType": "audio/mpeg",
+      "description": "Martin Casado speaks with George Fraser, cofounder and CEO of Fivetran, about the future of data infrastructure in the age of AI. The conversation covers Fivetran’s merger with dbt, the changing role of data platforms, and why Fraser believes many companies are overestimating the threat AI poses to enterprise software. They discuss open data access, the backlash against AI agents accessing systems of record, and why businesses still need centralized data foundations even as agent-based workflows become more common. Along the way, Fraser shares his views on data gravity, coding agents, enterprise AI adoption, and how AI is changing the way software companies build and operate products. Resources Follow George Fraser on X: https://x.com/frasergeorgew Follow Martin Casado on X: https://x.com/martin_casado Check out everything a16z is doing with artificial intelligence here , including artic",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-a16z/2026-06-02-ai-agents-and-the-fight-for-customer-data.md",
+        "localUrl": "/content/transcripts/ai-a16z/2026-06-02-ai-agents-and-the-fight-for-customer-data.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-a16z/2026-06-02-ai-agents-and-the-fight-for-customer-data.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-a16z/2026-06-02-ai-agents-and-the-fight-for-customer-data.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AI Agents 与客户数据的争夺",
+      "descriptionZh": "Martin Casado 与 Fivetran 联合创始人兼 CEO George Fraser 讨论 AI 时代的数据基础设施。内容涵盖 Fivetran 与 dbt 的合并、数据平台角色变化、AI agents 访问系统记录引发的反弹，以及企业在 agent-based 工作流普及后仍需要集中化数据底座的原因。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:55.434Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-a16z/2026-06-02-ai-agents-and-the-fight-for-customer-data.md",
+        "localUrl": "/content/summaries/ai-a16z/2026-06-02-ai-agents-and-the-fight-for-customer-data.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-19-ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software",
+      "title": "Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software",
+      "publishedAt": "2026-05-19T10:00:00.000Z",
+      "duration": "00:29:43",
+      "episodeUrl": "https://ai-a16z.simplecast.com/episodes/ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software-_Hn2wUAY",
+      "audioUrl": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/112866f3-1a50-4a8d-b12e-850b73e71b33/episodes/47a38451-67ad-4645-a1f5-b2e7d6b09676/audio/128/default.mp3?aid=rss_feed&awCollectionId=112866f3-1a50-4a8d-b12e-850b73e71b33&awEpisodeId=47a38451-67ad-4645-a1f5-b2e7d6b09676&feed=Hb_IuXOo",
+      "audioType": "audio/mpeg",
+      "description": "Recorded live at the a16z Fintech Connect conference in Deer Valley, Alex Rampell speaks with Ben Horowitz, cofounder and general partner at a16z, about how AI has rewritten the fundamental rules of software competition, why crypto infrastructure will become essential in an AI-dominated world, and what the future holds for venture capital. Follow Alex Rampell on X: https://twitter.com/arampell Follow Ben Horowitz on X: https://twitter.com/bhorowitz Check out everything a16z is doing with artificial intelligence here , including articles, projects, and more podcasts. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/ai-a16z/2026-05-19-ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software.md",
+        "localUrl": "/content/transcripts/ai-a16z/2026-05-19-ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/ai-a16z/2026-05-19-ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/ai-a16z/2026-05-19-ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Ben Horowitz 谈 AI 基础设施、经济学与软件新法则",
+      "descriptionZh": "这期节目录制于 a16z Fintech Connect 大会，Alex Rampell 与 a16z 联合创始人兼普通合伙人 Ben Horowitz 对谈，探讨 AI 如何改写软件竞争的基本规则、为何 crypto 基础设施在 AI 主导的世界中会变得关键，以及风投未来的走向。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:22:55.434Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/ai-a16z/2026-05-19-ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software.md",
+        "localUrl": "/content/summaries/ai-a16z/2026-05-19-ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

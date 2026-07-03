@@ -1,0 +1,253 @@
+{
+  "podcastId": "lex-fridman",
+  "podcastTitle": "Lex Fridman Podcast",
+  "fetchedAt": "2026-07-02T16:23:29.891Z",
+  "sourceRss": "https://lexfridman.com/feed/podcast/",
+  "episodes": [
+    {
+      "id": "2026-06-30-498-anthony-kaldellis-roman-empire-byzantine-empire-rise-038-fall-of-empires",
+      "title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise &#038; Fall of Empires",
+      "publishedAt": "2026-06-30T21:33:40.000Z",
+      "duration": null,
+      "episodeUrl": "https://lexfridman.com/anthony-kaldellis/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthony-kaldellis",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of &#8220;The New Roman Empire&#8221;, a comprehensive history of the Byzantine Empire (Eastern Roman Empire). Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/anthony-kaldellis-transcript CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211; join our team: https://lexfridman.com/hiring Other &#8211; other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Anthony&#8217;s Books: https://amzn.to/49AX7Q1 Anthony&#8217;s Publications: https://kaldellispublications.weebly.com Anthony&#8217;s University of Chicago page: https:",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/lex-fridman/2026-06-30-498-anthony-kaldellis-roman-empire-byzantine-empire-rise-038-fall-of-empires.md",
+        "localUrl": "/content/transcripts/lex-fridman/2026-06-30-498-anthony-kaldellis-roman-empire-byzantine-empire-rise-038-fall-of-empires.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/lex-fridman/2026-06-30-498-anthony-kaldellis-roman-empire-byzantine-empire-rise-038-fall-of-empires.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/lex-fridman/2026-06-30-498-anthony-kaldellis-roman-empire-byzantine-empire-rise-038-fall-of-empires.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "#498｜Anthony Kaldellis：罗马帝国、拜占庭帝国与帝国的兴衰",
+      "descriptionZh": "历史学家 Anthony Kaldellis 讨论罗马帝国与拜占庭帝国，介绍其著作《The New Roman Empire》及对东罗马帝国的整体研究，也带出帝国兴起与衰落的历史脉络。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:22.263Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/lex-fridman/2026-06-30-498-anthony-kaldellis-roman-empire-byzantine-empire-rise-038-fall-of-empires.md",
+        "localUrl": "/content/summaries/lex-fridman/2026-06-30-498-anthony-kaldellis-roman-empire-byzantine-empire-rise-038-fall-of-empires.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-29-497-biggest-mysteries-in-physics-antimatter-dark-energy-038-toe-8211-don-lincoln",
+      "title": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy &#038; ToE &#8211; Don Lincoln",
+      "publishedAt": "2026-05-29T16:22:02.000Z",
+      "duration": "3:01:52",
+      "episodeUrl": "https://lexfridman.com/don-lincoln/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=don-lincoln",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_don_lincoln.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sc See below for timestamps, and to give feedback, submit questions, contact Lex, etc. CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211; join our team: https://lexfridman.com/hiring Other &#8211; other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Don&#8217;s Facebook: https://facebook.com/Dr.Don.Lincoln/ Don&#8217;s Website: https://drdonlincoln.com/ Don&#8217;s LinkedIn: https://bit.ly/4nHeNiF Don&#8217;s YouTube Playlist: https://bit.ly/3PCIW67 Don&#8217;s X: https://x.com/DrDonLincoln Don&#8217;s Books: https://amzn.to/4uYbkOZ Don&#8217;s",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/lex-fridman/2026-05-29-497-biggest-mysteries-in-physics-antimatter-dark-energy-038-toe-8211-don-lincoln.md",
+        "localUrl": "/content/transcripts/lex-fridman/2026-05-29-497-biggest-mysteries-in-physics-antimatter-dark-energy-038-toe-8211-don-lincoln.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/lex-fridman/2026-05-29-497-biggest-mysteries-in-physics-antimatter-dark-energy-038-toe-8211-don-lincoln.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/lex-fridman/2026-05-29-497-biggest-mysteries-in-physics-antimatter-dark-energy-038-toe-8211-don-lincoln.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "#497｜物理学最大的谜团：反物质、暗能量与 ToE——Don Lincoln",
+      "descriptionZh": "粒子物理学家 Don Lincoln 来自 Fermilab，长期研究高能物理前沿。本期聊反物质、暗能量和 ToE 等关键难题，带你了解现代物理最深处的未解之谜。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:22.263Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/lex-fridman/2026-05-29-497-biggest-mysteries-in-physics-antimatter-dark-energy-038-toe-8211-don-lincoln.md",
+        "localUrl": "/content/summaries/lex-fridman/2026-05-29-497-biggest-mysteries-in-physics-antimatter-dark-energy-038-toe-8211-don-lincoln.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-06-496-ffmpeg-the-incredible-technology-behind-video-on-the-internet",
+      "title": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
+      "publishedAt": "2026-05-06T22:06:47.000Z",
+      "duration": "4:23:41",
+      "episodeUrl": "https://lexfridman.com/ffmpeg/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ffmpeg",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_ffmpeg.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep496-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/ffmpeg-transcript CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211; join our team: https://lexfridman.com/hiring Other &#8211; other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: FFmpeg on X: https://x.com/FFmpeg FFmpeg: https://ffmpeg.org/ VideoLAN (VLC): https://www.videolan.org/ VideoLAN on X: https://x.com/videolan Jean-Baptiste&#8",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/lex-fridman/2026-05-06-496-ffmpeg-the-incredible-technology-behind-video-on-the-internet.md",
+        "localUrl": "/content/transcripts/lex-fridman/2026-05-06-496-ffmpeg-the-incredible-technology-behind-video-on-the-internet.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/lex-fridman/2026-05-06-496-ffmpeg-the-incredible-technology-behind-video-on-the-internet.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/lex-fridman/2026-05-06-496-ffmpeg-the-incredible-technology-behind-video-on-the-internet.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "#496 – FFmpeg：互联网视频背后的惊人技术",
+      "descriptionZh": "Jean-Baptiste Kempf 是 VLC 的首席开发者、VideoLAN 主席，Kieran Kunhya 是资深 FFmpeg 贡献者和编解码工程师。本期聊 FFmpeg 如何支撑互联网视频，以及它与 VLC、VideoLAN 的关系与影响。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:28.306Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/lex-fridman/2026-05-06-496-ffmpeg-the-incredible-technology-behind-video-on-the-internet.md",
+        "localUrl": "/content/summaries/lex-fridman/2026-05-06-496-ffmpeg-the-incredible-technology-behind-video-on-the-internet.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-04-09-495-vikings-ragnar-berserkers-valhalla-038-the-warriors-of-the-viking-age",
+      "title": "#495 – Vikings, Ragnar, Berserkers, Valhalla &#038; the Warriors of the Viking Age",
+      "publishedAt": "2026-04-09T17:43:17.000Z",
+      "duration": "2:09:56",
+      "episodeUrl": "https://lexfridman.com/lars-brownworth/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lars-brownworth",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_lars_brownworth.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/lars-brownworth-transcript CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211; join our team: https://lexfridman.com/hiring Other &#8211; other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Lars&#8217;s Website: https://larsbrownworth.com/ The Sea Wolves (book): https://www.amazon.com/Sea-Wolves-History-Vikings/dp/1909979120 Lars&#8217;s Books: https://amzn.to/4sHY0xw 12 Byzantine Rulers Podcas",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/lex-fridman/2026-04-09-495-vikings-ragnar-berserkers-valhalla-038-the-warriors-of-the-viking-age.md",
+        "localUrl": "/content/transcripts/lex-fridman/2026-04-09-495-vikings-ragnar-berserkers-valhalla-038-the-warriors-of-the-viking-age.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/lex-fridman/2026-04-09-495-vikings-ragnar-berserkers-valhalla-038-the-warriors-of-the-viking-age.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/lex-fridman/2026-04-09-495-vikings-ragnar-berserkers-valhalla-038-the-warriors-of-the-viking-age.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "#495 – Vikings、Ragnar、Berserkers、Valhalla 与维京时代的战士",
+      "descriptionZh": "Lars Brownworth 是研究维京史、中世纪欧洲和拜占庭帝国的历史学家、教师、播客主和作者。本期回顾 Vikings 时代的战士、Ragnar、Berserkers 与 Valhalla，梳理维京历史的关键人物和文化。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:28.306Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/lex-fridman/2026-04-09-495-vikings-ragnar-berserkers-valhalla-038-the-warriors-of-the-viking-age.md",
+        "localUrl": "/content/summaries/lex-fridman/2026-04-09-495-vikings-ragnar-berserkers-valhalla-038-the-warriors-of-the-viking-age.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-03-23-494-jensen-huang-nvidia-8211-the-4-trillion-company-038-the-ai-revolution",
+      "title": "#494 – Jensen Huang: NVIDIA &#8211; The $4 Trillion Company &#038; the AI Revolution",
+      "publishedAt": "2026-03-23T16:28:42.000Z",
+      "duration": null,
+      "episodeUrl": "https://lexfridman.com/jensen-huang/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jensen-huang",
+      "audioUrl": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_jensen_huang.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep494-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/jensen-huang-transcript CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211; join our team: https://lexfridman.com/hiring Other &#8211; other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: NVIDIA: https://nvidia.com NVIDIA on X: https://x.com/nvidia NVIDIA AI on X: https://x.com/NVIDIAAI NVIDIA on YouTube: https://youtube.com/@nvidia NVIDIA on Instagram: https://www.instagram.com/nvidia/ NVI",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/lex-fridman/2026-03-23-494-jensen-huang-nvidia-8211-the-4-trillion-company-038-the-ai-revolution.md",
+        "localUrl": "/content/transcripts/lex-fridman/2026-03-23-494-jensen-huang-nvidia-8211-the-4-trillion-company-038-the-ai-revolution.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/lex-fridman/2026-03-23-494-jensen-huang-nvidia-8211-the-4-trillion-company-038-the-ai-revolution.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/lex-fridman/2026-03-23-494-jensen-huang-nvidia-8211-the-4-trillion-company-038-the-ai-revolution.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "#494｜Jensen Huang：NVIDIA——4 万亿美元公司与 AI 革命",
+      "descriptionZh": "Jensen Huang 是 NVIDIA 的联合创始人兼 CEO，他谈到这家全球最有价值公司的成长，以及 NVIDIA 如何成为推动 AI 计算革命的核心引擎。节目还回顾了公司发展、AI 基础设施与未来机遇。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:34.035Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/lex-fridman/2026-03-23-494-jensen-huang-nvidia-8211-the-4-trillion-company-038-the-ai-revolution.md",
+        "localUrl": "/content/summaries/lex-fridman/2026-03-23-494-jensen-huang-nvidia-8211-the-4-trillion-company-038-the-ai-revolution.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

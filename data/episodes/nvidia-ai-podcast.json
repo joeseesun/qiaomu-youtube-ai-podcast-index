@@ -1,0 +1,288 @@
+{
+  "podcastId": "nvidia-ai-podcast",
+  "podcastTitle": "NVIDIA AI Podcast",
+  "fetchedAt": "2026-07-02T16:23:31.924Z",
+  "sourceRss": "https://feeds.megaphone.fm/nvidiaaipodcast",
+  "episodes": [
+    {
+      "id": "2026-06-24-inside-instacarts-ai-powered-smart-shopping-cart-nvidia-ai-podcast-ep-302",
+      "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+      "publishedAt": "2026-06-24T15:45:00.000Z",
+      "duration": "2395",
+      "episodeUrl": "https://www.youtube.com/watch?v=Alz-bhXqyXM",
+      "audioUrl": "https://cohst.app/pdcst/9V4R8T/traffic.megaphone.fm/NVC6266348181.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Instacart has 1.6 billion lifetime grocery orders—and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacart, explains how the Caper Cart—powered by an NVIDIA Jetson™ board and a sensor fusion system combining cameras, weight sensors, and location data—is bringing edge AI to the grocery aisle. He shares what's driving double-digit sales lift for retailers, how AI agents are beginning to automate store operations, and why in-store and online shopping will merge into a single unified experience within the decade. 🔬Topics covered: How Caper Carts use NVIDIA Jetson and sensor fusion to identify items in real time Why edge AI matters: hundreds-of-milliseconds response vs. seconds in the cloud Double-digit sales lift from personalized in-cart recommendations Building a grocery foundation model from 1.",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/nvidia-ai-podcast/2026-06-24-inside-instacarts-ai-powered-smart-shopping-cart-nvidia-ai-podcast-ep-302.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=Alz-bhXqyXM",
+          "type": "source"
+        }
+      ],
+      "titleZh": "走进 Instacart 的 AI 智能购物车｜NVIDIA AI Podcast 第 302 期",
+      "descriptionZh": "Instacart 依靠海量生鲜订单数据，把 AI 用到实体门店中。David McIntosh 介绍了由 NVIDIA Jetson 和传感器融合驱动的 Caper Cart，如何实现实时识别、提升零售销量，并推动门店运营自动化。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:34.035Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/nvidia-ai-podcast/2026-06-24-inside-instacarts-ai-powered-smart-shopping-cart-nvidia-ai-podcast-ep-302.md",
+        "localUrl": "/content/summaries/nvidia-ai-podcast/2026-06-24-inside-instacarts-ai-powered-smart-shopping-cart-nvidia-ai-podcast-ep-302.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "Alz-bhXqyXM",
+        "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+        "matchedAt": "2026-07-03T09:56:33.643Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=Alz-bhXqyXM"
+      }
+    },
+    {
+      "id": "2026-06-10-how-mistral-is-building-frontier-ai-for-the-enterprise-nvidia-ai-podcast-ep-301",
+      "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+      "publishedAt": "2026-06-10T16:00:00.000Z",
+      "duration": "1293",
+      "episodeUrl": "https://www.youtube.com/watch?v=mYQR-xfqOPY",
+      "audioUrl": "https://cohst.app/pdcst/9V4R8T/traffic.megaphone.fm/NVC3974617522.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Open-weight models are closing the gap with proprietary AI — and Timothée Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights accelerate enterprise adoption, how Mistral is bringing model customization into production, and what a 2.5x training speed improvement on GB200s means for the next generation of large sparse mixture-of-experts models. He also shares the open problem keeping him up at night: getting AI agent permission systems right before write access becomes the norm. 🔬Topics covered: How open models and weights accelerate research Mistral Forge: bringing enterprise-grade model customization to production The Nemotron Coalition—what Mistral and NVIDIA are building together 2.5x training gains on GB200s for large sparse mixture-of-experts models Why AI agent permissions—especially write access—is important ",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/nvidia-ai-podcast/2026-06-10-how-mistral-is-building-frontier-ai-for-the-enterprise-nvidia-ai-podcast-ep-301.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=mYQR-xfqOPY",
+          "type": "source"
+        }
+      ],
+      "titleZh": "Mistral 如何为企业构建前沿 AI｜NVIDIA AI Podcast 第301期",
+      "descriptionZh": "Mistral 联合创始人兼 CTO Timothée Lacroix 分享开源权重如何加速企业采用、Mistral Forge 如何把模型定制带入生产，以及 GB200 上 2.5 倍训练提速对大规模稀疏 MoE 模型的意义。他还谈到 AI agent 权限系统，尤其是写入权限，为什么成了最需要优先解决的问题。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:39.487Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/nvidia-ai-podcast/2026-06-10-how-mistral-is-building-frontier-ai-for-the-enterprise-nvidia-ai-podcast-ep-301.md",
+        "localUrl": "/content/summaries/nvidia-ai-podcast/2026-06-10-how-mistral-is-building-frontier-ai-for-the-enterprise-nvidia-ai-podcast-ep-301.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "mYQR-xfqOPY",
+        "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
+        "matchedAt": "2026-07-03T09:56:33.643Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=mYQR-xfqOPY"
+      }
+    },
+    {
+      "id": "2026-05-27-everyone-can-build-a-robot-open-source-embodied-ai-with-seeed-studio-nvidia-ai-podcas",
+      "title": "Everyone Can Build a Robot: Open Source Embodied AI With Seeed Studio | NVIDIA AI Podcast Ep. 300",
+      "publishedAt": "2026-05-27T15:45:00.000Z",
+      "duration": "1744",
+      "episodeUrl": "https://www.youtube.com/watch?v=C3lcadfxTio",
+      "audioUrl": "https://cohst.app/pdcst/9V4R8T/traffic.megaphone.fm/NVC9592437490.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Seeed Studio is a leader in open source robotics, delivering affordable NVIDIA Jetson‑powered arms that put embodied AI into the hands of millions of makers, students, and small businesses. In this episode, Seeed Studio CEO Eric Pan and Head of Robotics Elaine Wu explain how open hardware, the OpenClaw agentic framework, and NVIDIA Isaac Sim are turning robot arms into controllable, teachable agents—and what it takes to bring these physical AI tools into real‑world settings responsibly. 🔬Topics covered: Why open source is the fastest path to accessible robotics How the $200 SOR arm (with Hugging Face) lowers the barrier to embodied AI Training robot arms like a dog: from months of coding to intuitive hand‑guided learning OpenClaw on Jetson: turning natural‑language commands into robot skills Using NVIDIA Isaac Sim and digital twins to bridge simulation and real‑world deployment Building",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/nvidia-ai-podcast/2026-05-27-everyone-can-build-a-robot-open-source-embodied-ai-with-seeed-studio-nvidia-ai-podcas.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=C3lcadfxTio",
+          "type": "source"
+        }
+      ],
+      "titleZh": "人人都能造机器人：与 Seeed Studio 一起玩开源具身 AI｜NVIDIA AI Podcast 第300期",
+      "descriptionZh": "Seeed Studio CEO Eric Pan 与机器人负责人 Elaine Wu 介绍开源机器人如何借助 NVIDIA Jetson，把平价机械臂带给创客、学生和小企业。他们聊到 OpenClaw、NVIDIA Isaac Sim、数字孪生以及如何把自然语言指令变成可执行技能，让具身 AI 更易学、更易部署。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:39.487Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/nvidia-ai-podcast/2026-05-27-everyone-can-build-a-robot-open-source-embodied-ai-with-seeed-studio-nvidia-ai-podcas.md",
+        "localUrl": "/content/summaries/nvidia-ai-podcast/2026-05-27-everyone-can-build-a-robot-open-source-embodied-ai-with-seeed-studio-nvidia-ai-podcas.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "C3lcadfxTio",
+        "title": "Everyone Can Build a Robot: Open Source Embodied AI With Seeed Studio | NVIDIA AI Podcast Ep. 300",
+        "matchedAt": "2026-07-03T09:56:33.643Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=C3lcadfxTio"
+      }
+    },
+    {
+      "id": "2026-05-21-inside-ai-tokenomics-how-to-profitably-turn-tokens-into-business-value-nvidia-ai-podc",
+      "title": "Inside AI Tokenomics: How to Profitably Turn Tokens Into Business Value | NVIDIA AI Podcast Ep. 299",
+      "publishedAt": "2026-05-21T16:00:00.000Z",
+      "duration": "2005",
+      "episodeUrl": "https://www.youtube.com/watch?v=zNuOOMM20Tk",
+      "audioUrl": "https://cohst.app/pdcst/9V4R8T/traffic.megaphone.fm/NVC1708428495.mp3",
+      "audioType": "audio/mpeg",
+      "description": "As AI factories scale and token costs become a defining competitive variable, the way businesses measure infrastructure ROI needs to change. In this episode, Shruti Koparkar from NVIDIA's Accelerated Computing team breaks down tokenomics—the four-pillar framework of token utility, supply, demand, and monetization—and reveals why NVIDIA Blackwell's architecture delivers 50x more tokens per watt than NVIDIA Hopper, translating to a 35x reduction in token cost. 🔬Topics covered: The four pillars of tokenomics: utility, supply, demand, and monetization Why cost per token beats FLOPS per dollar as an infrastructure metric NVIDIA Blackwell vs. Hopper: 50x more tokens per watt, 35x lower token cost How extreme co-design turns spec-sheet numbers into real-world output Jevons paradox: why lower token cost always drives more GPU demand, not less The four business models for turning tokens into rev",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/nvidia-ai-podcast/2026-05-21-inside-ai-tokenomics-how-to-profitably-turn-tokens-into-business-value-nvidia-ai-podc.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=zNuOOMM20Tk",
+          "type": "source"
+        }
+      ],
+      "titleZh": "AI Tokenomics 内幕：如何把 Tokens 变成有利润的业务价值 | NVIDIA AI Podcast 第299期",
+      "descriptionZh": "随着 AI factories 扩张，token 成本正成为关键竞争变量。本期 Shruti Koparkar 解析 tokenomics 的四大支柱：效用、供给、需求和变现，并说明为什么 NVIDIA Blackwell 每瓦可输出更多 tokens、将 token 成本大幅降低，以及如何把规格参数转化为真实业务价值。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:44.872Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/nvidia-ai-podcast/2026-05-21-inside-ai-tokenomics-how-to-profitably-turn-tokens-into-business-value-nvidia-ai-podc.md",
+        "localUrl": "/content/summaries/nvidia-ai-podcast/2026-05-21-inside-ai-tokenomics-how-to-profitably-turn-tokens-into-business-value-nvidia-ai-podc.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "zNuOOMM20Tk",
+        "title": "Inside AI Tokenomics: How to Profitably Turn Tokens Into Business Value | NVIDIA AI Podcast Ep. 299",
+        "matchedAt": "2026-07-03T09:56:33.644Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=zNuOOMM20Tk"
+      }
+    },
+    {
+      "id": "2026-05-13-snaps-secret-to-processing-10-petabytes-a-day-gpu-accelerated-spark-nvidia-ai-podcast",
+      "title": "Snap’s Secret to Processing 10 Petabytes a Day: GPU-Accelerated Spark | NVIDIA AI Podcast Ep. 298",
+      "publishedAt": "2026-05-13T13:00:00.000Z",
+      "duration": "1415",
+      "episodeUrl": "https://www.youtube.com/watch?v=glT-zO8B_qk",
+      "audioUrl": "https://cohst.app/pdcst/9V4R8T/traffic.megaphone.fm/NVC2926487857.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Snap processes more than 10 petabytes of experimentation data every single morning—and with NVIDIA GPU-accelerated Apache Spark on Google Cloud, Snap cut job costs by 76%, reduced memory usage by 80%, and eliminated 120 terabytes of disk spill from its pipelines. Prudhvi Vatala, head of engineering platforms at Snap, joins the NVIDIA AI Podcast to break down how he and his team completely modernized data infrastructure for a social platform serving nearly a billion monthly active users—using NVIDIA cuDF plugin (formerly referred to as NVIDIA RAPIDS plugin) for Apache Spark on Google Kubernetes Engine, with zero application code changes. 🔬Topics covered: How Snap runs A/B tests at planetary scale using rigorous statistical methods like heterogeneous treatment effect detection and variance reduction Why Snap reuses idle inference GPUs between 1–5 a.m. for batch data processing—and how it ",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/nvidia-ai-podcast/2026-05-13-snaps-secret-to-processing-10-petabytes-a-day-gpu-accelerated-spark-nvidia-ai-podcast.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=glT-zO8B_qk",
+          "type": "source"
+        }
+      ],
+      "titleZh": "Snap 每天处理 10 PB 数据的秘密：GPU 加速的 Spark | NVIDIA AI Podcast 第298期",
+      "descriptionZh": "Snap 每天早晨处理超过 10 PB 的实验数据。Prudhvi Vatala 分享团队如何借助 NVIDIA GPU-accelerated Apache Spark 与 Google Cloud 重构数据基础设施，在零代码改动下将作业成本降低 76%、内存占用降 80%，并消除 120 TB 磁盘溢出，支撑近十亿月活平台的大规模 A/B 测试。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:44.872Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/nvidia-ai-podcast/2026-05-13-snaps-secret-to-processing-10-petabytes-a-day-gpu-accelerated-spark-nvidia-ai-podcast.md",
+        "localUrl": "/content/summaries/nvidia-ai-podcast/2026-05-13-snaps-secret-to-processing-10-petabytes-a-day-gpu-accelerated-spark-nvidia-ai-podcast.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "glT-zO8B_qk",
+        "title": "Snap’s GPU-Accelerated Secret to Processing 10 Petabytes a Day | NVIDIA AI Podcast Ep. 298",
+        "matchedAt": "2026-07-03T09:56:33.644Z",
+        "matchScore": 1,
+        "url": "https://www.youtube.com/watch?v=glT-zO8B_qk"
+      }
+    }
+  ]
+}

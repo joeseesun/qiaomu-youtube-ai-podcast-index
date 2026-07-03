@@ -1,0 +1,260 @@
+{
+  "podcastId": "data-skeptic",
+  "podcastTitle": "Data Skeptic",
+  "fetchedAt": "2026-07-02T16:23:34.182Z",
+  "sourceRss": "https://rss.libsyn.com/shows/54799/destinations/201630.xml",
+  "episodes": [
+    {
+      "id": "2026-07-02-news-recommendations",
+      "title": "News Recommendations",
+      "publishedAt": "2026-07-02T15:00:00.000Z",
+      "duration": "46:06",
+      "episodeUrl": "https://dataskeptic.com/blog/episodes/2026/news-recommendations",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/Andreea_No_Ads_V1.mp3?dest-id=201630",
+      "audioType": "audio/mpeg",
+      "description": "News recommendation algorithms influence far more than what stories we click—they can shape our understanding of the world. In this episode, Kyle Polich speaks with Andreea Iana about responsible AI, filter bubbles, multilingual news recommendation, and her open-source NewsRecLib framework for evaluating recommender systems. They explore why bigger models aren't always better and how future recommendation systems can balance personalization with diversity and societal impact.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/data-skeptic/2026-07-02-news-recommendations.md",
+        "localUrl": "/content/transcripts/data-skeptic/2026-07-02-news-recommendations.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/data-skeptic/2026-07-02-news-recommendations.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/data-skeptic/2026-07-02-news-recommendations.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "新闻推荐",
+      "descriptionZh": "新闻推荐算法影响的不只是点击哪些故事，还会塑造我们理解世界的方式。本期 Kyle Polich 与 Andreea Iana 讨论负责任 AI、信息茧房、多语言新闻推荐，以及她开源的 NewsRecLib 推荐系统评估框架，并探讨为何更大的模型未必更好。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:49.015Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/data-skeptic/2026-07-02-news-recommendations.md",
+        "localUrl": "/content/summaries/data-skeptic/2026-07-02-news-recommendations.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-23-give-users-the-wheel",
+      "title": "Give Users the Wheel",
+      "publishedAt": "2026-06-23T15:00:00.000Z",
+      "duration": "35:28",
+      "episodeUrl": "https://dataskeptic.com/blog/episodes/2026/give-users-the-wheel",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/Fuyuan_Lyu_No_Ads_V1.mp3?dest-id=201630",
+      "audioType": "audio/mpeg",
+      "description": "What if you could simply tell a recommendation system what you want instead of relying on likes, dislikes, and watch history? Kyle Polich talks with Fuyuan Lyu about the DPR framework, which combines large language models and traditional recommender systems to give users direct control over recommendations through natural language. Together they explore how conversational interfaces could transform platforms like YouTube, TikTok, and news feeds while preserving the strengths of modern recommendation algorithms.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/data-skeptic/2026-06-23-give-users-the-wheel.md",
+        "localUrl": "/content/transcripts/data-skeptic/2026-06-23-give-users-the-wheel.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/data-skeptic/2026-06-23-give-users-the-wheel.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/data-skeptic/2026-06-23-give-users-the-wheel.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "把方向盘交给用户",
+      "descriptionZh": "如果不必依赖点赞、点踩和观看历史，而是直接告诉推荐系统你想要什么，会怎样？Kyle Polich 与 Fuyuan Lyu 讨论 DPR 框架，它将大语言模型与传统推荐系统结合，让用户用自然语言直接控制推荐，并探讨这种交互如何影响 YouTube、TikTok 和新闻流。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:49.015Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/data-skeptic/2026-06-23-give-users-the-wheel.md",
+        "localUrl": "/content/summaries/data-skeptic/2026-06-23-give-users-the-wheel.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-17-autolike",
+      "title": "AutoLike",
+      "publishedAt": "2026-06-17T18:00:00.000Z",
+      "duration": "35:18",
+      "episodeUrl": "https://dataskeptic.com/blog/episodes/2026/autolike",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/Hieu_No_Ads_V1.mp3?dest-id=201630",
+      "audioType": "audio/mpeg",
+      "description": "How can researchers audit recommendation systems when the algorithms are hidden from view? Hieu Le joins Kyle Polich to discuss Auto-Like, a reinforcement learning framework that systematically explores how platforms like TikTok personalize content feeds. The conversation covers recommendation transparency, black-box auditing, and the future of platform accountability.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/data-skeptic/2026-06-17-autolike.md",
+        "localUrl": "/content/transcripts/data-skeptic/2026-06-17-autolike.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/data-skeptic/2026-06-17-autolike.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/data-skeptic/2026-06-17-autolike.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AutoLike",
+      "descriptionZh": "Hieu Le 与 Kyle Polich 讨论 Auto-Like，这是一种强化学习框架，用来系统探索 TikTok 等平台如何个性化内容推荐。话题涵盖推荐系统透明度、黑箱审计，以及平台问责的未来。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:52.967Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/data-skeptic/2026-06-17-autolike.md",
+        "localUrl": "/content/summaries/data-skeptic/2026-06-17-autolike.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-01-student-spotlight-aaron-payne-data-analyst",
+      "title": "Student Spotlight: Aaron Payne, Data Analyst",
+      "publishedAt": "2026-05-01T15:25:00.000Z",
+      "duration": "25:59",
+      "episodeUrl": "https://dataskeptic.com/blog/episodes/2026/student-spotlight-aaron-payne-data-analyst",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/Aaron_No_Ads_V3.mp3?dest-id=201630",
+      "audioType": "audio/mpeg",
+      "description": "Aaron Payne, an MBA student at Georgia Tech studying business analytics and a Senior Insights Analyst at Chick-fil-A, joins Kyle Polich to talk about turning analytics into decisions that matter. They unpack a real-world forecasting project with Comfama in Colombia, including messy data realities, interpretability tradeoffs, and why \"data science for good\" starts with the people impacted.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/data-skeptic/2026-05-01-student-spotlight-aaron-payne-data-analyst.md",
+        "localUrl": "/content/transcripts/data-skeptic/2026-05-01-student-spotlight-aaron-payne-data-analyst.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/data-skeptic/2026-05-01-student-spotlight-aaron-payne-data-analyst.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/data-skeptic/2026-05-01-student-spotlight-aaron-payne-data-analyst.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "学生聚焦：数据分析师 Aaron Payne",
+      "descriptionZh": "Aaron Payne 是 Georgia Tech 的 MBA 学生，主修商业分析，同时也是 Chick-fil-A 的 Senior Insights Analyst。他与 Kyle Polich 分享如何让分析真正转化为决策，并拆解他在哥伦比亚与 Comfama 合作的预测项目，涵盖脏数据、可解释性权衡，以及“data science for good”的实践。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:52.967Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/data-skeptic/2026-05-01-student-spotlight-aaron-payne-data-analyst.md",
+        "localUrl": "/content/summaries/data-skeptic/2026-05-01-student-spotlight-aaron-payne-data-analyst.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-04-25-the-future-is-agentic-in-recommender-systems",
+      "title": "The Future is Agentic in Recommender Systems",
+      "publishedAt": "2026-04-25T18:00:00.000Z",
+      "duration": "49:25",
+      "episodeUrl": "https://dataskeptic.com/blog/episodes/2026/The-future-is-agentic-in-recommender-systems",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/Yashar_No_Ads_V1.mp3?dest-id=201630",
+      "audioType": "audio/mpeg",
+      "description": "Kyle Polich sits down with Yashar Deldjoo, research scientist and Associate Professor at the Polytechnic University of Bari, to explore how recommender systems have evolved and why trustworthiness matters. They unpack key dimensions of responsible AI, including robustness to adversarial attacks, privacy, explainability, and fairness, and discuss how LLMs introduce new risks like hallucinations. The episode closes with a look at \"agentic\" recommender systems, where tools and memory shift recommendations from ranked lists to end-to-end task completion.",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/data-skeptic/2026-04-25-the-future-is-agentic-in-recommender-systems.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=RFdRKScBIWk",
+          "type": "source"
+        }
+      ],
+      "titleZh": "推荐系统的未来是 Agentic",
+      "descriptionZh": "Kyle Polich 与 Yashar Deldjoo 对谈，回顾推荐系统的发展，并讨论可信 AI 为何重要。节目拆解鲁棒性、隐私、可解释性与公平等责任 AI 维度，也聊到 LLM 带来的幻觉风险，最后展望借助工具和记忆实现端到端任务完成的 agentic 推荐系统。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:35:57.616Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/data-skeptic/2026-04-25-the-future-is-agentic-in-recommender-systems.md",
+        "localUrl": "/content/summaries/data-skeptic/2026-04-25-the-future-is-agentic-in-recommender-systems.md",
+        "note": "由内部总结流程生成。"
+      },
+      "youtube": {
+        "videoId": "RFdRKScBIWk",
+        "title": "The Future is Agentic in Recommender Systems",
+        "url": "https://www.youtube.com/watch?v=RFdRKScBIWk",
+        "matchedAt": "2026-07-03T10:02:23.311Z",
+        "matchScore": 1
+      }
+    }
+  ]
+}

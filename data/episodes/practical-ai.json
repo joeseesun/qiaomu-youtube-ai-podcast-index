@@ -1,0 +1,408 @@
+{
+  "podcastId": "practical-ai",
+  "podcastTitle": "Practical AI",
+  "fetchedAt": "2026-07-02T16:23:17.728Z",
+  "sourceRss": "https://feeds.transistor.fm/practical-ai-machine-learning-data-science-llm",
+  "episodes": [
+    {
+      "id": "2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs",
+      "title": "Image Generation and Visual Intelligence with Black Forest Labs",
+      "publishedAt": "2026-07-02T09:00:00.000Z",
+      "duration": "2901",
+      "episodeUrl": "https://share.transistor.fm/s/6d8dad5f",
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/6d8dad5f/f006d8d2.mp3",
+      "audioType": "audio/mpeg",
+      "description": "How has AI image generation evolved from blurry outputs to powerful visual intelligence models? Dustin Podell, Co-Founder and Researcher at Black Forest Labs, explains the progression from diffusion to flow matching, how modern image models work, and how they're being used for image editing and practical visual workflows. The conversation also explores the FLUX family of models, running image generation locally, and where visual AI is headed next. Featuring: Dustin Podell – LinkedIn Chris Benson – Website , LinkedIn , Bluesky , GitHub , X Daniel Whitenack – Website , GitHub , X Links: Black Forest Labs Developer Dashboard Research Page FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space Laying the Foundations for Visual Intelligence Sponsors: Midwest AI Summit: Join AI practitioners on October 15 in Indianapolis for practical sessions, hands-on discu",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://share.transistor.fm/s/6d8dad5f/transcription.vtt",
+            "type": "text/vtt",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/6d8dad5f/transcription.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/6d8dad5f/transcription.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/6d8dad5f/transcription.txt",
+            "type": "text/plain",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/6d8dad5f/transcription",
+            "type": "text/html",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+        "localUrl": "/content/transcripts/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+        "localUrl": "/content/articles/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Black Forest Labs 的图像生成与视觉智能",
+      "descriptionZh": "本期与 Black Forest Labs 联合创始人兼研究员 Dustin Podell 聊 AI 图像生成如何从模糊输出发展到视觉智能模型，涵盖扩散到 flow matching 的演进、现代图像模型的工作方式、FLUX 系列、本地运行生成，以及视觉 AI 的未来方向。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:38.208Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+        "localUrl": "/content/summaries/practical-ai/2026-07-02-image-generation-and-visual-intelligence-with-black-forest-labs.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-25-aiuc-1-building-trust-in-ai-agents",
+      "title": "AIUC-1: Building trust in AI agents",
+      "publishedAt": "2026-06-25T09:00:00.000Z",
+      "duration": "2708",
+      "episodeUrl": "https://share.transistor.fm/s/e039d1ca",
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/e039d1ca/db5071bc.mp3",
+      "audioType": "audio/mpeg",
+      "description": "How do we build trust in AI agents before the AI hailstorm arrives? Emil Lassen from the Artificial Intelligence Underwriting Company (AIUC) joins the show to discuss how the enterprise flywheel of standards, certification, audit, and insurance is being applied to AI agents. They explore the AIUC-1 framework, the challenges of securing agentic AI systems, and why red teaming (based on standards) may be key to accelerating enterprise AI adoption. Featuring: Emil Lassen – LinkedIn Daniel Whitenack – Website , GitHub , X Links: Artificial Intelligence Underwriting Company Sponsors: Framer: The enterprise-grade website builder that lets your team ship faster. Get 30% off at framer.com/practicalai Prediction Guard: A self-hosted AI control plane for running agents in high impact environments. predictionguard.com/practicalai Upcoming Events: Register for upcoming webinars here ! Midwest AI Sum",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://share.transistor.fm/s/e039d1ca/transcription.vtt",
+            "type": "text/vtt",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/e039d1ca/transcription.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/e039d1ca/transcription.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/e039d1ca/transcription.txt",
+            "type": "text/plain",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/e039d1ca/transcription",
+            "type": "text/html",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+        "localUrl": "/content/transcripts/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+        "localUrl": "/content/articles/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "AIUC-1：如何在 AI 智能体中建立信任",
+      "descriptionZh": "在 AI 浪潮全面到来前，如何先让企业信任 AI 智能体？Emil Lassen 做客节目，介绍 Artificial Intelligence Underwriting Company（AIUC）如何把标准、认证、审计和保险的企业飞轮应用到智能体，并讨论 AIUC-1 框架、代理式 AI 的安全挑战，以及基于标准的红队测试为何可能加速企业采用 AI。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:34:43.367Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+        "localUrl": "/content/summaries/practical-ai/2026-06-25-aiuc-1-building-trust-in-ai-agents.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-11-zero-trust-for-ai-agents",
+      "title": "Zero Trust for AI Agents",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "duration": "2822",
+      "episodeUrl": "https://share.transistor.fm/s/5c1a087d",
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/5c1a087d/89d77a53.mp3",
+      "audioType": "audio/mpeg",
+      "description": "As AI agents become more capable and autonomous, they also introduce new security challenges. In this 'Fully Connected' episode, Dan and Chris unpack Anthropic’s Zero Trust for AI Agents security framework and what it means for organizations deploying agentic systems. They examine the key security risks facing agentic systems and discuss how organizations can apply Zero Trust principles to deploy AI agents safely. Along the way, they break down practical security controls and discuss how traditional cybersecurity principles must evolve for the age of AI agents. Featuring: Chris Benson – Website , LinkedIn , Bluesky , GitHub , X Daniel Whitenack – Website , GitHub , X Links: Zero Trust for AI Agents OWASP GenAI Project Sponsors: Prediction Guard: A self-hosted AI control plane for running agents in high impact environments. predictionguard.com/practicalai Upcoming Events: Register for upc",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://share.transistor.fm/s/5c1a087d/transcription.vtt",
+            "type": "text/vtt",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/5c1a087d/transcription.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/5c1a087d/transcription.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/5c1a087d/transcription.txt",
+            "type": "text/plain",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/5c1a087d/transcription",
+            "type": "text/html",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+        "localUrl": "/content/transcripts/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+        "localUrl": "/content/articles/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "面向 AI Agent 的零信任",
+      "descriptionZh": "随着 AI agent 变得更强大、更自主，它们也带来了新的安全挑战。本期《Fully Connected》中，Dan 和 Chris 解读 Anthropic 的“Zero Trust for AI Agents”安全框架，分析 agentic 系统面临的关键风险，并讨论组织如何用零信任原则安全部署 AI agent。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:29:06.796Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+        "localUrl": "/content/summaries/practical-ai/2026-06-11-zero-trust-for-ai-agents.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-04-breaking-down-the-2026-stanford-ai-index-report",
+      "title": "Breaking down the 2026 Stanford AI Index Report",
+      "publishedAt": "2026-06-04T09:00:00.000Z",
+      "duration": "2833",
+      "episodeUrl": "https://share.transistor.fm/s/302b36f8",
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/302b36f8/d474795e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "AI models can win math olympiads… but still struggle to read an analog clock. In this fully connected episode, Dan and Chris break down the latest Stanford AI Index Report and explore what it reveals about the current state of AI. They discuss AI adoption and safety, disappearing junior tech jobs, robotics, AI’s “jagged frontier” of intelligence, and the growing race between the U.S. and China. Along the way, they debate whether AI should optimize everything, or if some things are better left human. Featuring: Chris Benson – Website , LinkedIn , Bluesky , GitHub , X Daniel Whitenack – Website , GitHub , X Links: The 2026 AI Index Report Sponsors: Prediction Guard: A self-hosted AI control plane for running agents in high impact environments. predictionguard.com/practicalai Upcoming Events: Register for upcoming webinars here ! Midwest AI Summit 2026",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://share.transistor.fm/s/302b36f8/transcription.vtt",
+            "type": "text/vtt",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/302b36f8/transcription.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/302b36f8/transcription.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/302b36f8/transcription.txt",
+            "type": "text/plain",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/302b36f8/transcription",
+            "type": "text/html",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+        "localUrl": "/content/transcripts/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+        "localUrl": "/content/articles/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "拆解 2026 Stanford AI Index Report",
+      "descriptionZh": "AI 模型能赢数学奥赛，却还是可能看不懂模拟时钟。本期完整连线节目里，Dan 和 Chris 解读最新 Stanford AI Index Report，讨论 AI 采用与安全、初级技术岗位消失、机器人、AI 智力的“锯齿边界”，以及中美之间日益激烈的竞赛。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:29:06.796Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+        "localUrl": "/content/summaries/practical-ai/2026-06-04-breaking-down-the-2026-stanford-ai-index-report.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes",
+      "title": "Rebooting Enterprise AI with MCP and Kubernetes",
+      "publishedAt": "2026-05-28T09:00:00.000Z",
+      "duration": "2889",
+      "episodeUrl": "https://share.transistor.fm/s/d76e02d5",
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/d76e02d5/e934139b.mp3",
+      "audioType": "audio/mpeg",
+      "description": "What happens when AI agents start acting less like chatbots and more like coworkers? In this episode, Dan and Chris sit down with Craig McLuckie, CEO of Stacklok to explore MCP, Kubernetes, ToolHive, enterprise AI, and the emerging infrastructure powering AI-native applications. From identity management to agent orchestration and system architecture, this conversation dives into how organizations may soon manage entire fleets of AI agents working behind the scenes. Featuring: Craig McLuckie – LinkedIn Chris Benson – Website , LinkedIn , Bluesky , GitHub , X Daniel Whitenack – Website , GitHub , X Links: Stacklok Toolhive Sponsors: Prediction Guard: A self-hosted AI control plane for running agents in high impact environments. predictionguard.com/practicalai Upcoming Events: Register for upcoming webinars here ! Midwest AI Summit 2026",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [
+          {
+            "url": "https://share.transistor.fm/s/d76e02d5/transcription.vtt",
+            "type": "text/vtt",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/d76e02d5/transcription.srt",
+            "type": "application/x-subrip",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/d76e02d5/transcription.json",
+            "type": "application/json",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/d76e02d5/transcription.txt",
+            "type": "text/plain",
+            "language": null
+          },
+          {
+            "url": "https://share.transistor.fm/s/d76e02d5/transcription",
+            "type": "text/html",
+            "language": null
+          }
+        ],
+        "localPath": "content/transcripts/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+        "localUrl": "/content/transcripts/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+        "sourceType": null,
+        "note": "Transcript already exists locally."
+      },
+      "article": {
+        "status": "ready",
+        "localPath": "content/articles/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+        "localUrl": "/content/articles/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+        "note": "Learning article already exists locally."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+          "type": "transcript"
+        },
+        {
+          "label": "学习文章",
+          "url": "/content/articles/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+          "type": "article"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "借助 MCP 和 Kubernetes 重启企业 AI",
+      "descriptionZh": "当 AI agent 不再像聊天机器人，而更像同事时，会发生什么？本期 Dan 和 Chris 邀请 Stacklok CEO Craig McLuckie，一起探讨 MCP、Kubernetes、ToolHive、企业 AI，以及支撑 AI-native 应用的新基础设施。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:29:06.796Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+        "localUrl": "/content/summaries/practical-ai/2026-05-28-rebooting-enterprise-ai-with-mcp-and-kubernetes.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}

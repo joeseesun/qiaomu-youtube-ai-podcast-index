@@ -1,0 +1,253 @@
+{
+  "podcastId": "latent-space",
+  "podcastTitle": "Latent Space: The AI Engineer Podcast",
+  "fetchedAt": "2026-07-02T16:23:09.034Z",
+  "sourceRss": "https://api.substack.com/feed/podcast/1084089.rss",
+  "episodes": [
+    {
+      "id": "2026-07-01-the-coolest-diffusion-research-isnt-in-llms-evan-feinberg-sergey-edunov-genesis-molec",
+      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+      "publishedAt": "2026-07-01T14:42:39.000Z",
+      "duration": "6519",
+      "episodeUrl": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "audioUrl": "https://api.substack.com/feed/podcast/204393300/b666b202e46ea3ef2184bcc5371e5faa.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This episode has a fun personal twist: There’s a counterfactual world where I was employee #1 at Genesis Molecular AI , the company behind today’s episode. A certain introduction happened a few weeks too late and I had already happily signed at Atomwise, another ML-for-drug-discovery startup. Same problem, different company. I was certain ML was going to transform small molecule drug discovery. Early results were underwhelming. Useful at times, but nowhere near revolutionary. In the last year I’ve seen signs that ML is finally ready to deliver on my convictions from a decade ago. Genesis is one of the places that might have finally cracked this problem. I was super excited to come full circle and catch up with co-founder Evan Feinberg and CTO Sergey Edunov . If you are at all interested in small molecule drug discovery, we think you will find this fascinating! In our nearly two hour chat",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/latent-space/2026-07-01-the-coolest-diffusion-research-isnt-in-llms-evan-feinberg-sergey-edunov-genesis-molec.md",
+        "localUrl": "/content/transcripts/latent-space/2026-07-01-the-coolest-diffusion-research-isnt-in-llms-evan-feinberg-sergey-edunov-genesis-molec.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/latent-space/2026-07-01-the-coolest-diffusion-research-isnt-in-llms-evan-feinberg-sergey-edunov-genesis-molec.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/latent-space/2026-07-01-the-coolest-diffusion-research-isnt-in-llms-evan-feinberg-sergey-edunov-genesis-molec.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/latent-space/2026-07-01-the-coolest-diffusion-research-isnt-in-llms-evan-feinberg-sergey-edunov-genesis-molec.md",
+        "localUrl": "/content/summaries/latent-space/2026-07-01-the-coolest-diffusion-research-isnt-in-llms-evan-feinberg-sergey-edunov-genesis-molec.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "最酷的扩散研究并不在 LLMs 里——Evan Feinberg 与 Sergey Edunov，Genesis Molecular AI",
+      "descriptionZh": "这期节目带点个人故事：主持人本可能是 Genesis Molecular AI 的 1 号员工，但阴差阳错去了 Atomwise。节目聚焦小分子药物发现中的机器学习进展，嘉宾是联合创始人 Evan Feinberg 和 CTO Sergey Edunov，聊 Genesis 如何接近解决这一长期难题。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:27.813Z"
+      }
+    },
+    {
+      "id": "2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin-databricks",
+      "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+      "publishedAt": "2026-06-24T18:53:16.000Z",
+      "duration": "4132",
+      "episodeUrl": "https://www.latent.space/p/databricks",
+      "audioUrl": "https://api.substack.com/feed/podcast/203293676/dd012c693ce8a0df476abdb30707f110.mp3",
+      "audioType": "audio/mpeg",
+      "description": "We’re excited to have Databricks join us at AIEWF , among hundreds of the top companies in the AI Engineer ecosystem. LS subscribers can use their discount to get past the late bird pricing and access over $50k in sponsor offers ! Everyone is still talking about Satya’s Frontier Ecosystems post , but few have actually built a ( now $175 billion ) frontier ecosystem and cloud like our guests today. From open-sourcing the layer above coding agents to rethinking databases for the agent era, Databricks cofounders Matei Zaharia and Reynold Xin are pushing the company beyond the lakehouse into a full data-and-AI operating system. In this episode, Matei and Reynold join swyx at the 2026 Data + AI Summit to unpack Omnigent , LTAP , Lakebase , agent security , open formats, Mosaic , and why databases may matter more than ever once AI agents start doing real work. We go deep on Omnigent : Databric",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/latent-space/2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin-databricks.md",
+        "localUrl": "/content/transcripts/latent-space/2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin-databricks.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/latent-space/2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin-databricks.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/latent-space/2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin-databricks.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/latent-space/2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin-databricks.md",
+        "localUrl": "/content/summaries/latent-space/2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin-databricks.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "为什么前沿生态必须开放——Matei Zaharia 与 Reynold Xin，Databricks",
+      "descriptionZh": "Databricks 受邀参加 AIEWF。节目围绕 Satya 的 Frontier Ecosystems 观点展开，Matei Zaharia 和 Reynold Xin 讨论公司如何从 lakehouse 走向完整的数据与 AI 操作系统，并深入聊 Omnigent、LTAP、Lakebase、agent security、open formats、Mosaic 以及数据库在 AI agents 时代的重要性。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:27.814Z"
+      }
+    },
+    {
+      "id": "2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan",
+      "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
+      "publishedAt": "2026-06-22T21:06:55.000Z",
+      "duration": "3983",
+      "episodeUrl": "https://www.latent.space/p/gray-swan",
+      "audioUrl": "https://api.substack.com/feed/podcast/202758604/450849f7afd2f8a05057e4744d0eba68.mp3",
+      "audioType": "audio/mpeg",
+      "description": "AI Engineer World’s Fair regular bird tix will sell out ~today! Join us next week ahead of the Late Bird price hike and get >$40,000 in sponsor credits for attending ! Thanks to the US Government issuing an export control directive on Mythos and Fable , the risks of jailbreaks and (industry term) indirect prompt injection are suddenly the talk of the town, though we have been covering AI security for a few years now, from Hackaprompt to the enigmatic Pliny the Elder . Zico Kolter, member of OpenAI’s board of directors on the Safety & Security Committee , and Matt Fredrikson, CMU professor and CEO of Gray Swan , co-authored the definitive paper on Indirect Prompt Injections , and Gray Swan were cited authorities on the Mythos model card , directly investigating the exact capabilities that are under scrutiny right now: We seized the opportunity to ask them the state of AI Red Teaming, and ",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/latent-space/2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan.md",
+        "localUrl": "/content/transcripts/latent-space/2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/latent-space/2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/latent-space/2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/latent-space/2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan.md",
+        "localUrl": "/content/summaries/latent-space/2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "Mythos 之后的红队测试——Zico Kolter 与 Matt Fredrikson，Gray Swan",
+      "descriptionZh": "AI 安全话题因美国政府对 Mythos 和 Fable 的出口管制而升温。Zico Kolter 与 Matt Fredrikson 回顾间接提示注入、越狱风险及当前 AI 红队测试的最新进展，并讨论 Gray Swan 对 Mythos model card 的研究。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:32.566Z"
+      }
+    },
+    {
+      "id": "2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp",
+      "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+      "publishedAt": "2026-06-18T17:30:00.000Z",
+      "duration": "3565",
+      "episodeUrl": "https://www.latent.space/p/anj",
+      "audioUrl": "https://api.substack.com/feed/podcast/202359797/7d6863592b786561d5ce8ed820585ddb.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Last 4 days before regular tickets sell out at AI Engineer World’s Fair - this is the single biggest gathering of AI Engineers, Founders, Leaders, and Researchers in the world. Attendees get >$5000 worth of sponsor credits and talk tracks are looking FANTASTIC. Join us! The AI scaling debate always focuses on the question of “how do we get more GPUs?” but the better question may be: how do we make the most of ones we already have. The fact that a frontier lab like xAI could be running at sub-10% MFU (Model FLOPs Utilization) is just a hint at what the real problem may be. For context, older frontier-scale training runs were already much higher than 10%. GPT-3 was around 21% MFU . Gopher was around 32% . Megatron-Turing NLG was around 30% . PaLM reached around 46% . And our guest Anjney says best-in-class MFU today is closer to 60–70% . It’s not necessarily that xAI is uniquely incompeten",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/latent-space/2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
+        "localUrl": "/content/transcripts/latent-space/2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/latent-space/2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/latent-space/2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/latent-space/2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
+        "localUrl": "/content/summaries/latent-space/2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "“输出榨干学”教授——Anjney Midha，AMP",
+      "descriptionZh": "围绕 AI 扩展的讨论常聚焦“如何获得更多 GPU”，但更关键的是如何最大化现有算力。Anjney Midha 结合 xAI 的 MFU、GPT-3、Gopher、Megatron-Turing NLG、PaLM 等案例，探讨当前训练效率与模型算力利用率。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:32.566Z"
+      }
+    },
+    {
+      "id": "2026-06-17-the-self-driving-lab-joseph-krause-radical-ai",
+      "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+      "publishedAt": "2026-06-17T17:58:06.000Z",
+      "duration": "4610",
+      "episodeUrl": "https://www.latent.space/p/radical-ai",
+      "audioUrl": "https://api.substack.com/feed/podcast/202058620/cbf3e49d692276339a44a698b75ed914.mp3",
+      "audioType": "audio/mpeg",
+      "description": "On the Science pod, we’ve been covering a lot of the ground on how AI is revolutionizing STEM, but one of our favorite off the record topics since our launch is which field is harder to accelerate: math , bio , or physics ? Today we’re back in Materials Science land with Radical — Unlike biological molecules that can be represented (and predicted!) by token strings, the success of materials involve many more macro complex variables like supply chains, microstructures, and manufacturing processes . If you recall the LK99 drama of 2023 , while the basic ingredients were known, part of the confusion came from the lack of disclosure around manufacturing, and therefore defeated reproducibility. There is probably no \"one-shot\" model capable of designing a material that works perfectly at scale. How Radical is accelerating materials discovery >10x the pace of DARPA/GE MACH Joseph Krause is a ma",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/latent-space/2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md",
+        "localUrl": "/content/transcripts/latent-space/2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/latent-space/2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/latent-space/2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md",
+          "type": "summary"
+        }
+      ],
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/latent-space/2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md",
+        "localUrl": "/content/summaries/latent-space/2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      },
+      "titleZh": "自驾实验室：Joseph Krause 与 Radical AI",
+      "descriptionZh": "在这期《Latent Space》播客中，节目回到材料科学，讨论 AI 如何加速材料发现。Joseph Krause 介绍 Radical AI 如何把供应链、微结构和制造流程等复杂变量纳入研发，并谈到 LK-99 事件暴露出的可重复性问题，以及他们为何能比 DARPA/GE MACH 更快推进。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:33:37.732Z"
+      }
+    }
+  ]
+}

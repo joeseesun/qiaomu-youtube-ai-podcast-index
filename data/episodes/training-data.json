@@ -1,0 +1,288 @@
+{
+  "podcastId": "training-data",
+  "podcastTitle": "Training Data",
+  "fetchedAt": "2026-07-02T16:23:48.071Z",
+  "sourceRss": "https://feeds.megaphone.fm/trainingdata",
+  "episodes": [
+    {
+      "id": "2026-06-30-why-hardware-software-co-design-is-ais-real-100x-dylan-patel-of-semianalysis",
+      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "duration": "4214",
+      "episodeUrl": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI5467568199.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Dylan Patel, founder of SemiAnalysis, argues the biggest gains in AI don't come from faster chips, they come from software-hardware co-design. Optimizing the model, the kernels, and the silicon together turns a 2x here and a 2x there into 100x. He explains why DeepSeek's experts were shaped for Nvidia's Hopper (and why TPUs struggle to run it), why OpenAI's sparser models and Anthropic's denser ones pull them toward different hardware, and why the so-called CUDA moat was never really about CUDA. Dylan breaks down InferenceX, his living benchmark that runs the latest models on over $50M of donated hardware daily, tracking a roughly 60x annual drop in cost per unit of quality. He makes the case that inference will be a bigger market than oil, that the compute crunch persists because models expand the value of useful work faster than compute grows, and why Jensen Huang is bankrolling neoclo",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/training-data/2026-06-30-why-hardware-software-co-design-is-ais-real-100x-dylan-patel-of-semianalysis.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
+          "type": "source"
+        }
+      ],
+      "titleZh": "为什么软硬件协同设计才是 AI 真正的 100 倍：SemiAnalysis 的 Dylan Patel",
+      "descriptionZh": "Dylan Patel 认为，AI 的最大提升不只来自更快芯片，而在于模型、kernel 与硅片的协同设计。他解析 DeepSeek、OpenAI、Anthropic 与 Nvidia、TPU 的适配差异，并介绍 InferenceX 如何持续跟踪推理成本下降。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:20.448Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/training-data/2026-06-30-why-hardware-software-co-design-is-ais-real-100x-dylan-patel-of-semianalysis.md",
+        "localUrl": "/content/summaries/training-data/2026-06-30-why-hardware-software-co-design-is-ais-real-100x-dylan-patel-of-semianalysis.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "f6D_aiy8qyU",
+        "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
+        "url": "https://www.youtube.com/watch?v=f6D_aiy8qyU",
+        "matchedAt": "2026-07-03T10:02:26.185Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-24-memory-and-continual-learning-engrams-dan-biderman-and-jessy-lin",
+      "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
+      "publishedAt": "2026-06-24T14:22:00.000Z",
+      "duration": "2691",
+      "episodeUrl": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI1349350448.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Dan Biderman and Jessy Lin, co-founders of Engram, are building a neolab around memory and continual learning, which they call two sides of the same coin. Their contrarian premise: instead of stuffing ever-larger prompts into the context window or bolting on RAG, bake a team's knowledge directly into the model's weights, so it knows your company the way an employee of several years does. The payoff: matching or beating frontier models while consuming up to 100x fewer tokens. Working with partners like Microsoft, Notion, and Harvey, the team draws on roots in computational neuroscience and state-space architectures to attack what they see as the real bottleneck in AI — not raw intelligence, but memory and continual learning. In contrast to the frontier labs' race toward one ever-bigger model and AGI, Dan and Jessy imagine a world where everyone has their own model — privately trained, alw",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/training-data/2026-06-24-memory-and-continual-learning-engrams-dan-biderman-and-jessy-lin.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+          "type": "source"
+        }
+      ],
+      "titleZh": "记忆与持续学习：Engram 的 Dan Biderman 和 Jessy Lin",
+      "descriptionZh": "Engram 联合创始人 Dan Biderman 和 Jessy Lin 正在打造一个围绕记忆与持续学习的 neolab，认为二者是一体两面。他们主张把团队知识直接写入模型权重，而不是不断扩展上下文窗口或叠加 RAG，以更少 token 让模型像老员工一样了解公司。团队与 Microsoft、Notion、Harvey 合作，借助计算神经科学和 state-space 架构，试图解决 AI 的真正瓶颈：记忆与持续学习。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:26.266Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/training-data/2026-06-24-memory-and-continual-learning-engrams-dan-biderman-and-jessy-lin.md",
+        "localUrl": "/content/summaries/training-data/2026-06-24-memory-and-continual-learning-engrams-dan-biderman-and-jessy-lin.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "aiR7F4jqjXY",
+        "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
+        "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+        "matchedAt": "2026-07-03T10:02:26.185Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-16-simulating-humans-at-scale-similes-joon-sung-park",
+      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
+      "publishedAt": "2026-06-16T09:00:00.000Z",
+      "duration": "2325",
+      "episodeUrl": "https://www.youtube.com/watch?v=lfhFmwcESRw",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI1964871992.mp3",
+      "audioType": "audio/mpeg",
+      "description": "The race to build superintelligence is producing models that keep getting better at objective problems, but not at behaving like actual people. Joon Sung Park, founder and CEO of Simile and creator of Stanford's \"Smallville\" generative agents study, argues that simulating human society requires a fundamentally different kind of model. He frames today's frontier models as the \"CPU of intelligence\"—rational, superhuman at problems with right answers—and Simile as creating the \"GPU of intelligence,\" built to encode the diversity of people's values, preferences, and tastes. It simulated 1,000 Americans and predicted their behavior 85% as accurately as people reproduce their own answers. CVS uses it for concept testing; some customers simulate their own earnings calls. Joon's larger bet: a \"CERN of human society\" that could one day model bank runs, climate cooperation, or the early signals of",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/training-data/2026-06-16-simulating-humans-at-scale-similes-joon-sung-park.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
+          "type": "source"
+        }
+      ],
+      "titleZh": "大规模模拟人类：Simile 的 Joon Sung Park",
+      "descriptionZh": "Joon Sung Park 是 Simile 的创始人兼 CEO，也是 Stanford“Smallville”生成式代理研究的创建者。他认为超级智能竞赛让模型更擅长标准答案，却不擅长像真人一样行动。Simile 试图构建“智能的 GPU”，编码人们的价值、偏好与品味；它已模拟 1000 名美国人，预测行为的准确率可达 85%，并被 CVS 用于概念测试。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:26.266Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/training-data/2026-06-16-simulating-humans-at-scale-similes-joon-sung-park.md",
+        "localUrl": "/content/summaries/training-data/2026-06-16-simulating-humans-at-scale-similes-joon-sung-park.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "lfhFmwcESRw",
+        "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
+        "url": "https://www.youtube.com/watch?v=lfhFmwcESRw",
+        "matchedAt": "2026-07-03T10:02:26.185Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-11-google-deepminds-logan-kilpatrick-why-the-model-eats-the-harness",
+      "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "duration": "3069",
+      "episodeUrl": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI6013959399.mp3",
+      "audioType": "audio/mpeg",
+      "description": "The entire startup ecosystem is racing to build agent harnesses. Logan Kilpatrick, who leads Google AI Studio and the Gemini API, argues that scramble has a roughly 12-month shelf life. Models will absorb the scaffolding and run it natively, so the edge moves elsewhere. Google's own bet runs in parallel: a single agent harness, born from the Windsurf team and now called Antigravity, has become the connective tissue across search, the Gemini app, Cloud, and AI Studio — the role Gemini-the-model used to play. Logan makes the case that coding already feels like narrow superintelligence, and that \"jagged\" vertical superintelligence (in math, finance, and science) will arrive well before AGI. He argues Google's real goal is maximizing outcomes for users, not eyeball time. He unpacks Omni, the single model built to replace multiple separate systems Google once trained for text, audio, music, i",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/training-data/2026-06-11-google-deepminds-logan-kilpatrick-why-the-model-eats-the-harness.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+          "type": "source"
+        }
+      ],
+      "titleZh": "Google DeepMind 的 Logan Kilpatrick：为什么模型会“吃掉”脚手架",
+      "descriptionZh": "Logan Kilpatrick 认为，围绕 agent harness 的创业热潮寿命只有约 12 个月，模型会把这些支撑层内化并原生执行。节目还聊到 Google 的 Antigravity、Gemini、Cloud 与 AI Studio 之间的连接，以及编码已像窄领域超级智能、垂直超级智能会先于 AGI 到来。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:31.381Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/training-data/2026-06-11-google-deepminds-logan-kilpatrick-why-the-model-eats-the-harness.md",
+        "localUrl": "/content/summaries/training-data/2026-06-11-google-deepminds-logan-kilpatrick-why-the-model-eats-the-harness.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "cMAs8z2dehs",
+        "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+        "url": "https://www.youtube.com/watch?v=cMAs8z2dehs",
+        "matchedAt": "2026-07-03T10:02:26.185Z",
+        "matchScore": 1
+      }
+    },
+    {
+      "id": "2026-06-10-live-jensen-huang-on-building-the-dynamo-of-the-intelligence-age",
+      "title": "LIVE: Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "duration": "2480",
+      "episodeUrl": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+      "audioUrl": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI2705410687.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from retrieval, where data centers store files we look up, to generation, where every word, image, and video is produced in real time and customized for whoever is asking. He explains why NVIDIA's AI factories are the dynamos of this era: machines that take in electrons and send out tokens of intelligence, just as Siemens' dynamo once turned motion into electricity. Jensen frames intelligence as the third force to \"cocoon\" the planet after electricity and the internet. He describes the five-layer cake of AI investment—energy, chips, infrastructure, models, applications—and dismantles the fear that AI will erase jobs, using radiology and software engineering to show how automation raised labor demand instead of killing it. His bottom line: you won't lose your job to AI, but ",
+      "transcript": {
+        "status": "missing",
+        "remoteLinks": [],
+        "localPath": null,
+        "localUrl": null,
+        "sourceType": null,
+        "note": "No transcript metadata found in the RSS item yet."
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/training-data/2026-06-10-live-jensen-huang-on-building-the-dynamo-of-the-intelligence-age.md",
+          "type": "summary"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+          "type": "source"
+        }
+      ],
+      "titleZh": "现场：Jensen Huang 谈如何打造智能时代的“发电机”",
+      "descriptionZh": "NVIDIA 创始人兼 CEO Jensen Huang 认为，计算正从“检索”转向“生成”，数据中心也将变成智能工厂。他解释 NVIDIA AI factories 如何像发电机一样把电力变成智能，并讨论 AI 投资的五层结构、智能时代的全球意义，以及 AI 不会消灭工作而会提升需求的观点。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:31.381Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/training-data/2026-06-10-live-jensen-huang-on-building-the-dynamo-of-the-intelligence-age.md",
+        "localUrl": "/content/summaries/training-data/2026-06-10-live-jensen-huang-on-building-the-dynamo-of-the-intelligence-age.md",
+        "note": "由 RSS 节目简介生成的中文概要，等待 Transcript 补齐后可重写。"
+      },
+      "youtube": {
+        "videoId": "2UpQbeAZuqA",
+        "title": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age",
+        "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+        "matchedAt": "2026-07-03T10:02:26.186Z",
+        "matchScore": 0.857
+      }
+    }
+  ]
+}

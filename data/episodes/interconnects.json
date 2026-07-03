@@ -1,0 +1,253 @@
+{
+  "podcastId": "interconnects",
+  "podcastTitle": "Interconnects",
+  "fetchedAt": "2026-07-02T16:23:50.767Z",
+  "sourceRss": "https://api.substack.com/feed/podcast/48206.rss",
+  "episodes": [
+    {
+      "id": "2026-06-22-glm-52-is-the-step-change-for-open-agents",
+      "title": "GLM-5.2 is the step change for open agents",
+      "publishedAt": "2026-06-22T14:52:45.000Z",
+      "duration": "567",
+      "episodeUrl": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "audioUrl": "https://api.substack.com/feed/podcast/203035259/5b249f422eb8741731a676e7d5324dfc.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Housekeeping: Following my “ State of the blog ” post last week, noting a slight increase in paid features, it’s a good time to remind folks that I offer group subscriptions with larger discounts proportional to the number of seats. I also released a new paper today on open RL recipes for terminal agents, read more here . A bit over a week ago, when the AI world was still reeling from the shocking export restriction, and effective banning , of Claude Fable 5 , Z.ai released their latest model, GLM-5.2. This model was rolled out unusually on a Saturday, June 13th, to GLM Coding Plan members. This is an unusual release practice, normally when an AI model is released on a weekend it’s for a weird reason (most famously, Llama 4 ). In this case, it seemed like Z.ai was excited to capitalize on the zeitgeist of “Anthropic being anti open-science” with their silent safeguards on AI researchers.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/interconnects/2026-06-22-glm-52-is-the-step-change-for-open-agents.md",
+        "localUrl": "/content/transcripts/interconnects/2026-06-22-glm-52-is-the-step-change-for-open-agents.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/interconnects/2026-06-22-glm-52-is-the-step-change-for-open-agents.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/interconnects/2026-06-22-glm-52-is-the-step-change-for-open-agents.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "GLM-5.2 是开源智能体的关键跃迁",
+      "descriptionZh": "在介绍博客更新和一篇关于终端智能体开源 RL 配方的新论文后，作者谈到 Z.ai 在 6 月 13 日周六发布的 GLM-5.2。文章聚焦这次少见的周末发布、模型面向 GLM Coding Plan 成员的推出方式，以及它如何借 Anthropic 被批评“反开放科学”的舆论背景获得关注。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:38.240Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/interconnects/2026-06-22-glm-52-is-the-step-change-for-open-agents.md",
+        "localUrl": "/content/summaries/interconnects/2026-06-22-glm-52-is-the-step-change-for-open-agents.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-19-banning-open-source-ai-would-be-a-mistake",
+      "title": "Banning Open Source AI Would Be A Mistake",
+      "publishedAt": "2026-06-19T13:00:00.000Z",
+      "duration": "410",
+      "episodeUrl": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+      "audioUrl": "https://api.substack.com/feed/podcast/202597944/a4283684dd3feb8a35351481103e46a1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience. The gatekeepers — the many media outlets we pitched it to — passed on publishing it. Luckily, we have our own platforms to get the message out. Please help us forward this op-ed to any one you know who is on the fence about open source AI or new to the topic and want to learn more. Thank you. The energy to regulate AI is in the air in Washington. With the recently signed executive order to review AI models, a congressional proposal to legislate AI further, the government possibly taking shares of frontier AI labs, and last Friday’s action prohibiting foreign nationals anywhere from accessing Anthropic’s most advanced models, this may be the opening salvo of more AI regulation to come. We are afraid future actions could inadvertently or intentionally regulate or even ban op",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/interconnects/2026-06-19-banning-open-source-ai-would-be-a-mistake.md",
+        "localUrl": "/content/transcripts/interconnects/2026-06-19-banning-open-source-ai-would-be-a-mistake.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/interconnects/2026-06-19-banning-open-source-ai-would-be-a-mistake.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/interconnects/2026-06-19-banning-open-source-ai-would-be-a-mistake.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "禁止开源 AI 会是个错误",
+      "descriptionZh": "这篇文章原本是作者与 Kevin Xu 合写、面向大众的评论稿，讨论华盛顿日益升温的 AI 监管。内容提到最近的行政令、国会提案，以及 Anthropic 最先进模型对外国人访问受限等举措，作者担心未来的政策可能会无意或有意地限制，甚至禁止开源 AI。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:38.241Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/interconnects/2026-06-19-banning-open-source-ai-would-be-a-mistake.md",
+        "localUrl": "/content/summaries/interconnects/2026-06-19-banning-open-source-ai-would-be-a-mistake.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-17-state-of-the-blog-mid-2026",
+      "title": "State of the blog, mid-2026",
+      "publishedAt": "2026-06-17T14:29:06.000Z",
+      "duration": "379",
+      "episodeUrl": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+      "audioUrl": "https://api.substack.com/feed/podcast/202031667/fc90a06fbfcaff3e080342d22163098e.mp3",
+      "audioType": "audio/mpeg",
+      "description": "As I navigate my career change after Ai2 , I wanted to share my views of how this blog relates to my missions and broader work. In my farewell post, I summarized my three goals right now as: * Provide clarity in the evolution of frontier models. * Create a vibrant and diverse open (model) ecosystem. * To build institutions that make these goals possible. Within this, Interconnects is at its core a bit different than many of the highly-polished, professional newsletters on this platform – and this is becoming intentional. How Interconnects fits into my career goals Interconnects is the tip of the spear of all of my missions in AI. It is meant to start a conversation and to let the reader into the mind of someone at the frontier. This insight makes the writing sometimes a bit raw, sometimes a bit too technical, but it is the map of how I progress my thinking in the ever changing world. Thi",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/interconnects/2026-06-17-state-of-the-blog-mid-2026.md",
+        "localUrl": "/content/transcripts/interconnects/2026-06-17-state-of-the-blog-mid-2026.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/interconnects/2026-06-17-state-of-the-blog-mid-2026.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/interconnects/2026-06-17-state-of-the-blog-mid-2026.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "博客现状：2026年中",
+      "descriptionZh": "在离开 Ai2、职业转向之际，作者回顾 Interconnects 与自己使命的关系：厘清前沿模型演进、建设开放模型生态，并打造支撑这些目标的机构。这期也谈到博客风格与更“专业”通讯的区别。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:42.562Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/interconnects/2026-06-17-state-of-the-blog-mid-2026.md",
+        "localUrl": "/content/summaries/interconnects/2026-06-17-state-of-the-blog-mid-2026.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-16-frontier-post-training-recipe-review-with-finbarr-timbers",
+      "title": "Frontier post-training recipe review with Finbarr Timbers",
+      "publishedAt": "2026-06-16T13:29:30.000Z",
+      "duration": "3396",
+      "episodeUrl": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+      "audioUrl": "https://api.substack.com/feed/podcast/201754262/05298fe6e0376f9c745992ec5078cec1.mp3",
+      "audioType": "audio/mpeg",
+      "description": "As I’ve been recapping fundamentals of post-training to wrap up my RLHF / Post-training book I knew I needed to get Finbarr Timbers back on the podcast to talk about the state of play. Over the last few months we’ve had many discussions on what we’d need to do to take an Olmo-style recipe to the frontier, supported by Finbarr’s extensive reading of recent model technical reports. To prepare for this, I put together a summary slide deck on the key post-training recipes historically — the path from InstructGPT to today — and today — the key open frontier models. This deck is summarized below as the technical summary, but we do spend 20-35 minutes on it in the podcast, so watching on YouTube is likely the best experience for this one. I previously interviewed Finbarr in December of 2024, shortly after the release of o1 and Tülu 3 (and before he joined Ai2) on the “We are so back” era of RL.",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/interconnects/2026-06-16-frontier-post-training-recipe-review-with-finbarr-timbers.md",
+        "localUrl": "/content/transcripts/interconnects/2026-06-16-frontier-post-training-recipe-review-with-finbarr-timbers.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/interconnects/2026-06-16-frontier-post-training-recipe-review-with-finbarr-timbers.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/interconnects/2026-06-16-frontier-post-training-recipe-review-with-finbarr-timbers.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "与 Finbarr Timbers 一起回顾前沿后训练配方",
+      "descriptionZh": "为收尾 RLHF/Post-training 书稿，作者邀请 Finbarr Timbers 回顾后训练的现状，并讨论如何把 Olmo 风格方案推向前沿。节目梳理了从 InstructGPT 到当下开放前沿模型的关键路线，适合结合 YouTube 观看。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:42.562Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/interconnects/2026-06-16-frontier-post-training-recipe-review-with-finbarr-timbers.md",
+        "localUrl": "/content/summaries/interconnects/2026-06-16-frontier-post-training-recipe-review-with-finbarr-timbers.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    },
+    {
+      "id": "2026-06-09-claude-fable-5-and-new-ai-safety-fables",
+      "title": "Claude Fable 5 and new AI safety fables",
+      "publishedAt": "2026-06-09T22:59:35.000Z",
+      "duration": "731",
+      "episodeUrl": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+      "audioUrl": "https://api.substack.com/feed/podcast/201364574/88b81fec1643eabf498ec69cbe2fbbad.mp3",
+      "audioType": "audio/mpeg",
+      "description": "Edit Jun. 11: Anthropic changed their silent model manipulation of AI research queries to also use a classifier like the other safety domains. This addresses a key concern I had in the mistreatment of “safety” in the release, and props to Anthropic for a quick change, but it does not fully address the trust that has been broken. I shared more reflections here . Today, Anthropic released their Claude Fable 5 model to consumer and enterprise audiences. This is the general-access variant of their Mythos-class models. With it, Anthropic rolled out a series of safety measures — some explicitly called out to users and some modifying the model without telling the user. It should be less surprising than it is that the next major step in AI capabilities came with heavier-handed safety measures indicating Anthropic’s intention to protect, or entrench, their current lead. The unevenly applied safet",
+      "transcript": {
+        "status": "ready",
+        "remoteLinks": [],
+        "localPath": "content/transcripts/interconnects/2026-06-09-claude-fable-5-and-new-ai-safety-fables.md",
+        "localUrl": "/content/transcripts/interconnects/2026-06-09-claude-fable-5-and-new-ai-safety-fables.md",
+        "sourceType": "internal-openapi",
+        "note": "由内部转写流程生成。"
+      },
+      "article": {
+        "status": "missing",
+        "localPath": null,
+        "localUrl": null,
+        "note": "Article generation requires transcript text."
+      },
+      "resources": [
+        {
+          "label": "Transcript",
+          "url": "/content/transcripts/interconnects/2026-06-09-claude-fable-5-and-new-ai-safety-fables.md",
+          "type": "transcript"
+        },
+        {
+          "label": "总结笔记",
+          "url": "/content/summaries/interconnects/2026-06-09-claude-fable-5-and-new-ai-safety-fables.md",
+          "type": "summary"
+        }
+      ],
+      "titleZh": "Claude Fable 5 与新的 AI 安全寓言",
+      "descriptionZh": "Anthropic 发布面向消费与企业的 Claude Fable 5，并同步引入多项安全措施，部分会直接告知用户，部分则在不告知的情况下改变模型行为。节目讨论这次发布中安全策略的争议、对 AI 研究查询的处理，以及它对信任与竞争格局的影响。",
+      "translation": {
+        "provider": "aigocode-openai",
+        "model": "gpt-5.4-mini",
+        "updatedAt": "2026-07-02T17:36:47.318Z"
+      },
+      "summary": {
+        "status": "ready",
+        "localPath": "content/summaries/interconnects/2026-06-09-claude-fable-5-and-new-ai-safety-fables.md",
+        "localUrl": "/content/summaries/interconnects/2026-06-09-claude-fable-5-and-new-ai-safety-fables.md",
+        "note": "由本地 Transcript 生成的中文总结。"
+      }
+    }
+  ]
+}
