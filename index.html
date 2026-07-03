@@ -20,11 +20,9 @@
       <div class="brand-block">
         <a class="brand-mark" href="/" aria-label="AI 播客索引首页">
           <svg aria-hidden="true" viewBox="0 0 64 64" focusable="false">
-            <rect x="5.5" y="5.5" width="53" height="53" rx="12.5"/>
-            <path class="brand-play" d="M18 41V24.5c0-3.6 3.9-5.8 7-3.9l13.6 8.2c2.9 1.7 2.9 5.9 0 7.6L25 44.7c-3.1 1.9-7-.4-7-3.7Z"/>
-            <path class="brand-cutout" d="M23.2 37.8V27.7c0-1 .8-1.6 1.7-1.1l8.5 5.1c.8.5.8 1.6 0 2.1l-8.5 5.1c-.9.5-1.7-.1-1.7-1.1Z"/>
-            <path class="brand-wave" d="M43.8 19.2c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v25.6c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V19.2Zm-8.2 2.6c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v20.4c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V21.8Zm-24 5.2c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v10c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V27Z"/>
-            <circle class="brand-dot" cx="49" cy="15" r="4.2"/>
+            <rect x="8" y="8" width="48" height="48" rx="13"/>
+            <path class="brand-play" d="M24 22.5v19l16-9.5-16-9.5Z"/>
+            <path class="brand-wave" d="M44 24v16"/>
           </svg>
         </a>
         <div>
@@ -91,27 +89,6 @@
         <div class="empty-state" id="empty-state" hidden>
           <h3>没有匹配的播客</h3>
           <p>换一个关键词，或者先回到全部索引。</p>
-        </div>
-      </section>
-
-      <section class="notes-band" aria-labelledby="notes-title">
-        <div>
-          <p class="eyebrow">Update Notes</p>
-          <h2 id="notes-title">更新方式</h2>
-        </div>
-        <div class="notes-grid">
-          <article>
-            <h3>数据可维护</h3>
-            <p>播客清单在 <code>data/podcasts.json</code>。新增条目后运行 <code>npm run check</code>，通过后即可部署。</p>
-          </article>
-          <article>
-            <h3>不伪造热度</h3>
-            <p>站内只展示经过来源页确认的频道、官网和播客入口；订阅数、播放量这类会漂移的数据不写死。</p>
-          </article>
-          <article>
-            <h3>后续可扩展</h3>
-            <p>如果要自动抓最近一期，可以基于现有 RSS 字段加构建脚本，再生成最新更新时间。</p>
-          </article>
         </div>
       </section>
     </main>
