@@ -238,11 +238,9 @@ function siteHeader(prefix = "") {
 
 function brandIcon() {
   return `<svg aria-hidden="true" viewBox="0 0 64 64" focusable="false">
-    <rect x="5.5" y="5.5" width="53" height="53" rx="12.5"/>
-    <path class="brand-play" d="M18 41V24.5c0-3.6 3.9-5.8 7-3.9l13.6 8.2c2.9 1.7 2.9 5.9 0 7.6L25 44.7c-3.1 1.9-7-.4-7-3.7Z"/>
-    <path class="brand-cutout" d="M23.2 37.8V27.7c0-1 .8-1.6 1.7-1.1l8.5 5.1c.8.5.8 1.6 0 2.1l-8.5 5.1c-.9.5-1.7-.1-1.7-1.1Z"/>
-    <path class="brand-wave" d="M43.8 19.2c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v25.6c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V19.2Zm-8.2 2.6c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v20.4c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V21.8Zm-24 5.2c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2v10c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2V27Z"/>
-    <circle class="brand-dot" cx="49" cy="15" r="4.2"/>
+    <rect x="8" y="8" width="48" height="48" rx="13"/>
+    <path class="brand-play" d="M24 22.5v19l16-9.5-16-9.5Z"/>
+    <path class="brand-wave" d="M44 24v16"/>
   </svg>`;
 }
 
